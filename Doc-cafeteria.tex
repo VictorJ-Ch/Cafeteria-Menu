@@ -22,28 +22,38 @@
 \tableofcontents
 \newpage
 
-\section {REQUERIMIENTO FUNCIONAL}
+\section {REQUERIMIENTOS FUNCIONALES}
+
+\subsection {Cliente}
 \begin{itemize}
-  \item Guardado de alimentos en canasta.
-  \item Guardado de alimentos en las categorías.
-	\item Guardado de los turnos que se dieron.
-	\item Reinicio de los turnos que se dan después de 24 horas.
-	\item Necesidad de obtener otro turno, por olvido o despiste.
-	\item Acceso a internet.
-	\item Horario de uso de app (con margen para proximos pedidos).
+  \item Seleccionar categorias.
+	\item Seleccionar la comida.
+	\item Revisar el pedido.
+	\item Selecciona complementos al pedido.
+	\item Confirmar pedido.
+	\item Editar pedido.
+	\item Editar cantidades de items.
+	\item Obtener turno.
+	\item Guardar turno en dispositivo.
+	\item Recibir notificaciones del estado del pedido.
+	\item Regresar al menu.
+\end{itemize}
+
+\subsection {Cocina}
+\begin{itemize}
+	\item Recibe el pedido.
+	\item Selecciona el  pedido.
+	\item marcar pedido como completado.
+	\item Notificar que el pedido ya está listo.
 \end{itemize}
 
 \section {REQUERIMIENTO NO FUNCIONAL}
 \begin{itemize}
-  \item Sistema de desarrollo en Visual Studio Code.
-	\item Img de alimentos.
-	\item QR Code
-	\item Noti. del estado de pedidos.
-	\item Resenas de clientes
-	\item IU intuitiva.
-	\item IX agradable.
-	\item disponibilidad de aplicacion.
-	\item compatibilidad con todas las pantallas.
+  \item Desarrollo en VSC.
+	\item Framework Cake php.
+	\item Uso de internet para la app.
+	\item Acceso al carrete (Guardado del pedido).
+	\item Acceso a las notificaciones (estado de los pedidos).
 \end{itemize}
 
 \newpage
@@ -52,7 +62,7 @@
 
 \begin{figure}[htbp]
 	\centering
-		\includegraphics[width=0.035\textwidth]{./Assets/Img/Diagrama-cafe-app.jpg}
+		\includegraphics[width=0.5\textwidth]{./Assets/Img/Diagrama-casos-uso.jpg}
 	\caption{Diagrama de flujo}
 	\label{fig:Diagrama-cafe-app}
 \end{figure}
@@ -60,6 +70,7 @@
 
 \subsection {Flujo ideal}
 \begin{itemize}
+  \item Escanear QR
   \item Seleccionar una categoría.
   \item Seleccionar un alimento.
   \item Agregar a la canasta.
@@ -69,24 +80,22 @@
 
 \subsection {Flujo alterno}
 \begin{itemize}
+	\item Escanear QR.
   \item Seleccionar una categoría.
-		\subitem Usar la barra de busqueda
 		\subitem Revisar tu canasta.
   \item Seleccionar un alimento.
-		\subitem Usar la barra de busqueda
-		\subitem Revisar la información nutrimental del alimento.
-		\subitem Ver resenas.
+		\subitem Revisar la información del alimento.
 		\subitem Agregar el alimento a la canasta.
 		\subitem Revisar la canasta.
 		\subitem Regresar a la selección de categorías.
-  \item Agregar a la canasta.
-		\subitem Seguir comprando.
+  \item Revisar pedido.
 		\subitem Regresar a la selección de categorías.
-		\subitem Revisar la canasta.
-	\item Revisar su pedido.
-		\subitem Regresar a la selección de categorías.
-		\subitem Regresar a la selección de alimentos.
+		\subitem Confirmar pedido.
+		\subitem Editar cantidades de item.
+		\subitem Eliminar items.
 	\item Obtener tu turno.
+		\subitem Guardar turno en carrete.
+		\subitem Regresar al menu.
 \end{itemize}
 
 \end{document}
