@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-09-25T14:12:05.126Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Safari/605.1.15 OPX/2.1.0" etag="2R27QWn74gExbr8Z8Yb5" version="21.7.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-25T14:14:26.232Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Safari/605.1.15 OPX/2.1.0" etag="1JjTcRtGtb-bI7Znhxp7" version="21.7.5" type="github">
   <diagram name="Page-1" id="6133507b-19e7-1e82-6fc7-422aa6c4b21f">
-    <mxGraphModel dx="816" dy="511" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#2bff00" math="0" shadow="0">
+    <mxGraphModel dx="1143" dy="715" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#2bff00" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -87,7 +87,7 @@
           <mxGeometry y="104" width="160" height="26" as="geometry" />
         </mxCell>
         <mxCell id="V8HqpkSFx4EVLyuixHh1-12" value="FOOD CATEGORY" style="swimlane;html=1;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=#ffffff;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fillColor=none;fontFamily=Verdana;fontSize=12" vertex="1" parent="1">
-          <mxGeometry x="330" y="782" width="160" height="90" as="geometry">
+          <mxGeometry x="270" y="840" width="160" height="90" as="geometry">
             <mxRectangle x="510" y="260" width="80" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -102,6 +102,15 @@
         </mxCell>
         <mxCell id="V8HqpkSFx4EVLyuixHh1-21" value="ORDER &amp;amp;&amp;amp; FOOD———&lt;br&gt;&amp;nbsp;- Order ID&lt;br&gt;- Quantity&lt;br&gt;- Food ID&lt;br&gt;&amp;nbsp;- Price" style="rhombus;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="760" y="590" width="160" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="V8HqpkSFx4EVLyuixHh1-26" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="V8HqpkSFx4EVLyuixHh1-24" target="V8HqpkSFx4EVLyuixHh1-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="V8HqpkSFx4EVLyuixHh1-24" value="CAETGORY &amp;amp;&amp;amp; FOOD&lt;br&gt;———&lt;br&gt;- Food ID&lt;br&gt;- Category ID" style="rhombus;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="500" y="821" width="200" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="V8HqpkSFx4EVLyuixHh1-25" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.94;entryY=0.481;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="I0qqI5XusfE8nYUbzfX7-55" target="V8HqpkSFx4EVLyuixHh1-24">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
