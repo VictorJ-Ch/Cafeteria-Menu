@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-09-25T18:58:42.570Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="yumC-tFXy_HaU28u0tJk" version="21.8.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-25T19:00:35.423Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="bDap77O8nI2UkLHvVvZr" version="21.8.2" type="github">
   <diagram name="Page-1" id="6133507b-19e7-1e82-6fc7-422aa6c4b21f">
-    <mxGraphModel dx="1685" dy="976" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1007" dy="562" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -42,7 +42,7 @@
         <mxCell id="WpRFSHZf8TX5jDKXcikw-1" value="while&lt;br&gt;user !== user || password !== password" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1540" y="740" width="200" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="WpRFSHZf8TX5jDKXcikw-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="WpRFSHZf8TX5jDKXcikw-3" target="WpRFSHZf8TX5jDKXcikw-5">
+        <mxCell id="WpRFSHZf8TX5jDKXcikw-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" edge="1" parent="1" source="WpRFSHZf8TX5jDKXcikw-3" target="WpRFSHZf8TX5jDKXcikw-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WpRFSHZf8TX5jDKXcikw-3" value="Print &quot;Enter email&quot;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
@@ -51,22 +51,25 @@
         <mxCell id="WpRFSHZf8TX5jDKXcikw-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="WpRFSHZf8TX5jDKXcikw-5" target="WpRFSHZf8TX5jDKXcikw-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="WpRFSHZf8TX5jDKXcikw-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WpRFSHZf8TX5jDKXcikw-5" target="WpRFSHZf8TX5jDKXcikw-15">
+        <mxCell id="WpRFSHZf8TX5jDKXcikw-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" edge="1" parent="1" source="WpRFSHZf8TX5jDKXcikw-5" target="WpRFSHZf8TX5jDKXcikw-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WpRFSHZf8TX5jDKXcikw-5" value="if&lt;br&gt;email == user.email" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1375" y="820" width="130" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="WpRFSHZf8TX5jDKXcikw-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="WpRFSHZf8TX5jDKXcikw-6" target="WpRFSHZf8TX5jDKXcikw-11">
+        <mxCell id="WpRFSHZf8TX5jDKXcikw-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" edge="1" parent="1" source="WpRFSHZf8TX5jDKXcikw-6" target="WpRFSHZf8TX5jDKXcikw-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TzWLz_wqdoydFfrb-Z48-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" edge="1" parent="1" source="WpRFSHZf8TX5jDKXcikw-6" target="WpRFSHZf8TX5jDKXcikw-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WpRFSHZf8TX5jDKXcikw-6" value="Print &quot;Incorrect email&quot;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
           <mxGeometry x="1160" y="900" width="170" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="WpRFSHZf8TX5jDKXcikw-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="WpRFSHZf8TX5jDKXcikw-1" target="WpRFSHZf8TX5jDKXcikw-3">
+        <mxCell id="WpRFSHZf8TX5jDKXcikw-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" edge="1" parent="1" source="WpRFSHZf8TX5jDKXcikw-1" target="WpRFSHZf8TX5jDKXcikw-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="WpRFSHZf8TX5jDKXcikw-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="WpRFSHZf8TX5jDKXcikw-10">
+        <mxCell id="WpRFSHZf8TX5jDKXcikw-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" edge="1" parent="1" source="WpRFSHZf8TX5jDKXcikw-10">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1640" y="710" as="targetPoint" />
             <Array as="points">
@@ -82,7 +85,7 @@
         <mxCell id="WpRFSHZf8TX5jDKXcikw-10" value="Print &quot;If you&#39;re not in, register now&quot;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
           <mxGeometry x="1160" y="1020" width="170" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="WpRFSHZf8TX5jDKXcikw-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="WpRFSHZf8TX5jDKXcikw-11" target="WpRFSHZf8TX5jDKXcikw-10">
+        <mxCell id="WpRFSHZf8TX5jDKXcikw-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" edge="1" parent="1" source="WpRFSHZf8TX5jDKXcikw-11" target="WpRFSHZf8TX5jDKXcikw-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WpRFSHZf8TX5jDKXcikw-11" value="if&amp;nbsp;&lt;br&gt;attemps &amp;gt;= 3" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -94,7 +97,7 @@
         <mxCell id="WpRFSHZf8TX5jDKXcikw-15" value="Send at &quot;user.email&quot;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
           <mxGeometry x="1355" y="900" width="170" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="WpRFSHZf8TX5jDKXcikw-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="WpRFSHZf8TX5jDKXcikw-19">
+        <mxCell id="WpRFSHZf8TX5jDKXcikw-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" edge="1" parent="1" source="WpRFSHZf8TX5jDKXcikw-19">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1640" y="710" as="targetPoint" />
             <Array as="points">
