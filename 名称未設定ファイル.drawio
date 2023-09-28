@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-09-28T19:20:09.308Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="yWelyhvxikslcSbFWBPs" version="21.8.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-28T19:23:15.418Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="bVFj7aixtLpdZBzE4wf1" version="21.8.2" type="github">
   <diagram name="Page-1" id="6133507b-19e7-1e82-6fc7-422aa6c4b21f">
-    <mxGraphModel dx="895" dy="2732" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+    <mxGraphModel dx="537" dy="2519" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -573,9 +573,6 @@
             <mxPoint x="1309.6" y="-1870" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0b3EeHPLSl8qr2C3AWyC-25" value="Kitchen" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1250" y="-1920" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="0b3EeHPLSl8qr2C3AWyC-26" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="920" y="-1700" as="sourcePoint" />
@@ -715,8 +712,11 @@
             <mxPoint x="-40" y="20" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0b3EeHPLSl8qr2C3AWyC-74" value="RECEPTIONIST" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="1100" y="-1950" width="30" height="60" as="geometry" />
+        <mxCell id="0b3EeHPLSl8qr2C3AWyC-74" value="KITCHEN" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="1290" y="-1950" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0b3EeHPLSl8qr2C3AWyC-76" value="RECEPTIONIST" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="1110" y="-1940" width="30" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
