@@ -331,13 +331,13 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 
  [2]
 
-! LaTeX Error: Invalid UTF-8 byte sequence (ï¿½li).
+! LaTeX Error: Invalid UTF-8 byte sequence (áli).
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.53 	\item Notificar que el pedido ya estï¿½ li
+l.53 	\item Notificar que el pedido ya está li
                                               sto.
 The document does not appear to be in UTF-8 encoding.
 Try adding \UseRawInputEncoding as the first line of the file
@@ -385,13 +385,13 @@ Repositories/Amerike/3rdSemester/Cafeteria-Menu/Assets/Img/DiagramaCasos/Diagra
 ma-casos-receptionist.png> <C:/Users/victo/Documents/Repositories/Amerike/3rdSe
 mester/Cafeteria-Menu/Assets/Img/DiagramaCasos/Diagrama-casos-kitchen.png>]
 
-! LaTeX Error: Invalid UTF-8 byte sequence (ï¿½a.).
+! LaTeX Error: Invalid UTF-8 byte sequence (ía.).
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.94   \item Seleccionar una categorï¿½a.
+l.94   \item Seleccionar una categoría.
                                        
 The document does not appear to be in UTF-8 encoding.
 Try adding \UseRawInputEncoding as the first line of the file
@@ -400,13 +400,13 @@ in the document preamble.
 Alternatively, save the file in UTF-8 using your editor or another tool
 
 
-! LaTeX Error: Invalid UTF-8 byte sequence (ï¿½a.).
+! LaTeX Error: Invalid UTF-8 byte sequence (ía.).
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.105   \item Seleccionar una categorï¿½a.
+l.105   \item Seleccionar una categoría.
                                         
 The document does not appear to be in UTF-8 encoding.
 Try adding \UseRawInputEncoding as the first line of the file
@@ -415,13 +415,13 @@ in the document preamble.
 Alternatively, save the file in UTF-8 using your editor or another tool
 
 
-! LaTeX Error: Invalid UTF-8 byte sequence (ï¿½nde).
+! LaTeX Error: Invalid UTF-8 byte sequence (ónde).
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.108 		\subitem Revisar la informaciï¿½n de
+l.108 		\subitem Revisar la información de
                                           l alimento.
 The document does not appear to be in UTF-8 encoding.
 Try adding \UseRawInputEncoding as the first line of the file
@@ -430,14 +430,14 @@ in the document preamble.
 Alternatively, save the file in UTF-8 using your editor or another tool
 
 
-! LaTeX Error: Invalid UTF-8 byte sequence (ï¿½nde).
+! LaTeX Error: Invalid UTF-8 byte sequence (ónde).
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.111 		\subitem Regresar a la selecciï¿½n de
-                                            categorï¿½as.
+l.111 		\subitem Regresar a la selección de
+                                            categorías.
 The document does not appear to be in UTF-8 encoding.
 Try adding \UseRawInputEncoding as the first line of the file
 or specify an encoding such as \usepackage [latin1]{inputenc}
@@ -445,13 +445,13 @@ in the document preamble.
 Alternatively, save the file in UTF-8 using your editor or another tool
 
 
-! LaTeX Error: Invalid UTF-8 byte sequence (ï¿½as).
+! LaTeX Error: Invalid UTF-8 byte sequence (ías).
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.111 ...tem Regresar a la selecciï¿½n de categorï¿½as
+l.111 ...tem Regresar a la selección de categorías
                                                   .
 The document does not appear to be in UTF-8 encoding.
 Try adding \UseRawInputEncoding as the first line of the file
@@ -460,14 +460,14 @@ in the document preamble.
 Alternatively, save the file in UTF-8 using your editor or another tool
 
 
-! LaTeX Error: Invalid UTF-8 byte sequence (ï¿½nde).
+! LaTeX Error: Invalid UTF-8 byte sequence (ónde).
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.113 		\subitem Regresar a la selecciï¿½n de
-                                            categorï¿½as.
+l.113 		\subitem Regresar a la selección de
+                                            categorías.
 The document does not appear to be in UTF-8 encoding.
 Try adding \UseRawInputEncoding as the first line of the file
 or specify an encoding such as \usepackage [latin1]{inputenc}
@@ -475,13 +475,13 @@ in the document preamble.
 Alternatively, save the file in UTF-8 using your editor or another tool
 
 
-! LaTeX Error: Invalid UTF-8 byte sequence (ï¿½as).
+! LaTeX Error: Invalid UTF-8 byte sequence (ías).
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.113 ...tem Regresar a la selecciï¿½n de categorï¿½as
+l.113 ...tem Regresar a la selección de categorías
                                                   .
 The document does not appear to be in UTF-8 encoding.
 Try adding \UseRawInputEncoding as the first line of the file
