@@ -7,3 +7,9 @@
   <a href="./Docs/Cafeteria-Menu/Doc-cafeteria.pdf">Cafeteria-Menu PDF file</a>
 </div>
 </p>
+<h3 align="left">Art docs</h3>
+<p>
+<div style="text-align: left;">
+  <a href="https://drive.google.com/drive/folders/1AuNMp59X0YJqxR1alR2jJUgEV7NNbN8a?usp=sharing">Cover .psd file</a>
+</div>
+</p>
