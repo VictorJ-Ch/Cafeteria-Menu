@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.5) (preloaded format=pdflatex 2023.9.30)  30 SEP 2023 22:56
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.5) (preloaded format=pdflatex 2023.9.30)  30 SEP 2023 23:47
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -331,13 +331,13 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 
  [2]
 
-! LaTeX Error: Invalid UTF-8 byte sequence (ï¿½li).
+! LaTeX Error: Invalid UTF-8 byte sequence (áli).
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.53 	\item Notificar que el pedido ya estï¿½ li
+l.53 	\item Notificar que el pedido ya está li
                                               sto.
 The document does not appear to be in UTF-8 encoding.
 Try adding \UseRawInputEncoding as the first line of the file
@@ -347,7 +347,7 @@ Alternatively, save the file in UTF-8 using your editor or another tool
 
 [3] [4]
 <C:/Users/victo/Documents/Repositories/Amerike/3rdSemester/Cafeteria-Menu/Asset
-s/Img/DiagramaCasos/Diagrama-casos-user.png, id=90, 457.71pt x 332.442pt>
+s/Img/DiagramaCasos/Diagrama-casos-user.png, id=95, 457.71pt x 332.442pt>
 File: C:/Users/victo/Documents/Repositories/Amerike/3rdSemester/Cafeteria-Menu/
 Assets/Img/DiagramaCasos/Diagrama-casos-user.png Graphic file (type png)
 <use C:/Users/victo/Documents/Repositories/Amerike/3rdSemester/Cafeteria-Menu/A
@@ -357,7 +357,7 @@ ter/Cafeteria-Menu/Assets/Img/DiagramaCasos/Diagrama-casos-user.png  used on in
 put line 70.
 (pdftex.def)             Requested size: 390.0pt x 283.27197pt.
 <C:/Users/victo/Documents/Repositories/Amerike/3rdSemester/Cafeteria-Menu/Asset
-s/Img/DiagramaCasos/Diagrama-casos-receptionist.png, id=92, 309.5565pt x 102.38
+s/Img/DiagramaCasos/Diagrama-casos-receptionist.png, id=97, 309.5565pt x 102.38
 25pt>
 File: C:/Users/victo/Documents/Repositories/Amerike/3rdSemester/Cafeteria-Menu/
 Assets/Img/DiagramaCasos/Diagrama-casos-receptionist.png Graphic file (type png
@@ -369,7 +369,7 @@ ter/Cafeteria-Menu/Assets/Img/DiagramaCasos/Diagrama-casos-receptionist.png  us
 ed on input line 77.
 (pdftex.def)             Requested size: 390.0pt x 128.99794pt.
 <C:/Users/victo/Documents/Repositories/Amerike/3rdSemester/Cafeteria-Menu/Asset
-s/Img/DiagramaCasos/Diagrama-casos-kitchen.png, id=93, 325.81725pt x 105.39375p
+s/Img/DiagramaCasos/Diagrama-casos-kitchen.png, id=98, 325.81725pt x 105.39375p
 t>
 File: C:/Users/victo/Documents/Repositories/Amerike/3rdSemester/Cafeteria-Menu/
 Assets/Img/DiagramaCasos/Diagrama-casos-kitchen.png Graphic file (type png)
@@ -385,13 +385,13 @@ Repositories/Amerike/3rdSemester/Cafeteria-Menu/Assets/Img/DiagramaCasos/Diagra
 ma-casos-receptionist.png> <C:/Users/victo/Documents/Repositories/Amerike/3rdSe
 mester/Cafeteria-Menu/Assets/Img/DiagramaCasos/Diagrama-casos-kitchen.png>]
 
-! LaTeX Error: Invalid UTF-8 byte sequence (ï¿½a.).
+! LaTeX Error: Invalid UTF-8 byte sequence (ía.).
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.94   \item Seleccionar una categorï¿½a.
+l.94   \item Seleccionar una categoría.
                                        
 The document does not appear to be in UTF-8 encoding.
 Try adding \UseRawInputEncoding as the first line of the file
@@ -400,13 +400,13 @@ in the document preamble.
 Alternatively, save the file in UTF-8 using your editor or another tool
 
 
-! LaTeX Error: Invalid UTF-8 byte sequence (ï¿½a.).
+! LaTeX Error: Invalid UTF-8 byte sequence (ía.).
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.105   \item Seleccionar una categorï¿½a.
+l.105   \item Seleccionar una categoría.
                                         
 The document does not appear to be in UTF-8 encoding.
 Try adding \UseRawInputEncoding as the first line of the file
@@ -415,13 +415,13 @@ in the document preamble.
 Alternatively, save the file in UTF-8 using your editor or another tool
 
 
-! LaTeX Error: Invalid UTF-8 byte sequence (ï¿½nde).
+! LaTeX Error: Invalid UTF-8 byte sequence (ónde).
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.108 		\subitem Revisar la informaciï¿½n de
+l.108 		\subitem Revisar la información de
                                           l alimento.
 The document does not appear to be in UTF-8 encoding.
 Try adding \UseRawInputEncoding as the first line of the file
@@ -430,14 +430,14 @@ in the document preamble.
 Alternatively, save the file in UTF-8 using your editor or another tool
 
 
-! LaTeX Error: Invalid UTF-8 byte sequence (ï¿½nde).
+! LaTeX Error: Invalid UTF-8 byte sequence (ónde).
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.111 		\subitem Regresar a la selecciï¿½n de
-                                            categorï¿½as.
+l.111 		\subitem Regresar a la selección de
+                                            categorías.
 The document does not appear to be in UTF-8 encoding.
 Try adding \UseRawInputEncoding as the first line of the file
 or specify an encoding such as \usepackage [latin1]{inputenc}
@@ -445,13 +445,13 @@ in the document preamble.
 Alternatively, save the file in UTF-8 using your editor or another tool
 
 
-! LaTeX Error: Invalid UTF-8 byte sequence (ï¿½as).
+! LaTeX Error: Invalid UTF-8 byte sequence (ías).
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.111 ...tem Regresar a la selecciï¿½n de categorï¿½as
+l.111 ...tem Regresar a la selección de categorías
                                                   .
 The document does not appear to be in UTF-8 encoding.
 Try adding \UseRawInputEncoding as the first line of the file
@@ -460,14 +460,14 @@ in the document preamble.
 Alternatively, save the file in UTF-8 using your editor or another tool
 
 
-! LaTeX Error: Invalid UTF-8 byte sequence (ï¿½nde).
+! LaTeX Error: Invalid UTF-8 byte sequence (ónde).
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.113 		\subitem Regresar a la selecciï¿½n de
-                                            categorï¿½as.
+l.113 		\subitem Regresar a la selección de
+                                            categorías.
 The document does not appear to be in UTF-8 encoding.
 Try adding \UseRawInputEncoding as the first line of the file
 or specify an encoding such as \usepackage [latin1]{inputenc}
@@ -475,13 +475,13 @@ in the document preamble.
 Alternatively, save the file in UTF-8 using your editor or another tool
 
 
-! LaTeX Error: Invalid UTF-8 byte sequence (ï¿½as).
+! LaTeX Error: Invalid UTF-8 byte sequence (ías).
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.113 ...tem Regresar a la selecciï¿½n de categorï¿½as
+l.113 ...tem Regresar a la selección de categorías
                                                   .
 The document does not appear to be in UTF-8 encoding.
 Try adding \UseRawInputEncoding as the first line of the file
@@ -491,7 +491,7 @@ Alternatively, save the file in UTF-8 using your editor or another tool
 
 [7]
 <C:/Users/victo/Documents/Repositories/Amerike/3rdSemester/Cafeteria-Menu/Asset
-s/Img/DiagramaComponentes/Diagrama-componentes-general.png, id=113, 1081.641pt 
+s/Img/DiagramaComponentes/Diagrama-componentes-general.png, id=118, 1081.641pt 
 x 436.029pt>
 File: C:/Users/victo/Documents/Repositories/Amerike/3rdSemester/Cafeteria-Menu/
 Assets/Img/DiagramaComponentes/Diagrama-componentes-general.png Graphic file (t
@@ -503,7 +503,7 @@ ter/Cafeteria-Menu/Assets/Img/DiagramaComponentes/Diagrama-componentes-general.
 png  used on input line 127.
 (pdftex.def)             Requested size: 390.0pt x 157.21648pt.
 <C:/Users/victo/Documents/Repositories/Amerike/3rdSemester/Cafeteria-Menu/Asset
-s/Img/DiagramaClases/Diagrama-clases-general.png, id=114, 977.45175pt x 337.862
+s/Img/DiagramaClases/Diagrama-clases-general.png, id=119, 977.45175pt x 337.862
 24pt>
 File: C:/Users/victo/Documents/Repositories/Amerike/3rdSemester/Cafeteria-Menu/
 Assets/Img/DiagramaClases/Diagrama-clases-general.png Graphic file (type png)
@@ -518,7 +518,7 @@ ssets/Img/DiagramaComponentes/Diagrama-componentes-general.png> <C:/Users/victo
 /Documents/Repositories/Amerike/3rdSemester/Cafeteria-Menu/Assets/Img/DiagramaC
 lases/Diagrama-clases-general.png>]
 <C:/Users/victo/Documents/Repositories/Amerike/3rdSemester/Cafeteria-Menu/Asset
-s/Img/DiagramaSecuencia/Diagrama-secuencia-general.png, id=123, 713.064pt x 419
+s/Img/DiagramaSecuencia/Diagrama-secuencia-general.png, id=128, 713.064pt x 419
 .166pt>
 File: C:/Users/victo/Documents/Repositories/Amerike/3rdSemester/Cafeteria-Menu/
 Assets/Img/DiagramaSecuencia/Diagrama-secuencia-general.png Graphic file (type 
@@ -530,7 +530,7 @@ ter/Cafeteria-Menu/Assets/Img/DiagramaSecuencia/Diagrama-secuencia-general.png
  used on input line 144.
 (pdftex.def)             Requested size: 390.0pt x 229.26282pt.
 <C:/Users/victo/Documents/Repositories/Amerike/3rdSemester/Cafeteria-Menu/Asset
-s/Img/DiagramaSecuencia/Diagrama-secuencia-LogIn.png, id=124, 452.892pt x 429.4
+s/Img/DiagramaSecuencia/Diagrama-secuencia-LogIn.png, id=129, 452.892pt x 429.4
 0425pt>
 File: C:/Users/victo/Documents/Repositories/Amerike/3rdSemester/Cafeteria-Menu/
 Assets/Img/DiagramaSecuencia/Diagrama-secuencia-LogIn.png Graphic file (type pn
@@ -542,7 +542,7 @@ ter/Cafeteria-Menu/Assets/Img/DiagramaSecuencia/Diagrama-secuencia-LogIn.png  u
 sed on input line 151.
 (pdftex.def)             Requested size: 390.0pt x 369.78496pt.
 <C:/Users/victo/Documents/Repositories/Amerike/3rdSemester/Cafeteria-Menu/Asset
-s/Img/DiagramaSecuencia/Diagrama-secuencia-SignUp.png, id=125, 268.00125pt x 44
+s/Img/DiagramaSecuencia/Diagrama-secuencia-SignUp.png, id=130, 268.00125pt x 44
 0.24475pt>
 File: C:/Users/victo/Documents/Repositories/Amerike/3rdSemester/Cafeteria-Menu/
 Assets/Img/DiagramaSecuencia/Diagrama-secuencia-SignUp.png Graphic file (type p
@@ -554,7 +554,7 @@ ter/Cafeteria-Menu/Assets/Img/DiagramaSecuencia/Diagrama-secuencia-SignUp.png
 used on input line 158.
 (pdftex.def)             Requested size: 312.00119pt x 512.51817pt.
 <C:/Users/victo/Documents/Repositories/Amerike/3rdSemester/Cafeteria-Menu/Asset
-s/Img/DiagramaSecuencia/Diagrama-secuencia-agregar-comida.png, id=126, 436.029p
+s/Img/DiagramaSecuencia/Diagrama-secuencia-agregar-comida.png, id=131, 436.029p
 t x 436.63126pt>
 File: C:/Users/victo/Documents/Repositories/Amerike/3rdSemester/Cafeteria-Menu/
 Assets/Img/DiagramaSecuencia/Diagrama-secuencia-agregar-comida.png Graphic file
@@ -566,7 +566,7 @@ ter/Cafeteria-Menu/Assets/Img/DiagramaSecuencia/Diagrama-secuencia-agregar-comi
 da.png  used on input line 165.
 (pdftex.def)             Requested size: 390.0pt x 390.55936pt.
 <C:/Users/victo/Documents/Repositories/Amerike/3rdSemester/Cafeteria-Menu/Asset
-s/Img/DiagramaSecuencia/Diagrama-secuencia-orders.png, id=127, 390.86024pt x 43
+s/Img/DiagramaSecuencia/Diagrama-secuencia-orders.png, id=132, 390.86024pt x 43
 7.83575pt>
 File: C:/Users/victo/Documents/Repositories/Amerike/3rdSemester/Cafeteria-Menu/
 Assets/Img/DiagramaSecuencia/Diagrama-secuencia-orders.png Graphic file (type p
@@ -586,7 +586,20 @@ ssets/Img/DiagramaSecuencia/Diagrama-secuencia-SignUp.png>] [12 <C:/Users/victo
 /Documents/Repositories/Amerike/3rdSemester/Cafeteria-Menu/Assets/Img/DiagramaS
 ecuencia/Diagrama-secuencia-agregar-comida.png>] [13 <C:/Users/victo/Documents/
 Repositories/Amerike/3rdSemester/Cafeteria-Menu/Assets/Img/DiagramaSecuencia/Di
-agrama-secuencia-orders.png>] (Doc-cafeteria.aux
+agrama-secuencia-orders.png>]
+<C:/Users/victo/Documents/Repositories/Amerike/3rdSemester/Cafeteria-Menu/Asset
+s/Img/DiagramasFlujo/Diagrama-flujo-LogIn.png, id=164, 342.68025pt x 508.299pt>
+
+File: C:/Users/victo/Documents/Repositories/Amerike/3rdSemester/Cafeteria-Menu/
+Assets/Img/DiagramasFlujo/Diagrama-flujo-LogIn.png Graphic file (type png)
+<use C:/Users/victo/Documents/Repositories/Amerike/3rdSemester/Cafeteria-Menu/A
+ssets/Img/DiagramasFlujo/Diagrama-flujo-LogIn.png>
+Package pdftex.def Info: C:/Users/victo/Documents/Repositories/Amerike/3rdSemes
+ter/Cafeteria-Menu/Assets/Img/DiagramasFlujo/Diagrama-flujo-LogIn.png  used on 
+input line 183.
+(pdftex.def)             Requested size: 265.19714pt x 393.39247pt.
+ [14 <C:/Users/victo/Documents/Repositories/Amerike/3rdSemester/Cafeteria-Menu/
+Assets/Img/DiagramasFlujo/Diagrama-flujo-LogIn.png>] (Doc-cafeteria.aux
 LaTeX Info: Redefining \. on input line 22.
 LaTeX Info: Redefining \% on input line 22.
 )
@@ -594,14 +607,18 @@ LaTeX Info: Redefining \% on input line 22.
 LaTeX2e <2023-06-01> patch level 1
 L3 programming layer <2023-08-11>
  ***********
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
 Package rerunfilecheck Info: File `Doc-cafeteria.out' has not changed.
-(rerunfilecheck)             Checksum: ADF0C02B8C88925A34FEB976F18B76C5;1698.
+(rerunfilecheck)             Checksum: CAD0A5B547B09D5AFA44BE2549E6C0FF;1847.
  ) 
 Here is how much of TeX's memory you used:
- 10011 strings out of 475503
- 168981 string characters out of 5761834
+ 10023 strings out of 475503
+ 169962 string characters out of 5761834
  1924248 words of memory out of 5000000
- 31139 multiletter control sequences out of 15000+600000
+ 31148 multiletter control sequences out of 15000+600000
  563584 words of font info for 54 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  75i,6n,79p,356b,514s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -610,9 +627,9 @@ cmbx12.pfb><C:/Users/victo/AppData/Local/Programs/MiKTeX/fonts/type1/public/ams
 fonts/cm/cmr12.pfb><C:/Users/victo/AppData/Local/Programs/MiKTeX/fonts/type1/pu
 blic/amsfonts/cm/cmr17.pfb><C:/Users/victo/AppData/Local/Programs/MiKTeX/fonts/
 type1/public/amsfonts/cm/cmti12.pfb>
-Output written on Doc-cafeteria.pdf (13 pages, 424369 bytes).
+Output written on Doc-cafeteria.pdf (14 pages, 449876 bytes).
 PDF statistics:
- 189 PDF objects out of 1000 (max. 8388607)
- 38 named destinations out of 1000 (max. 500000)
- 155 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 201 PDF objects out of 1000 (max. 8388607)
+ 41 named destinations out of 1000 (max. 500000)
+ 168 words of extra memory for PDF output out of 10000 (max. 10000000)
 
