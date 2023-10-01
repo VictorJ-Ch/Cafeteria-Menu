@@ -39,11 +39,17 @@
 	\item Regresar al menu.
 \end{itemize}
 
+\subsection {Recepcionista}
+\begin{itemize}
+	\item Recibe el pedido del cliente.
+	\item Liga el turno/pedido del cliente con la mesa disponible.
+\end{itemize}
+
 \subsection {Cocina}
 \begin{itemize}
 	\item Recibe el pedido.
 	\item Selecciona el  pedido.
-	\item marcar pedido como completado.
+	\item Marcar pedido como completado.
 	\item Notificar que el pedido ya está listo.
 \end{itemize}
 
@@ -59,18 +65,32 @@
 \newpage
 \section {CASOS DE USO:}
 \subsection {Diagrama}
+\begin{figure}[htbp]
+	\centering
+		\includegraphics[width=1.00\textwidth]{C:/Users/victo/Documents/Repositories/Amerike/3rdSemester/Cafeteria-Menu/Assets/Img/DiagramaCasos/Diagrama-casos-user.png}
+	\caption{Diagrama de casos usuario}
+	\label{fig:Diagrama-casos-user}
+\end{figure}
 
 \begin{figure}[htbp]
 	\centering
-		\includegraphics[width=0.5\textwidth]{./Assets/Img/Diagrama-casos-uso.jpg}
-	\caption{Diagrama de flujo}
-	\label{fig:Diagrama-cafe-app}
+		\includegraphics[width=1.00\textwidth]{C:/Users/victo/Documents/Repositories/Amerike/3rdSemester/Cafeteria-Menu/Assets/Img/DiagramaCasos/Diagrama-casos-receptionist.png}
+	\caption{Diagrama de casos recepcionista}
+	\label{fig:Diagrama-casos-receptionist}
 \end{figure}
 
+\begin{figure}[htbp]
+	\centering
+		\includegraphics[width=1.00\textwidth]{C:/Users/victo/Documents/Repositories/Amerike/3rdSemester/Cafeteria-Menu/Assets/Img/DiagramaCasos/Diagrama-casos-kitchen.png}
+	\caption{Diagrama de casos cocina}
+	\label{fig:Diagrama-casos-kitchen}
+\end{figure}
 
+\newpage
 \subsection {Flujo ideal}
 \begin{itemize}
-  \item Escanear QR
+  \item Escanear QR.
+	\item LogIn / SignUp.
   \item Seleccionar una categoría.
   \item Seleccionar un alimento.
   \item Agregar a la canasta.
@@ -81,6 +101,7 @@
 \subsection {Flujo alterno}
 \begin{itemize}
 	\item Escanear QR.
+	\item LogIn / SignUp.
   \item Seleccionar una categoría.
 		\subitem Revisar tu canasta.
   \item Seleccionar un alimento.
@@ -97,5 +118,61 @@
 		\subitem Guardar turno en carrete.
 		\subitem Regresar al menu.
 \end{itemize}
+
+\newpage
+\section {DIAGRAMAS}
+\subsection {Diagrama de componentes}
+\begin{figure}[htbp]
+	\centering
+		\includegraphics[width=1.00\textwidth]{C:/Users/victo/Documents/Repositories/Amerike/3rdSemester/Cafeteria-Menu/Assets/Img/DiagramaComponentes/Diagrama-componentes-general.png}
+	\caption{Diagrama de componentes}
+	\label{fig:Diagrama-componentes-general}
+\end{figure}
+
+\subsection {Diagrama de clases}
+\begin{figure}[htbp]
+	\centering
+		\includegraphics[width=1.00\textwidth]{C:/Users/victo/Documents/Repositories/Amerike/3rdSemester/Cafeteria-Menu/Assets/Img/DiagramaClases/Diagrama-clases-general.png}
+	\caption{Diagrama de clases}
+	\label{fig:Diagrama-clases-general}
+\end{figure}
+
+\newpage
+\subsection {Diagrama de secuencia}
+\begin{figure}[htbp]
+	\centering
+		\includegraphics[width=1.00\textwidth]{C:/Users/victo/Documents/Repositories/Amerike/3rdSemester/Cafeteria-Menu/Assets/Img/DiagramaSecuencia/Diagrama-secuencia-general.png}
+	\caption{Diagrama de secuencia general}
+	\label{fig:Diagrama-secuencia-general}
+\end{figure}
+
+\begin{figure}[htbp]
+	\centering
+		\includegraphics[width=1.00\textwidth]{C:/Users/victo/Documents/Repositories/Amerike/3rdSemester/Cafeteria-Menu/Assets/Img/DiagramaSecuencia/Diagrama-secuencia-LogIn.png}
+	\caption{Diagrama secuencia LogIn}
+	\label{fig:Diagrama-secuencia-LogIn}
+\end{figure}
+
+\begin{figure}[htbp]
+	\centering
+		\includegraphics[width=0.80\textwidth]{C:/Users/victo/Documents/Repositories/Amerike/3rdSemester/Cafeteria-Menu/Assets/Img/DiagramaSecuencia/Diagrama-secuencia-SignUp.png}
+	\caption{Diagrama secuencia SignUp}
+	\label{fig:Diagrama-secuencia-SignUp}
+\end{figure}
+
+\begin{figure}[htbp]
+	\centering
+		\includegraphics[width=1.00\textwidth]{C:/Users/victo/Documents/Repositories/Amerike/3rdSemester/Cafeteria-Menu/Assets/Img/DiagramaSecuencia/Diagrama-secuencia-agregar-comida.png}
+	\caption{Diagrama secuencia pedir comida}
+	\label{fig:Diagrama-secuencia-agregar-comida}
+\end{figure}
+
+\begin{figure}[htbp]
+	\centering
+		\includegraphics[width=1.00\textwidth]{C:/Users/victo/Documents/Repositories/Amerike/3rdSemester/Cafeteria-Menu/Assets/Img/DiagramaSecuencia/Diagrama-secuencia-orders.png}
+	\caption{Diagrama secuencia ordenes}
+	\label{fig:Diagrama-secuencia-orders}
+\end{figure}
+
 
 \end{document}
