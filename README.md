@@ -12,4 +12,7 @@
 <div style="text-align: left;">
   <a href="https://drive.google.com/drive/folders/1AuNMp59X0YJqxR1alR2jJUgEV7NNbN8a?usp=sharing">Cover .psd file</a>
 </div>
+<div style="text-align: left;">
+  <a href="https://www.figma.com/file/jMDGvyJhrWegndvcyKfglJ/App-Cafeteria?type=design&node-id=0-1&mode=design&t=ZV4dCkDkixOnfDur-0">Figma,Proto de App, Journey Map</a>
+</div>
 </p>
