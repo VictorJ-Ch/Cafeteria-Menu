@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-04T02:20:50.215Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="x4Lp6s6y0A9NWGVV0-z1" version="22.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-04T02:22:24.558Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="BZWawcOls_p1Grvw9C_g" version="22.0.2" type="github">
   <diagram name="Page-1" id="6133507b-19e7-1e82-6fc7-422aa6c4b21f">
     <mxGraphModel dx="1463" dy="4123" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
@@ -2597,7 +2597,7 @@
           <mxGeometry x="308.89999999999986" y="-3234" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ZqtcR6QFQqYrnE1l7zk--2" value="fin" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2305" y="7" width="120" height="80" as="geometry" />
+          <mxGeometry x="2340.95" y="-188" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="AcxWQtP9y0f67jPxZ8_V-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="AcxWQtP9y0f67jPxZ8_V-2" target="AcxWQtP9y0f67jPxZ8_V-4">
           <mxGeometry relative="1" as="geometry" />
@@ -2760,8 +2760,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="ZqtcR6QFQqYrnE1l7zk--47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZqtcR6QFQqYrnE1l7zk--26" target="ZqtcR6QFQqYrnE1l7zk--46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ZqtcR6QFQqYrnE1l7zk--26" value="Username guardado" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
-          <mxGeometry x="2455.95" y="-368" width="120" height="60" as="geometry" />
+          <mxGeometry x="2341.5" y="-353" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="AcxWQtP9y0f67jPxZ8_V-21" value="If&lt;br&gt;(&quot;Reset Password&quot; bttn IsPressed(true))" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="300.89999999999986" y="-2621" width="230" height="80" as="geometry" />
@@ -2871,6 +2874,12 @@
         </mxCell>
         <mxCell id="ZqtcR6QFQqYrnE1l7zk--41" value="if&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;(password == Conf.password)" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2258.25" y="-793" width="286.5" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ZqtcR6QFQqYrnE1l7zk--48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="ZqtcR6QFQqYrnE1l7zk--46" target="ZqtcR6QFQqYrnE1l7zk--2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZqtcR6QFQqYrnE1l7zk--46" value="Entra a la app" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="2341.5" y="-267" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
