@@ -16,3 +16,7 @@
   <a href="https://www.figma.com/file/jMDGvyJhrWegndvcyKfglJ/App-Cafeteria?type=design&node-id=0-1&mode=design&t=ZV4dCkDkixOnfDur-0">Figma,Proto de App, Journey Map</a>
 </div>
 </p>
+<div style="text-align: left;">
+  <a href="https://www.canva.com/design/DAFwUaCOcZE/50RjQNNABKBntjp3pM4HfQ/edit">Canvas Buyer Person</a>
+</div>
+</p>
