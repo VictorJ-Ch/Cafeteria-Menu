@@ -1,15 +1,16 @@
 \babel@toc {spanish}{}\relax 
-\contentsline {section}{\numberline {1}REQUERIMIENTOS FUNCIONALES}{3}{section.1}%
-\contentsline {subsection}{\numberline {1.1}Cliente}{3}{subsection.1.1}%
-\contentsline {subsection}{\numberline {1.2}Recepcionista}{3}{subsection.1.2}%
-\contentsline {subsection}{\numberline {1.3}Cocina}{3}{subsection.1.3}%
-\contentsline {section}{\numberline {2}REQUERIMIENTO NO FUNCIONAL}{4}{section.2}%
-\contentsline {section}{\numberline {3}CASOS DE USO:}{5}{section.3}%
-\contentsline {subsection}{\numberline {3.1}Diagrama}{5}{subsection.3.1}%
-\contentsline {subsection}{\numberline {3.2}Flujo ideal}{7}{subsection.3.2}%
-\contentsline {subsection}{\numberline {3.3}Flujo alterno}{7}{subsection.3.3}%
-\contentsline {section}{\numberline {4}DIAGRAMAS}{8}{section.4}%
-\contentsline {subsection}{\numberline {4.1}Diagrama de componentes}{8}{subsection.4.1}%
-\contentsline {subsection}{\numberline {4.2}Diagrama de clases}{8}{subsection.4.2}%
-\contentsline {subsection}{\numberline {4.3}Diagrama de secuencia}{9}{subsection.4.3}%
-\contentsline {subsection}{\numberline {4.4}Diagrama de flujo}{14}{subsection.4.4}%
+\contentsline {section}{\numberline {1}Acerca del proyecto}{2}{section.1}%
+\contentsline {section}{\numberline {2}REQUERIMIENTOS FUNCIONALES}{4}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Cliente}{4}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Recepcionista}{4}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}Cocina}{4}{subsection.2.3}%
+\contentsline {section}{\numberline {3}REQUERIMIENTO NO FUNCIONAL}{5}{section.3}%
+\contentsline {section}{\numberline {4}CASOS DE USO:}{6}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Diagrama}{6}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Flujo ideal}{8}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}Flujo alterno}{8}{subsection.4.3}%
+\contentsline {section}{\numberline {5}DIAGRAMAS}{9}{section.5}%
+\contentsline {subsection}{\numberline {5.1}Diagrama de componentes}{9}{subsection.5.1}%
+\contentsline {subsection}{\numberline {5.2}Diagrama de clases}{9}{subsection.5.2}%
+\contentsline {subsection}{\numberline {5.3}Diagrama de secuencia}{10}{subsection.5.3}%
+\contentsline {subsection}{\numberline {5.4}Diagrama de flujo}{15}{subsection.5.4}%
