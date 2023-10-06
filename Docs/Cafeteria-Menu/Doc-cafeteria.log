@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.5) (preloaded format=pdflatex 2023.9.5)  6 OCT 2023 01:27
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.5) (preloaded format=pdflatex 2023.9.5)  6 OCT 2023 01:31
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -614,10 +614,6 @@ LaTeX Info: Redefining \% on input line 22.
 LaTeX2e <2023-06-01> patch level 1
 L3 programming layer <2023-08-29>
  ***********
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
 Package rerunfilecheck Info: File `Doc-cafeteria.out' has not changed.
 (rerunfilecheck)             Checksum: CAD0A5B547B09D5AFA44BE2549E6C0FF;1847.
  ) 
@@ -634,7 +630,7 @@ cmbx12.pfb><C:/Users/victo/AppData/Local/Programs/MiKTeX/fonts/type1/public/ams
 fonts/cm/cmr12.pfb><C:/Users/victo/AppData/Local/Programs/MiKTeX/fonts/type1/pu
 blic/amsfonts/cm/cmr17.pfb><C:/Users/victo/AppData/Local/Programs/MiKTeX/fonts/
 type1/public/amsfonts/cm/cmti12.pfb>
-Output written on Doc-cafeteria.pdf (16 pages, 597953 bytes).
+Output written on Doc-cafeteria.pdf (16 pages, 597949 bytes).
 PDF statistics:
  219 PDF objects out of 1000 (max. 8388607)
  46 named destinations out of 1000 (max. 500000)
