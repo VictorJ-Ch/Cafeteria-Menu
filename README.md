@@ -12,7 +12,7 @@ Este es una idea de proyecto donde se busca optimizar el tiempo de respuesta del
 <h3 align="left">Documentation </h3>
 <p>
 <!-- Laitex --->
-<div style="display: flex; justify-content:left flex-end;">
+<div style="display: flex; justify-content: left; flex-end;">
   <!-- Laitex --->
   <a href="./Docs/Cafeteria-Menu/Doc-cafeteria.pdf" style="margin-right: 20px;">Cafeteria-Menu PDF file</a>
 
