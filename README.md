@@ -15,16 +15,25 @@ Este es una idea de proyecto donde se busca optimizar el tiempo de respuesta del
 <div style="display: flex; justify-content: left; flex-end;">
   <!-- Laitex --->
   <a href="./Docs/Cafeteria-Menu/Doc-cafeteria.pdf" style="margin-right: 20px;">Cafeteria-Menu PDF file</a>
-
-  <!-- Web Canvas --->
-  <a href="https://www.canva.com/design/DAFwUaCOcZE/50RjQNNABKBntjp3pM4HfQ/edit">Canvas Buyer Person</a>
 </div>
+<br>
+<h3>Buyer Person</h3>
+<!--Buyer person-->
+  <a href="https://www.canva.com/design/DAFwUaCOcZE/50RjQNNABKBntjp3pM4HfQ/edit">General Canvas Buyer Person</a>
+  <p>More Canvas Buyer Person:</p>
+  <a href="#" style="margin-right: 20px;">Upper class</a>
+  <a href="https://www.canva.com/design/DAFyvlS70oU/487SXZ8ttdGmKcXz8dISMg/edit?utm_content=DAFyvlS70oU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton BuyenPerson-ClaseMedia" style="margin-right: 20px;">Middle class</a>
+  <a href="https://www.canva.com/design/DAFytntySOs/L-TbFiqgHwwyAuBrCljjag/edit?utm_content=DAFytntySOs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" style="margin-right: 20px;">Low class</a>
 
 </p>
-<!-- IMG --->
+<!-- Emphaty map --->
 <div style="text-align: left;">
   <img src="./Assets/Img/Essentials/EmpathyMap/EmpathyMapCoffe.jpg" alt="Emphaty Map" style="max-width: 100%;">
 </div>
+ <p>More Emphaty maps:</p>
+  <a href="#" style="margin-right: 20px;">Upper class</a>
+  <a href="https://www.canva.com/design/DAFyvUNcick/rLBg1cqFvgStSqxykDrRSw/edit?utm_content=DAFyvUNcick&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton emphaty map clase media" style="margin-right: 20px;">Middle class</a>
+  <a href="https://www.canva.com/design/DAFyvvgx0J0/ENwfpBf21cZiPGAKkheYLQ/edit?utm_content=DAFyvvgx0J0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" style="margin-right: 20px;">Low class</a>
 </p>
 <!-- IMG -->
 <div style="text-align: left;">
