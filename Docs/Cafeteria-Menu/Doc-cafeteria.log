@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.5) (preloaded format=pdflatex 2023.9.5)  6 OCT 2023 01:35
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.5) (preloaded format=pdflatex 2023.9.5)  2 NOV 2023 02:17
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -318,7 +318,7 @@ Overfull \hbox (53.67459pt too wide) in paragraph at lines 20--20
 {C:/Users/victo/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
 ! Undefined control sequence.
 l.23 \p
-        Este es una icdea de proyecto donde se busca optimizar el tiempo de ...
+        Este es una idea de proyecto donde se busca optimizar el tiempo de r...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -345,11 +345,11 @@ Alternatively, save the file in UTF-8 using your editor or another tool
 LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 3.
+(Font)              <12> on input line 4.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 3.
+(Font)              <8> on input line 4.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 3.
+(Font)              <6> on input line 4.
 )
 \tf@toc=\write4
 \openout4 = `Doc-cafeteria.toc'.
@@ -371,38 +371,61 @@ in the document preamble.
 Alternatively, save the file in UTF-8 using your editor or another tool
 
 [4] [5]
-<C:/Users/victo/OneDrive/Escritorio/Cafeteria-Menu/Assets/Img/DiagramaCasos/Dia
-grama-casos-user.png, id=102, 457.71pt x 332.442pt>
-File: C:/Users/victo/OneDrive/Escritorio/Cafeteria-Menu/Assets/Img/DiagramaCaso
-s/Diagrama-casos-user.png Graphic file (type png)
-<use C:/Users/victo/OneDrive/Escritorio/Cafeteria-Menu/Assets/Img/DiagramaCasos
-/Diagrama-casos-user.png>
-Package pdftex.def Info: C:/Users/victo/OneDrive/Escritorio/Cafeteria-Menu/Asse
-ts/Img/DiagramaCasos/Diagrama-casos-user.png  used on input line 74.
-(pdftex.def)             Requested size: 390.0pt x 283.27197pt.
-<C:/Users/victo/OneDrive/Escritorio/Cafeteria-Menu/Assets/Img/DiagramaCasos/Dia
-grama-casos-receptionist.png, id=104, 309.5565pt x 102.3825pt>
-File: C:/Users/victo/OneDrive/Escritorio/Cafeteria-Menu/Assets/Img/DiagramaCaso
-s/Diagrama-casos-receptionist.png Graphic file (type png)
-<use C:/Users/victo/OneDrive/Escritorio/Cafeteria-Menu/Assets/Img/DiagramaCasos
-/Diagrama-casos-receptionist.png>
-Package pdftex.def Info: C:/Users/victo/OneDrive/Escritorio/Cafeteria-Menu/Asse
-ts/Img/DiagramaCasos/Diagrama-casos-receptionist.png  used on input line 81.
-(pdftex.def)             Requested size: 390.0pt x 128.99794pt.
-<C:/Users/victo/OneDrive/Escritorio/Cafeteria-Menu/Assets/Img/DiagramaCasos/Dia
-grama-casos-kitchen.png, id=105, 325.81725pt x 105.39375pt>
-File: C:/Users/victo/OneDrive/Escritorio/Cafeteria-Menu/Assets/Img/DiagramaCaso
-s/Diagrama-casos-kitchen.png Graphic file (type png)
-<use C:/Users/victo/OneDrive/Escritorio/Cafeteria-Menu/Assets/Img/DiagramaCasos
-/Diagrama-casos-kitchen.png>
-Package pdftex.def Info: C:/Users/victo/OneDrive/Escritorio/Cafeteria-Menu/Asse
-ts/Img/DiagramaCasos/Diagrama-casos-kitchen.png  used on input line 88.
-(pdftex.def)             Requested size: 390.0pt x 126.15665pt.
- [6 <C:/Users/victo/OneDrive/Escritorio/Cafeteria-Menu/Assets/Img/DiagramaCasos
-/Diagrama-casos-user.png>] [7 <C:/Users/victo/OneDrive/Escritorio/Cafeteria-Men
-u/Assets/Img/DiagramaCasos/Diagrama-casos-receptionist.png> <C:/Users/victo/One
-Drive/Escritorio/Cafeteria-Menu/Assets/Img/DiagramaCasos/Diagrama-casos-kitchen
-.png>]
+
+LaTeX Warning: File `C:/Users/victo/OneDrive/Escritorio/Cafeteria-Menu/Assets/I
+mg/DiagramaCasos/Diagrama-casos-user.png' not found on input line 74.
+
+
+! Package pdftex.def Error: File `C:/Users/victo/OneDrive/Escritorio/Cafeteria-
+Menu/Assets/Img/DiagramaCasos/Diagrama-casos-user.png' not found: using draft s
+etting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.74 ...Img/DiagramaCasos/Diagrama-casos-user.png}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+LaTeX Warning: File `C:/Users/victo/OneDrive/Escritorio/Cafeteria-Menu/Assets/I
+mg/DiagramaCasos/Diagrama-casos-receptionist.png' not found on input line 81.
+
+
+! Package pdftex.def Error: File `C:/Users/victo/OneDrive/Escritorio/Cafeteria-
+Menu/Assets/Img/DiagramaCasos/Diagrama-casos-receptionist.png' not found: using
+ draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.81 ...ramaCasos/Diagrama-casos-receptionist.png}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+LaTeX Warning: File `C:/Users/victo/OneDrive/Escritorio/Cafeteria-Menu/Assets/I
+mg/DiagramaCasos/Diagrama-casos-kitchen.png' not found on input line 88.
+
+
+! Package pdftex.def Error: File `C:/Users/victo/OneDrive/Escritorio/Cafeteria-
+Menu/Assets/Img/DiagramaCasos/Diagrama-casos-kitchen.png' not found: using draf
+t setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.88 .../DiagramaCasos/Diagrama-casos-kitchen.png}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+[6] [7] [8]
 
 ! LaTeX Error: Invalid UTF-8 byte sequence (ía.).
 
@@ -508,130 +531,214 @@ or specify an encoding such as \usepackage [latin1]{inputenc}
 in the document preamble.
 Alternatively, save the file in UTF-8 using your editor or another tool
 
-[8]
-<C:/Users/victo/OneDrive/Escritorio/Cafeteria-Menu/Assets/Img/DiagramaComponent
-es/Diagrama-componentes-general.png, id=125, 1081.641pt x 436.029pt>
-File: C:/Users/victo/OneDrive/Escritorio/Cafeteria-Menu/Assets/Img/DiagramaComp
-onentes/Diagrama-componentes-general.png Graphic file (type png)
-<use C:/Users/victo/OneDrive/Escritorio/Cafeteria-Menu/Assets/Img/DiagramaCompo
-nentes/Diagrama-componentes-general.png>
-Package pdftex.def Info: C:/Users/victo/OneDrive/Escritorio/Cafeteria-Menu/Asse
-ts/Img/DiagramaComponentes/Diagrama-componentes-general.png  used on input line
- 131.
-(pdftex.def)             Requested size: 390.0pt x 157.21648pt.
-<C:/Users/victo/OneDrive/Escritorio/Cafeteria-Menu/Assets/Img/DiagramaClases/Di
-agrama-clases-general.png, id=126, 977.45175pt x 337.86224pt>
-File: C:/Users/victo/OneDrive/Escritorio/Cafeteria-Menu/Assets/Img/DiagramaClas
-es/Diagrama-clases-general.png Graphic file (type png)
-<use C:/Users/victo/OneDrive/Escritorio/Cafeteria-Menu/Assets/Img/DiagramaClase
-s/Diagrama-clases-general.png>
-Package pdftex.def Info: C:/Users/victo/OneDrive/Escritorio/Cafeteria-Menu/Asse
-ts/Img/DiagramaClases/Diagrama-clases-general.png  used on input line 139.
-(pdftex.def)             Requested size: 390.0pt x 134.80739pt.
- [9 <C:/Users/victo/OneDrive/Escritorio/Cafeteria-Menu/Assets/Img/DiagramaCompo
-nentes/Diagrama-componentes-general.png> <C:/Users/victo/OneDrive/Escritorio/Ca
-feteria-Menu/Assets/Img/DiagramaClases/Diagrama-clases-general.png>]
-<C:/Users/victo/OneDrive/Escritorio/Cafeteria-Menu/Assets/Img/DiagramaSecuencia
-/Diagrama-secuencia-general.png, id=138, 713.064pt x 419.166pt>
-File: C:/Users/victo/OneDrive/Escritorio/Cafeteria-Menu/Assets/Img/DiagramaSecu
-encia/Diagrama-secuencia-general.png Graphic file (type png)
-<use C:/Users/victo/OneDrive/Escritorio/Cafeteria-Menu/Assets/Img/DiagramaSecue
-ncia/Diagrama-secuencia-general.png>
-Package pdftex.def Info: C:/Users/victo/OneDrive/Escritorio/Cafeteria-Menu/Asse
-ts/Img/DiagramaSecuencia/Diagrama-secuencia-general.png  used on input line 148
+[9]
+
+LaTeX Warning: File `C:/Users/victo/OneDrive/Escritorio/Cafeteria-Menu/Assets/I
+mg/DiagramaComponentes/Diagrama-componentes-general.png' not found on input lin
+e 131.
+
+
+! Package pdftex.def Error: File `C:/Users/victo/OneDrive/Escritorio/Cafeteria-
+Menu/Assets/Img/DiagramaComponentes/Diagrama-componentes-general.png' not found
+: using draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.131 ...onentes/Diagrama-componentes-general.png}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+LaTeX Warning: File `C:/Users/victo/OneDrive/Escritorio/Cafeteria-Menu/Assets/I
+mg/DiagramaClases/Diagrama-clases-general.png' not found on input line 139.
+
+
+! Package pdftex.def Error: File `C:/Users/victo/OneDrive/Escritorio/Cafeteria-
+Menu/Assets/Img/DiagramaClases/Diagrama-clases-general.png' not found: using dr
+aft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.139 ...agramaClases/Diagrama-clases-general.png}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+[10] [11]
+
+LaTeX Warning: File `C:/Users/victo/OneDrive/Escritorio/Cafeteria-Menu/Assets/I
+mg/DiagramaSecuencia/Diagrama-secuencia-general.png' not found on input line 14
+8.
+
+
+! Package pdftex.def Error: File `C:/Users/victo/OneDrive/Escritorio/Cafeteria-
+Menu/Assets/Img/DiagramaSecuencia/Diagrama-secuencia-general.png' not found: us
+ing draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.148 ...Secuencia/Diagrama-secuencia-general.png}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+LaTeX Warning: File `C:/Users/victo/OneDrive/Escritorio/Cafeteria-Menu/Assets/I
+mg/DiagramaSecuencia/Diagrama-secuencia-LogIn.png' not found on input line 155.
+
+
+
+! Package pdftex.def Error: File `C:/Users/victo/OneDrive/Escritorio/Cafeteria-
+Menu/Assets/Img/DiagramaSecuencia/Diagrama-secuencia-LogIn.png' not found: usin
+g draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.155 ...maSecuencia/Diagrama-secuencia-LogIn.png}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+LaTeX Warning: File `C:/Users/victo/OneDrive/Escritorio/Cafeteria-Menu/Assets/I
+mg/DiagramaSecuencia/Diagrama-secuencia-SignUp.png' not found on input line 162
 .
-(pdftex.def)             Requested size: 390.0pt x 229.26282pt.
-<C:/Users/victo/OneDrive/Escritorio/Cafeteria-Menu/Assets/Img/DiagramaSecuencia
-/Diagrama-secuencia-LogIn.png, id=139, 452.892pt x 429.40425pt>
-File: C:/Users/victo/OneDrive/Escritorio/Cafeteria-Menu/Assets/Img/DiagramaSecu
-encia/Diagrama-secuencia-LogIn.png Graphic file (type png)
-<use C:/Users/victo/OneDrive/Escritorio/Cafeteria-Menu/Assets/Img/DiagramaSecue
-ncia/Diagrama-secuencia-LogIn.png>
-Package pdftex.def Info: C:/Users/victo/OneDrive/Escritorio/Cafeteria-Menu/Asse
-ts/Img/DiagramaSecuencia/Diagrama-secuencia-LogIn.png  used on input line 155.
-(pdftex.def)             Requested size: 390.0pt x 369.78496pt.
-<C:/Users/victo/OneDrive/Escritorio/Cafeteria-Menu/Assets/Img/DiagramaSecuencia
-/Diagrama-secuencia-SignUp.png, id=140, 268.00125pt x 440.24475pt>
-File: C:/Users/victo/OneDrive/Escritorio/Cafeteria-Menu/Assets/Img/DiagramaSecu
-encia/Diagrama-secuencia-SignUp.png Graphic file (type png)
-<use C:/Users/victo/OneDrive/Escritorio/Cafeteria-Menu/Assets/Img/DiagramaSecue
-ncia/Diagrama-secuencia-SignUp.png>
-Package pdftex.def Info: C:/Users/victo/OneDrive/Escritorio/Cafeteria-Menu/Asse
-ts/Img/DiagramaSecuencia/Diagrama-secuencia-SignUp.png  used on input line 162.
 
-(pdftex.def)             Requested size: 312.00119pt x 512.51817pt.
-<C:/Users/victo/OneDrive/Escritorio/Cafeteria-Menu/Assets/Img/DiagramaSecuencia
-/Diagrama-secuencia-agregar-comida.png, id=141, 436.029pt x 436.63126pt>
-File: C:/Users/victo/OneDrive/Escritorio/Cafeteria-Menu/Assets/Img/DiagramaSecu
-encia/Diagrama-secuencia-agregar-comida.png Graphic file (type png)
-<use C:/Users/victo/OneDrive/Escritorio/Cafeteria-Menu/Assets/Img/DiagramaSecue
-ncia/Diagrama-secuencia-agregar-comida.png>
-Package pdftex.def Info: C:/Users/victo/OneDrive/Escritorio/Cafeteria-Menu/Asse
-ts/Img/DiagramaSecuencia/Diagrama-secuencia-agregar-comida.png  used on input l
-ine 169.
-(pdftex.def)             Requested size: 390.0pt x 390.55936pt.
-<C:/Users/victo/OneDrive/Escritorio/Cafeteria-Menu/Assets/Img/DiagramaSecuencia
-/Diagrama-secuencia-orders.png, id=142, 390.86024pt x 437.83575pt>
-File: C:/Users/victo/OneDrive/Escritorio/Cafeteria-Menu/Assets/Img/DiagramaSecu
-encia/Diagrama-secuencia-orders.png Graphic file (type png)
-<use C:/Users/victo/OneDrive/Escritorio/Cafeteria-Menu/Assets/Img/DiagramaSecue
-ncia/Diagrama-secuencia-orders.png>
-Package pdftex.def Info: C:/Users/victo/OneDrive/Escritorio/Cafeteria-Menu/Asse
-ts/Img/DiagramaSecuencia/Diagrama-secuencia-orders.png  used on input line 176.
 
-(pdftex.def)             Requested size: 390.0pt x 436.886pt.
+! Package pdftex.def Error: File `C:/Users/victo/OneDrive/Escritorio/Cafeteria-
+Menu/Assets/Img/DiagramaSecuencia/Diagrama-secuencia-SignUp.png' not found: usi
+ng draft setting.
 
-[10 <C:/Users/victo/OneDrive/Escritorio/Cafeteria-Menu/Assets/Img/DiagramaSecue
-ncia/Diagrama-secuencia-general.png>] [11 <C:/Users/victo/OneDrive/Escritorio/C
-afeteria-Menu/Assets/Img/DiagramaSecuencia/Diagrama-secuencia-LogIn.png>]
-[12 <C:/Users/victo/OneDrive/Escritorio/Cafeteria-Menu/Assets/Img/DiagramaSecue
-ncia/Diagrama-secuencia-SignUp.png>] [13 <C:/Users/victo/OneDrive/Escritorio/Ca
-feteria-Menu/Assets/Img/DiagramaSecuencia/Diagrama-secuencia-agregar-comida.png
->] [14 <C:/Users/victo/OneDrive/Escritorio/Cafeteria-Menu/Assets/Img/DiagramaSe
-cuencia/Diagrama-secuencia-orders.png>]
-<C:/Users/victo/OneDrive/Escritorio/Cafeteria-Menu/Assets/Img/DiagramasFlujo/Di
-agramaFlujo-LogIn.png, id=175, 542.77782pt x 571.38469pt>
-File: C:/Users/victo/OneDrive/Escritorio/Cafeteria-Menu/Assets/Img/DiagramasFlu
-jo/DiagramaFlujo-LogIn.png Graphic file (type png)
-<use C:/Users/victo/OneDrive/Escritorio/Cafeteria-Menu/Assets/Img/DiagramasFluj
-o/DiagramaFlujo-LogIn.png>
-Package pdftex.def Info: C:/Users/victo/OneDrive/Escritorio/Cafeteria-Menu/Asse
-ts/Img/DiagramasFlujo/DiagramaFlujo-LogIn.png  used on input line 187.
-(pdftex.def)             Requested size: 350.99762pt x 369.51242pt.
-<C:/Users/victo/OneDrive/Escritorio/Cafeteria-Menu/Assets/Img/DiagramasFlujo/Di
-agramaFlujo-SignUp.png, id=176, 288.3272pt x 478.03593pt>
-File: C:/Users/victo/OneDrive/Escritorio/Cafeteria-Menu/Assets/Img/DiagramasFlu
-jo/DiagramaFlujo-SignUp.png Graphic file (type png)
-<use C:/Users/victo/OneDrive/Escritorio/Cafeteria-Menu/Assets/Img/DiagramasFluj
-o/DiagramaFlujo-SignUp.png>
-Package pdftex.def Info: C:/Users/victo/OneDrive/Escritorio/Cafeteria-Menu/Asse
-ts/Img/DiagramasFlujo/DiagramaFlujo-SignUp.png  used on input line 194.
-(pdftex.def)             Requested size: 312.00119pt x 517.3069pt.
-<C:/Users/victo/OneDrive/Escritorio/Cafeteria-Menu/Assets/Img/DiagramasFlujo/Di
-agramaFlujo-UI.png, id=177, 1228.59pt x 567.62062pt>
-File: C:/Users/victo/OneDrive/Escritorio/Cafeteria-Menu/Assets/Img/DiagramasFlu
-jo/DiagramaFlujo-UI.png Graphic file (type png)
-<use C:/Users/victo/OneDrive/Escritorio/Cafeteria-Menu/Assets/Img/DiagramasFluj
-o/DiagramaFlujo-UI.png>
-Package pdftex.def Info: C:/Users/victo/OneDrive/Escritorio/Cafeteria-Menu/Asse
-ts/Img/DiagramasFlujo/DiagramaFlujo-UI.png  used on input line 201.
-(pdftex.def)             Requested size: 390.0pt x 180.18723pt.
-<C:/Users/victo/OneDrive/Escritorio/Cafeteria-Menu/Assets/Img/DiagramasFlujo/Di
-agramFlujo-Basket.png, id=178, 411.78844pt x 312.41719pt>
-File: C:/Users/victo/OneDrive/Escritorio/Cafeteria-Menu/Assets/Img/DiagramasFlu
-jo/DiagramFlujo-Basket.png Graphic file (type png)
-<use C:/Users/victo/OneDrive/Escritorio/Cafeteria-Menu/Assets/Img/DiagramasFluj
-o/DiagramFlujo-Basket.png>
-Package pdftex.def Info: C:/Users/victo/OneDrive/Escritorio/Cafeteria-Menu/Asse
-ts/Img/DiagramasFlujo/DiagramFlujo-Basket.png  used on input line 208.
-(pdftex.def)             Requested size: 312.00119pt x 236.71014pt.
- [15 <C:/Users/victo/OneDrive/Escritorio/Cafeteria-Menu/Assets/Img/DiagramasFlu
-jo/DiagramaFlujo-LogIn.png>] [16 <C:/Users/victo/OneDrive/Escritorio/Cafeteria-
-Menu/Assets/Img/DiagramasFlujo/DiagramaFlujo-SignUp.png>] [17 <C:/Users/victo/O
-neDrive/Escritorio/Cafeteria-Menu/Assets/Img/DiagramasFlujo/DiagramaFlujo-UI.pn
-g> <C:/Users/victo/OneDrive/Escritorio/Cafeteria-Menu/Assets/Img/DiagramasFlujo
-/DiagramFlujo-Basket.png>]
-(Doc-cafeteria.aux
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.162 ...aSecuencia/Diagrama-secuencia-SignUp.png}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+LaTeX Warning: File `C:/Users/victo/OneDrive/Escritorio/Cafeteria-Menu/Assets/I
+mg/DiagramaSecuencia/Diagrama-secuencia-agregar-comida.png' not found on input 
+line 169.
+
+
+! Package pdftex.def Error: File `C:/Users/victo/OneDrive/Escritorio/Cafeteria-
+Menu/Assets/Img/DiagramaSecuencia/Diagrama-secuencia-agregar-comida.png' not fo
+und: using draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.169 ...ia/Diagrama-secuencia-agregar-comida.png}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+LaTeX Warning: File `C:/Users/victo/OneDrive/Escritorio/Cafeteria-Menu/Assets/I
+mg/DiagramaSecuencia/Diagrama-secuencia-orders.png' not found on input line 176
+.
+
+
+! Package pdftex.def Error: File `C:/Users/victo/OneDrive/Escritorio/Cafeteria-
+Menu/Assets/Img/DiagramaSecuencia/Diagrama-secuencia-orders.png' not found: usi
+ng draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.176 ...aSecuencia/Diagrama-secuencia-orders.png}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+[12] [13] [14] [15] [16]
+
+LaTeX Warning: File `C:/Users/victo/OneDrive/Escritorio/Cafeteria-Menu/Assets/I
+mg/DiagramasFlujo/DiagramaFlujo-LogIn.png' not found on input line 187.
+
+
+! Package pdftex.def Error: File `C:/Users/victo/OneDrive/Escritorio/Cafeteria-
+Menu/Assets/Img/DiagramasFlujo/DiagramaFlujo-LogIn.png' not found: using draft 
+setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.187 ...g/DiagramasFlujo/DiagramaFlujo-LogIn.png}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+LaTeX Warning: File `C:/Users/victo/OneDrive/Escritorio/Cafeteria-Menu/Assets/I
+mg/DiagramasFlujo/DiagramaFlujo-SignUp.png' not found on input line 194.
+
+
+! Package pdftex.def Error: File `C:/Users/victo/OneDrive/Escritorio/Cafeteria-
+Menu/Assets/Img/DiagramasFlujo/DiagramaFlujo-SignUp.png' not found: using draft
+ setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.194 .../DiagramasFlujo/DiagramaFlujo-SignUp.png}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+LaTeX Warning: File `C:/Users/victo/OneDrive/Escritorio/Cafeteria-Menu/Assets/I
+mg/DiagramasFlujo/DiagramaFlujo-UI.png' not found on input line 201.
+
+
+! Package pdftex.def Error: File `C:/Users/victo/OneDrive/Escritorio/Cafeteria-
+Menu/Assets/Img/DiagramasFlujo/DiagramaFlujo-UI.png' not found: using draft set
+ting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.201 .../Img/DiagramasFlujo/DiagramaFlujo-UI.png}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+LaTeX Warning: File `C:/Users/victo/OneDrive/Escritorio/Cafeteria-Menu/Assets/I
+mg/DiagramasFlujo/DiagramFlujo-Basket.png' not found on input line 208.
+
+
+! Package pdftex.def Error: File `C:/Users/victo/OneDrive/Escritorio/Cafeteria-
+Menu/Assets/Img/DiagramasFlujo/DiagramFlujo-Basket.png' not found: using draft 
+setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.208 ...g/DiagramasFlujo/DiagramFlujo-Basket.png}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+[17] [18] [19] [20] (Doc-cafeteria.aux
 LaTeX Info: Redefining \. on input line 22.
 LaTeX Info: Redefining \% on input line 22.
 )
@@ -649,53 +756,26 @@ Package rerunfilecheck Warning: File `Doc-cafeteria.out' has changed.
 (rerunfilecheck)                or use package `bookmark'.
 
 Package rerunfilecheck Info: Checksums for `Doc-cafeteria.out':
-(rerunfilecheck)             Before: CAD0A5B547B09D5AFA44BE2549E6C0FF;1847
+(rerunfilecheck)             Before: A0E1F0B9316E5BD7B3849032705C804A;2007
 (rerunfilecheck)             After:  A3CAC08DEA4899CEF7118C2D29BF0326;1992.
  ) 
 Here is how much of TeX's memory you used:
- 10062 strings out of 475248
- 170465 string characters out of 5757814
- 1925801 words of memory out of 5000000
- 31428 multiletter control sequences out of 15000+600000
- 563584 words of font info for 54 fonts, out of 8000000 for 9000
+ 10384 strings out of 475248
+ 207900 string characters out of 5757814
+ 1924801 words of memory out of 5000000
+ 31753 multiletter control sequences out of 15000+600000
+ 563753 words of font info for 55 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,6n,79p,386b,514s stack positions out of 10000i,1000n,20000p,200000b,200000s
-
-pdfTeX warning (dest): name{subsection.4.4} has been referenced but does not ex
-ist, replaced by a fixed one
-
-
-pdfTeX warning (dest): name{subsection.3.3} has been referenced but does not ex
-ist, replaced by a fixed one
-
-
-pdfTeX warning (dest): name{subsection.3.2} has been referenced but does not ex
-ist, replaced by a fixed one
-
-
-pdfTeX warning (dest): name{subsection.3.1} has been referenced but does not ex
-ist, replaced by a fixed one
-
-
-pdfTeX warning (dest): name{subsection.1.3} has been referenced but does not ex
-ist, replaced by a fixed one
-
-
-pdfTeX warning (dest): name{subsection.1.2} has been referenced but does not ex
-ist, replaced by a fixed one
-
-
-pdfTeX warning (dest): name{subsection.1.1} has been referenced but does not ex
-ist, replaced by a fixed one
-
-<C:/Users/victo/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cm
-bx12.pfb><C:/Users/victo/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfo
-nts/cm/cmr12.pfb><C:/Users/victo/AppData/Local/Programs/MiKTeX/fonts/type1/publ
-ic/amsfonts/cm/cmr17.pfb><C:/Users/victo/AppData/Local/Programs/MiKTeX/fonts/ty
-pe1/public/amsfonts/cm/cmti12.pfb>
-Output written on Doc-cafeteria.pdf (17 pages, 599960 bytes).
+ 75i,6n,79p,385b,514s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<C:/Users/victo/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/
+cmbx12.pfb><C:/Users/victo/AppData/Local/Programs/MiKTeX/fonts/type1/public/ams
+fonts/cm/cmr12.pfb><C:/Users/victo/AppData/Local/Programs/MiKTeX/fonts/type1/pu
+blic/amsfonts/cm/cmr17.pfb><C:/Users/victo/AppData/Local/Programs/MiKTeX/fonts/
+type1/public/amsfonts/cm/cmti12.pfb><C:/Users/victo/AppData/Local/Programs/MiKT
+eX/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
+Output written on Doc-cafeteria.pdf (20 pages, 94752 bytes).
 PDF statistics:
- 233 PDF objects out of 1000 (max. 8388607)
- 55 named destinations out of 1000 (max. 500000)
- 183 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 218 PDF objects out of 1000 (max. 8388607)
+ 51 named destinations out of 1000 (max. 500000)
+ 121 words of extra memory for PDF output out of 10000 (max. 10000000)
 
