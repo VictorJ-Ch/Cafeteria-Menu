@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.5) (preloaded format=pdflatex 2023.9.5)  2 NOV 2023 02:17
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.5) (preloaded format=pdflatex 2023.9.5)  3 NOV 2023 17:32
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -233,54 +233,413 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 )
 \Hy@SectionHShift=\skip50
 )
-Package hyperref Info: Option `colorlinks' set `true' on input line 11.
+(C:\Users\victo\AppData\Local\Programs\MiKTeX\tex/latex/todonotes\todonotes.sty
+Package: todonotes 2023/01/31 v1.1.6 Todonotes source and documentation.
+Package: todonotes 2023/01/31
+(C:\Users\victo\AppData\Local\Programs\MiKTeX\tex/latex/base\ifthen.sty
+Package: ifthen 2022/04/13 v1.1d Standard LaTeX ifthen package (DPC)
+)
+(C:\Users\victo\AppData\Local\Programs\MiKTeX\tex/latex/xkeyval\xkeyval.sty
+Package: xkeyval 2022/06/16 v2.9 package option processing (HA)
+
+(C:\Users\victo\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkeyval.tex
+(C:\Users\victo\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkvutils.tex
+\XKV@toks=\toks21
+\XKV@tempa@toks=\toks22
+)
+\XKV@depth=\count274
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+)) (C:\Users\victo\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.sty
+Package: xcolor 2022/06/12 v2.14 LaTeX color extensions (UK)
+
+(C:\Users\victo\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 227.
+(C:\Users\victo\AppData\Local\Programs\MiKTeX\tex/latex/graphics\mathcolor.ltx)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1353.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1357.
+Package xcolor Info: Model `RGB' extended on input line 1369.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1371.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1372.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1373.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1374.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1375.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1376.
+)
+(C:\Users\victo\AppData\Local\Programs\MiKTeX\tex/latex/pgf/frontendlayer\tikz.
+sty
+(C:\Users\victo\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgf.sty
+(C:\Users\victo\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgfrcs.st
+y
+(C:\Users\victo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil
+-common.tex
+\pgfutil@everybye=\toks23
+\pgfutil@tempdima=\dimen148
+\pgfutil@tempdimb=\dimen149
+)
+(C:\Users\victo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil
+-latex.def
+\pgfutil@abb=\box51
+)
+(C:\Users\victo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfrcs.
+code.tex
+(C:\Users\victo\AppData\Local\Programs\MiKTeX\tex/generic/pgf\pgf.revision.tex)
+Package: pgfrcs 2023-01-15 v3.1.10 (3.1.10)
+))
+Package: pgf 2023-01-15 v3.1.10 (3.1.10)
+
+(C:\Users\victo\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgfcore.
+sty
+(C:\Users\victo\AppData\Local\Programs\MiKTeX\tex/latex/pgf/systemlayer\pgfsys.
+sty
+(C:\Users\victo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsy
+s.code.tex
+Package: pgfsys 2023-01-15 v3.1.10 (3.1.10)
+
+(C:\Users\victo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeys
+.code.tex
+\pgfkeys@pathtoks=\toks24
+\pgfkeys@temptoks=\toks25
+
+(C:\Users\victo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeys
+libraryfiltered.code.tex
+\pgfkeys@tmptoks=\toks26
+))
+\pgf@x=\dimen150
+\pgf@y=\dimen151
+\pgf@xa=\dimen152
+\pgf@ya=\dimen153
+\pgf@xb=\dimen154
+\pgf@yb=\dimen155
+\pgf@xc=\dimen156
+\pgf@yc=\dimen157
+\pgf@xd=\dimen158
+\pgf@yd=\dimen159
+\w@pgf@writea=\write3
+\r@pgf@reada=\read3
+\c@pgf@counta=\count275
+\c@pgf@countb=\count276
+\c@pgf@countc=\count277
+\c@pgf@countd=\count278
+\t@pgf@toka=\toks27
+\t@pgf@tokb=\toks28
+\t@pgf@tokc=\toks29
+\pgf@sys@id@count=\count279
+
+(C:\Users\victo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgf.c
+fg
+File: pgf.cfg 2023-01-15 v3.1.10 (3.1.10)
+)
+Driver file for pgf: pgfsys-pdftex.def
+
+(C:\Users\victo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsy
+s-pdftex.def
+File: pgfsys-pdftex.def 2023-01-15 v3.1.10 (3.1.10)
+
+(C:\Users\victo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsy
+s-common-pdf.def
+File: pgfsys-common-pdf.def 2023-01-15 v3.1.10 (3.1.10)
+)))
+(C:\Users\victo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsy
+ssoftpath.code.tex
+File: pgfsyssoftpath.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfsyssoftpath@smallbuffer@items=\count280
+\pgfsyssoftpath@bigbuffer@items=\count281
+)
+(C:\Users\victo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsy
+sprotocol.code.tex
+File: pgfsysprotocol.code.tex 2023-01-15 v3.1.10 (3.1.10)
+))
+(C:\Users\victo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+e.code.tex
+Package: pgfcore 2023-01-15 v3.1.10 (3.1.10)
+
+(C:\Users\victo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath.code
+.tex
+(C:\Users\victo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathutil.
+code.tex)
+(C:\Users\victo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathparse
+r.code.tex
+\pgfmath@dimen=\dimen160
+\pgfmath@count=\count282
+\pgfmath@box=\box52
+\pgfmath@toks=\toks30
+\pgfmath@stack@operand=\toks31
+\pgfmath@stack@operation=\toks32
+)
+(C:\Users\victo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.code.tex)
+(C:\Users\victo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.basic.code.tex)
+(C:\Users\victo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.trigonometric.code.tex)
+(C:\Users\victo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.random.code.tex)
+(C:\Users\victo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.comparison.code.tex)
+(C:\Users\victo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.base.code.tex)
+(C:\Users\victo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.round.code.tex)
+(C:\Users\victo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.misc.code.tex)
+(C:\Users\victo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.integerarithmetics.code.tex)
+(C:\Users\victo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathcalc.
+code.tex)
+(C:\Users\victo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfloat
+.code.tex
+\c@pgfmathroundto@lastzeros=\count283
+))
+(C:\Users\victo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfint.code.
+tex)
+(C:\Users\victo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+epoints.code.tex
+File: pgfcorepoints.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@picminx=\dimen161
+\pgf@picmaxx=\dimen162
+\pgf@picminy=\dimen163
+\pgf@picmaxy=\dimen164
+\pgf@pathminx=\dimen165
+\pgf@pathmaxx=\dimen166
+\pgf@pathminy=\dimen167
+\pgf@pathmaxy=\dimen168
+\pgf@xx=\dimen169
+\pgf@xy=\dimen170
+\pgf@yx=\dimen171
+\pgf@yy=\dimen172
+\pgf@zx=\dimen173
+\pgf@zy=\dimen174
+)
+(C:\Users\victo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+epathconstruct.code.tex
+File: pgfcorepathconstruct.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@path@lastx=\dimen175
+\pgf@path@lasty=\dimen176
+)
+(C:\Users\victo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+epathusage.code.tex
+File: pgfcorepathusage.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@shorten@end@additional=\dimen177
+\pgf@shorten@start@additional=\dimen178
+)
+(C:\Users\victo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+escopes.code.tex
+File: pgfcorescopes.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfpic=\box53
+\pgf@hbox=\box54
+\pgf@layerbox@main=\box55
+\pgf@picture@serial@count=\count284
+)
+(C:\Users\victo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+egraphicstate.code.tex
+File: pgfcoregraphicstate.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgflinewidth=\dimen179
+)
+(C:\Users\victo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+etransformations.code.tex
+File: pgfcoretransformations.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@pt@x=\dimen180
+\pgf@pt@y=\dimen181
+\pgf@pt@temp=\dimen182
+)
+(C:\Users\victo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+equick.code.tex
+File: pgfcorequick.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(C:\Users\victo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+eobjects.code.tex
+File: pgfcoreobjects.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(C:\Users\victo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+epathprocessing.code.tex
+File: pgfcorepathprocessing.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(C:\Users\victo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+earrows.code.tex
+File: pgfcorearrows.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfarrowsep=\dimen183
+)
+(C:\Users\victo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+eshade.code.tex
+File: pgfcoreshade.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@max=\dimen184
+\pgf@sys@shading@range@num=\count285
+\pgf@shadingcount=\count286
+)
+(C:\Users\victo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+eimage.code.tex
+File: pgfcoreimage.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(C:\Users\victo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+eexternal.code.tex
+File: pgfcoreexternal.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfexternal@startupbox=\box56
+)
+(C:\Users\victo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+elayers.code.tex
+File: pgfcorelayers.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(C:\Users\victo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+etransparency.code.tex
+File: pgfcoretransparency.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(C:\Users\victo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+epatterns.code.tex
+File: pgfcorepatterns.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(C:\Users\victo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+erdf.code.tex
+File: pgfcorerdf.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)))
+(C:\Users\victo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodule
+shapes.code.tex
+File: pgfmoduleshapes.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfnodeparttextbox=\box57
+)
+(C:\Users\victo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodule
+plot.code.tex
+File: pgfmoduleplot.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(C:\Users\victo\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibility\pgfco
+mp-version-0-65.sty
+Package: pgfcomp-version-0-65 2023-01-15 v3.1.10 (3.1.10)
+\pgf@nodesepstart=\dimen185
+\pgf@nodesepend=\dimen186
+)
+(C:\Users\victo\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibility\pgfco
+mp-version-1-18.sty
+Package: pgfcomp-version-1-18 2023-01-15 v3.1.10 (3.1.10)
+))
+(C:\Users\victo\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgffor.st
+y
+(C:\Users\victo\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgfkeys.s
+ty
+(C:\Users\victo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeys
+.code.tex))
+(C:\Users\victo\AppData\Local\Programs\MiKTeX\tex/latex/pgf/math\pgfmath.sty
+(C:\Users\victo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath.code
+.tex))
+(C:\Users\victo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgffor.
+code.tex
+Package: pgffor 2023-01-15 v3.1.10 (3.1.10)
+\pgffor@iter=\dimen187
+\pgffor@skip=\dimen188
+\pgffor@stack=\toks33
+\pgffor@toks=\toks34
+))
+(C:\Users\victo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z\tikz.code.tex
+Package: tikz 2023-01-15 v3.1.10 (3.1.10)
+
+(C:\Users\victo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibr
+aryplothandlers.code.tex
+File: pgflibraryplothandlers.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@plot@mark@count=\count287
+\pgfplotmarksize=\dimen189
+)
+\tikz@lastx=\dimen190
+\tikz@lasty=\dimen191
+\tikz@lastxsaved=\dimen192
+\tikz@lastysaved=\dimen193
+\tikz@lastmovetox=\dimen194
+\tikz@lastmovetoy=\dimen195
+\tikzleveldistance=\dimen196
+\tikzsiblingdistance=\dimen197
+\tikz@figbox=\box58
+\tikz@figbox@bg=\box59
+\tikz@tempbox=\box60
+\tikz@tempbox@bg=\box61
+\tikztreelevel=\count288
+\tikznumberofchildren=\count289
+\tikznumberofcurrentchild=\count290
+\tikz@fig@count=\count291
+
+(C:\Users\victo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodule
+matrix.code.tex
+File: pgfmodulematrix.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfmatrixcurrentrow=\count292
+\pgfmatrixcurrentcolumn=\count293
+\pgf@matrix@numberofcolumns=\count294
+)
+\tikz@expandcount=\count295
+
+(C:\Users\victo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z/libraries\tikzlibrarytopaths.code.tex
+File: tikzlibrarytopaths.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)))
+(C:\Users\victo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z/libraries\tikzlibrarypositioning.code.tex
+File: tikzlibrarypositioning.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(C:\Users\victo\AppData\Local\Programs\MiKTeX\tex/latex/tools\calc.sty
+Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count296
+\calc@Bcount=\count297
+\calc@Adimen=\dimen198
+\calc@Bdimen=\dimen199
+\calc@Askip=\skip51
+\calc@Bskip=\skip52
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count298
+\calc@Cskip=\skip53
+)
+\c@@todonotes@numberoftodonotes=\count299
+)
+Package hyperref Info: Option `colorlinks' set `true' on input line 12.
 
 (C:\Users\victo\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdf
 tex.def
 File: l3backend-pdftex.def 2023-04-19 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count274
-\l__pdf_internal_box=\box51
+\l__color_backend_stack_int=\count300
+\l__pdf_internal_box=\box62
 ) (Doc-cafeteria.aux
 LaTeX Info: Redefining \. on input line 22.
 LaTeX Info: Redefining \% on input line 22.
+
+
+LaTeX Warning: Label `fig:Diagrama-secuencia-agregar-comida' multiply defined.
+
 )
 \openout1 = `Doc-cafeteria.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Info: Redefining \. on input line 17.
-LaTeX Info: Redefining \% on input line 17.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Info: Redefining \. on input line 18.
+LaTeX Info: Redefining \% on input line 18.
 
 (C:\Users\victo\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mk
 ii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count275
-\scratchdimen=\dimen148
-\scratchbox=\box52
-\nofMPsegments=\count276
-\nofMParguments=\count277
-\everyMPshowfont=\toks21
-\MPscratchCnt=\count278
-\MPscratchDim=\dimen149
-\MPnumerator=\count279
-\makeMPintoPDFobject=\count280
-\everyMPtoPDFconversion=\toks22
+\scratchcounter=\count301
+\scratchdimen=\dimen256
+\scratchbox=\box63
+\nofMPsegments=\count302
+\nofMParguments=\count303
+\everyMPshowfont=\toks35
+\MPscratchCnt=\count304
+\MPscratchDim=\dimen257
+\MPnumerator=\count305
+\makeMPintoPDFobject=\count306
+\everyMPtoPDFconversion=\toks36
 )
 (C:\Users\victo\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-b
 ase.sty
@@ -291,25 +650,25 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 (C:\Users\victo\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.c
 fg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
-)) (C:\Users\victo\AppData\Local\Programs\MiKTeX\tex/latex/graphics\color.sty
-Package: color 2022/01/06 v1.3d Standard LaTeX Color (DPC)
-(C:\Users\victo\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg
-File: color.cfg 2016/01/02 v1.6 sample color configuration
-)
-Package color Info: Driver file: pdftex.def on input line 149.
-(C:\Users\victo\AppData\Local\Programs\MiKTeX\tex/latex/graphics\mathcolor.ltx)
-)
-Package hyperref Info: Link coloring ON on input line 17.
+))
+Package hyperref Info: Link coloring ON on input line 18.
  (Doc-cafeteria.out) (Doc-cafeteria.out)
-\@outlinefile=\write3
-\openout3 = `Doc-cafeteria.out'.
+\@outlinefile=\write4
+\openout4 = `Doc-cafeteria.out'.
+
+
+
+Package todonotes Warning: The length marginparwidth is less than 2cm and will 
+most likely cause issues with the appearance of inserted todonotes. The issue c
+an be solved by adding a line like \setlength {\marginparwidth }{2cm} prior to 
+loading the todonotes package. on input line 18.
 
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <14.4> on input line 20.
+(Font)              <14.4> on input line 21.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 20.
+(Font)              <7> on input line 21.
 
-Overfull \hbox (53.67459pt too wide) in paragraph at lines 20--20
+Overfull \hbox (53.67459pt too wide) in paragraph at lines 21--21
  [][] 
  []
 
@@ -317,7 +676,7 @@ Overfull \hbox (53.67459pt too wide) in paragraph at lines 20--20
 
 {C:/Users/victo/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
 ! Undefined control sequence.
-l.23 \p
+l.24 \p
         Este es una idea de proyecto donde se busca optimizar el tiempo de r...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -332,7 +691,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.23 ... de respuesta del restaurante o cafetería,
+l.24 ... de respuesta del restaurante o cafetería,
                                                    donde los clientes al lle...
 
 The document does not appear to be in UTF-8 encoding.
@@ -351,8 +710,8 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 4.
 )
-\tf@toc=\write4
-\openout4 = `Doc-cafeteria.toc'.
+\tf@toc=\write5
+\openout5 = `Doc-cafeteria.toc'.
 
  [3]
 
@@ -362,7 +721,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.57 	\item Notificar que el pedido ya está li
+l.58 	\item Notificar que el pedido ya está li
                                               sto.
 The document does not appear to be in UTF-8 encoding.
 Try adding \UseRawInputEncoding as the first line of the file
@@ -371,61 +730,48 @@ in the document preamble.
 Alternatively, save the file in UTF-8 using your editor or another tool
 
 [4] [5]
-
-LaTeX Warning: File `C:/Users/victo/OneDrive/Escritorio/Cafeteria-Menu/Assets/I
-mg/DiagramaCasos/Diagrama-casos-user.png' not found on input line 74.
-
-
-! Package pdftex.def Error: File `C:/Users/victo/OneDrive/Escritorio/Cafeteria-
-Menu/Assets/Img/DiagramaCasos/Diagrama-casos-user.png' not found: using draft s
-etting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.74 ...Img/DiagramaCasos/Diagrama-casos-user.png}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-LaTeX Warning: File `C:/Users/victo/OneDrive/Escritorio/Cafeteria-Menu/Assets/I
-mg/DiagramaCasos/Diagrama-casos-receptionist.png' not found on input line 81.
-
-
-! Package pdftex.def Error: File `C:/Users/victo/OneDrive/Escritorio/Cafeteria-
-Menu/Assets/Img/DiagramaCasos/Diagrama-casos-receptionist.png' not found: using
- draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.81 ...ramaCasos/Diagrama-casos-receptionist.png}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-LaTeX Warning: File `C:/Users/victo/OneDrive/Escritorio/Cafeteria-Menu/Assets/I
-mg/DiagramaCasos/Diagrama-casos-kitchen.png' not found on input line 88.
-
-
-! Package pdftex.def Error: File `C:/Users/victo/OneDrive/Escritorio/Cafeteria-
-Menu/Assets/Img/DiagramaCasos/Diagrama-casos-kitchen.png' not found: using draf
-t setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.88 .../DiagramaCasos/Diagrama-casos-kitchen.png}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-[6] [7] [8]
+<C:/Users/victo/OneDrive/Documentos/Repositories/Amerike/3th-semester/Cafeteria
+-Menu/Assets/Img/Diagrams/DiagramaCasos/Diagrama-casos-user.png, id=147, 457.71
+pt x 332.442pt>
+File: C:/Users/victo/OneDrive/Documentos/Repositories/Amerike/3th-semester/Cafe
+teria-Menu/Assets/Img/Diagrams/DiagramaCasos/Diagrama-casos-user.png Graphic fi
+le (type png)
+<use C:/Users/victo/OneDrive/Documentos/Repositories/Amerike/3th-semester/Cafet
+eria-Menu/Assets/Img/Diagrams/DiagramaCasos/Diagrama-casos-user.png>
+Package pdftex.def Info: C:/Users/victo/OneDrive/Documentos/Repositories/Amerik
+e/3th-semester/Cafeteria-Menu/Assets/Img/Diagrams/DiagramaCasos/Diagrama-casos-
+user.png  used on input line 75.
+(pdftex.def)             Requested size: 390.0pt x 283.27197pt.
+<C:/Users/victo/OneDrive/Documentos/Repositories/Amerike/3th-semester/Cafeteria
+-Menu/Assets/Img/Diagrams/DiagramaCasos/Diagrama-casos-receptionist.png, id=149
+, 309.5565pt x 102.3825pt>
+File: C:/Users/victo/OneDrive/Documentos/Repositories/Amerike/3th-semester/Cafe
+teria-Menu/Assets/Img/Diagrams/DiagramaCasos/Diagrama-casos-receptionist.png Gr
+aphic file (type png)
+<use C:/Users/victo/OneDrive/Documentos/Repositories/Amerike/3th-semester/Cafet
+eria-Menu/Assets/Img/Diagrams/DiagramaCasos/Diagrama-casos-receptionist.png>
+Package pdftex.def Info: C:/Users/victo/OneDrive/Documentos/Repositories/Amerik
+e/3th-semester/Cafeteria-Menu/Assets/Img/Diagrams/DiagramaCasos/Diagrama-casos-
+receptionist.png  used on input line 82.
+(pdftex.def)             Requested size: 390.0pt x 128.99794pt.
+<C:/Users/victo/OneDrive/Documentos/Repositories/Amerike/3th-semester/Cafeteria
+-Menu/Assets/Img/Diagrams/DiagramaCasos/Diagrama-casos-kitchen.png, id=150, 325
+.81725pt x 105.39375pt>
+File: C:/Users/victo/OneDrive/Documentos/Repositories/Amerike/3th-semester/Cafe
+teria-Menu/Assets/Img/Diagrams/DiagramaCasos/Diagrama-casos-kitchen.png Graphic
+ file (type png)
+<use C:/Users/victo/OneDrive/Documentos/Repositories/Amerike/3th-semester/Cafet
+eria-Menu/Assets/Img/Diagrams/DiagramaCasos/Diagrama-casos-kitchen.png>
+Package pdftex.def Info: C:/Users/victo/OneDrive/Documentos/Repositories/Amerik
+e/3th-semester/Cafeteria-Menu/Assets/Img/Diagrams/DiagramaCasos/Diagrama-casos-
+kitchen.png  used on input line 89.
+(pdftex.def)             Requested size: 390.0pt x 126.15665pt.
+ [6 <C:/Users/victo/OneDrive/Documentos/Repositories/Amerike/3th-semester/Cafet
+eria-Menu/Assets/Img/Diagrams/DiagramaCasos/Diagrama-casos-user.png>]
+[7 <C:/Users/victo/OneDrive/Documentos/Repositories/Amerike/3th-semester/Cafete
+ria-Menu/Assets/Img/Diagrams/DiagramaCasos/Diagrama-casos-receptionist.png> <C:
+/Users/victo/OneDrive/Documentos/Repositories/Amerike/3th-semester/Cafeteria-Me
+nu/Assets/Img/Diagrams/DiagramaCasos/Diagrama-casos-kitchen.png>]
 
 ! LaTeX Error: Invalid UTF-8 byte sequence (ía.).
 
@@ -433,8 +779,8 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.98   \item Seleccionar una categoría.
-                                       
+l.100   \item Seleccionar una categoría.
+                                        
 The document does not appear to be in UTF-8 encoding.
 Try adding \UseRawInputEncoding as the first line of the file
 or specify an encoding such as \usepackage [latin1]{inputenc}
@@ -448,7 +794,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.109   \item Seleccionar una categoría.
+l.111   \item Seleccionar una categoría.
                                         
 The document does not appear to be in UTF-8 encoding.
 Try adding \UseRawInputEncoding as the first line of the file
@@ -463,38 +809,8 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.112 		\subitem Revisar la información de
+l.114 		\subitem Revisar la información de
                                           l alimento.
-The document does not appear to be in UTF-8 encoding.
-Try adding \UseRawInputEncoding as the first line of the file
-or specify an encoding such as \usepackage [latin1]{inputenc}
-in the document preamble.
-Alternatively, save the file in UTF-8 using your editor or another tool
-
-
-! LaTeX Error: Invalid UTF-8 byte sequence (ónde).
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.115 		\subitem Regresar a la selección de
-                                            categorías.
-The document does not appear to be in UTF-8 encoding.
-Try adding \UseRawInputEncoding as the first line of the file
-or specify an encoding such as \usepackage [latin1]{inputenc}
-in the document preamble.
-Alternatively, save the file in UTF-8 using your editor or another tool
-
-
-! LaTeX Error: Invalid UTF-8 byte sequence (ías).
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.115 ...tem Regresar a la selección de categorías
-                                                  .
 The document does not appear to be in UTF-8 encoding.
 Try adding \UseRawInputEncoding as the first line of the file
 or specify an encoding such as \usepackage [latin1]{inputenc}
@@ -531,214 +847,328 @@ or specify an encoding such as \usepackage [latin1]{inputenc}
 in the document preamble.
 Alternatively, save the file in UTF-8 using your editor or another tool
 
-[9]
 
-LaTeX Warning: File `C:/Users/victo/OneDrive/Escritorio/Cafeteria-Menu/Assets/I
-mg/DiagramaComponentes/Diagrama-componentes-general.png' not found on input lin
-e 131.
+! LaTeX Error: Invalid UTF-8 byte sequence (ónde).
 
-
-! Package pdftex.def Error: File `C:/Users/victo/OneDrive/Escritorio/Cafeteria-
-Menu/Assets/Img/DiagramaComponentes/Diagrama-componentes-general.png' not found
-: using draft setting.
-
-See the pdftex.def package documentation for explanation.
+See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.131 ...onentes/Diagrama-componentes-general.png}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
+l.119 		\subitem Regresar a la selección de
+                                            categorías.
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
 
 
-LaTeX Warning: File `C:/Users/victo/OneDrive/Escritorio/Cafeteria-Menu/Assets/I
-mg/DiagramaClases/Diagrama-clases-general.png' not found on input line 139.
+! LaTeX Error: Invalid UTF-8 byte sequence (ías).
 
-
-! Package pdftex.def Error: File `C:/Users/victo/OneDrive/Escritorio/Cafeteria-
-Menu/Assets/Img/DiagramaClases/Diagrama-clases-general.png' not found: using dr
-aft setting.
-
-See the pdftex.def package documentation for explanation.
+See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.139 ...agramaClases/Diagrama-clases-general.png}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
+l.119 ...tem Regresar a la selección de categorías
+                                                  .
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
 
-[10] [11]
+[8]
+<C:/Users/victo/OneDrive/Documentos/Repositories/Amerike/3th-semester/Cafeteria
+-Menu/Assets/Img/Diagrams/DiagramaComponentes/Diagrama-componentes-general.png,
+ id=170, 1081.641pt x 436.029pt>
+File: C:/Users/victo/OneDrive/Documentos/Repositories/Amerike/3th-semester/Cafe
+teria-Menu/Assets/Img/Diagrams/DiagramaComponentes/Diagrama-componentes-general
+.png Graphic file (type png)
+<use C:/Users/victo/OneDrive/Documentos/Repositories/Amerike/3th-semester/Cafet
+eria-Menu/Assets/Img/Diagrams/DiagramaComponentes/Diagrama-componentes-general.
+png>
+Package pdftex.def Info: C:/Users/victo/OneDrive/Documentos/Repositories/Amerik
+e/3th-semester/Cafeteria-Menu/Assets/Img/Diagrams/DiagramaComponentes/Diagrama-
+componentes-general.png  used on input line 133.
+(pdftex.def)             Requested size: 390.0pt x 157.21648pt.
+<C:/Users/victo/OneDrive/Documentos/Repositories/Amerike/3th-semester/Cafeteria
+-Menu/Assets/Img/Diagrams/DiagramaClases/Diagrama-clases-general.png, id=171, 9
+77.45175pt x 337.86224pt>
+File: C:/Users/victo/OneDrive/Documentos/Repositories/Amerike/3th-semester/Cafe
+teria-Menu/Assets/Img/Diagrams/DiagramaClases/Diagrama-clases-general.png Graph
+ic file (type png)
+<use C:/Users/victo/OneDrive/Documentos/Repositories/Amerike/3th-semester/Cafet
+eria-Menu/Assets/Img/Diagrams/DiagramaClases/Diagrama-clases-general.png>
+Package pdftex.def Info: C:/Users/victo/OneDrive/Documentos/Repositories/Amerik
+e/3th-semester/Cafeteria-Menu/Assets/Img/Diagrams/DiagramaClases/Diagrama-clase
+s-general.png  used on input line 142.
+(pdftex.def)             Requested size: 390.0pt x 134.80739pt.
+ [9 <C:/Users/victo/OneDrive/Documentos/Repositories/Amerike/3th-semester/Cafet
+eria-Menu/Assets/Img/Diagrams/DiagramaComponentes/Diagrama-componentes-general.
+png> <C:/Users/victo/OneDrive/Documentos/Repositories/Amerike/3th-semester/Cafe
+teria-Menu/Assets/Img/Diagrams/DiagramaClases/Diagrama-clases-general.png>]
+<C:/Users/victo/OneDrive/Documentos/Repositories/Amerike/3th-semester/Cafeteria
+-Menu/Assets/Img/Diagrams/DiagramaSecuencia/Diagrama-secuencia-general.png, id=
+180, 713.064pt x 419.166pt>
+File: C:/Users/victo/OneDrive/Documentos/Repositories/Amerike/3th-semester/Cafe
+teria-Menu/Assets/Img/Diagrams/DiagramaSecuencia/Diagrama-secuencia-general.png
+ Graphic file (type png)
+<use C:/Users/victo/OneDrive/Documentos/Repositories/Amerike/3th-semester/Cafet
+eria-Menu/Assets/Img/Diagrams/DiagramaSecuencia/Diagrama-secuencia-general.png>
 
-LaTeX Warning: File `C:/Users/victo/OneDrive/Escritorio/Cafeteria-Menu/Assets/I
-mg/DiagramaSecuencia/Diagrama-secuencia-general.png' not found on input line 14
-8.
+Package pdftex.def Info: C:/Users/victo/OneDrive/Documentos/Repositories/Amerik
+e/3th-semester/Cafeteria-Menu/Assets/Img/Diagrams/DiagramaSecuencia/Diagrama-se
+cuencia-general.png  used on input line 153.
+(pdftex.def)             Requested size: 390.0pt x 229.26282pt.
+<C:/Users/victo/OneDrive/Documentos/Repositories/Amerike/3th-semester/Cafeteria
+-Menu/Assets/Img/Diagrams/DiagramaSecuencia/Diagrama-secuencia-LogIn.png, id=18
+1, 452.892pt x 429.40425pt>
+File: C:/Users/victo/OneDrive/Documentos/Repositories/Amerike/3th-semester/Cafe
+teria-Menu/Assets/Img/Diagrams/DiagramaSecuencia/Diagrama-secuencia-LogIn.png G
+raphic file (type png)
+<use C:/Users/victo/OneDrive/Documentos/Repositories/Amerike/3th-semester/Cafet
+eria-Menu/Assets/Img/Diagrams/DiagramaSecuencia/Diagrama-secuencia-LogIn.png>
+Package pdftex.def Info: C:/Users/victo/OneDrive/Documentos/Repositories/Amerik
+e/3th-semester/Cafeteria-Menu/Assets/Img/Diagrams/DiagramaSecuencia/Diagrama-se
+cuencia-LogIn.png  used on input line 160.
+(pdftex.def)             Requested size: 390.0pt x 369.78496pt.
+<C:/Users/victo/OneDrive/Documentos/Repositories/Amerike/3th-semester/Cafeteria
+-Menu/Assets/Img/Diagrams/DiagramaSecuencia/Diagrama-secuencia-SignUp.png, id=1
+82, 268.00125pt x 440.24475pt>
+File: C:/Users/victo/OneDrive/Documentos/Repositories/Amerike/3th-semester/Cafe
+teria-Menu/Assets/Img/Diagrams/DiagramaSecuencia/Diagrama-secuencia-SignUp.png 
+Graphic file (type png)
+<use C:/Users/victo/OneDrive/Documentos/Repositories/Amerike/3th-semester/Cafet
+eria-Menu/Assets/Img/Diagrams/DiagramaSecuencia/Diagrama-secuencia-SignUp.png>
+Package pdftex.def Info: C:/Users/victo/OneDrive/Documentos/Repositories/Amerik
+e/3th-semester/Cafeteria-Menu/Assets/Img/Diagrams/DiagramaSecuencia/Diagrama-se
+cuencia-SignUp.png  used on input line 167.
+(pdftex.def)             Requested size: 312.00119pt x 512.51817pt.
+<C:/Users/victo/OneDrive/Documentos/Repositories/Amerike/3th-semester/Cafeteria
+-Menu/Assets/Img/Diagrams/DiagramaSecuencia/Diagrama-secuencia-agregar-comida.p
+ng, id=183, 436.029pt x 436.63126pt>
+File: C:/Users/victo/OneDrive/Documentos/Repositories/Amerike/3th-semester/Cafe
+teria-Menu/Assets/Img/Diagrams/DiagramaSecuencia/Diagrama-secuencia-agregar-com
+ida.png Graphic file (type png)
+<use C:/Users/victo/OneDrive/Documentos/Repositories/Amerike/3th-semester/Cafet
+eria-Menu/Assets/Img/Diagrams/DiagramaSecuencia/Diagrama-secuencia-agregar-comi
+da.png>
+Package pdftex.def Info: C:/Users/victo/OneDrive/Documentos/Repositories/Amerik
+e/3th-semester/Cafeteria-Menu/Assets/Img/Diagrams/DiagramaSecuencia/Diagrama-se
+cuencia-agregar-comida.png  used on input line 174.
+(pdftex.def)             Requested size: 390.0pt x 390.55936pt.
+<C:/Users/victo/OneDrive/Documentos/Repositories/Amerike/3th-semester/Cafeteria
+-Menu/Assets/Img/Diagrams/DiagramaSecuencia/Diagrama-secuencia-orders.png, id=1
+84, 390.86024pt x 437.83575pt>
+File: C:/Users/victo/OneDrive/Documentos/Repositories/Amerike/3th-semester/Cafe
+teria-Menu/Assets/Img/Diagrams/DiagramaSecuencia/Diagrama-secuencia-orders.png 
+Graphic file (type png)
+<use C:/Users/victo/OneDrive/Documentos/Repositories/Amerike/3th-semester/Cafet
+eria-Menu/Assets/Img/Diagrams/DiagramaSecuencia/Diagrama-secuencia-orders.png>
+Package pdftex.def Info: C:/Users/victo/OneDrive/Documentos/Repositories/Amerik
+e/3th-semester/Cafeteria-Menu/Assets/Img/Diagrams/DiagramaSecuencia/Diagrama-se
+cuencia-orders.png  used on input line 181.
+(pdftex.def)             Requested size: 390.0pt x 436.886pt.
+
+[10 <C:/Users/victo/OneDrive/Documentos/Repositories/Amerike/3th-semester/Cafet
+eria-Menu/Assets/Img/Diagrams/DiagramaSecuencia/Diagrama-secuencia-general.png>
+] [11 <C:/Users/victo/OneDrive/Documentos/Repositories/Amerike/3th-semester/Caf
+eteria-Menu/Assets/Img/Diagrams/DiagramaSecuencia/Diagrama-secuencia-LogIn.png>
+] [12 <C:/Users/victo/OneDrive/Documentos/Repositories/Amerike/3th-semester/Caf
+eteria-Menu/Assets/Img/Diagrams/DiagramaSecuencia/Diagrama-secuencia-SignUp.png
+>] [13 <C:/Users/victo/OneDrive/Documentos/Repositories/Amerike/3th-semester/Ca
+feteria-Menu/Assets/Img/Diagrams/DiagramaSecuencia/Diagrama-secuencia-agregar-c
+omida.png>] [14 <C:/Users/victo/OneDrive/Documentos/Repositories/Amerike/3th-se
+mester/Cafeteria-Menu/Assets/Img/Diagrams/DiagramaSecuencia/Diagrama-secuencia-
+orders.png>]
+<C:/Users/victo/OneDrive/Documentos/Repositories/Amerike/3th-semester/Cafeteria
+-Menu/Assets/Img/Diagrams/DiagramasFlujo/DiagramaFlujo-LogIn.png, id=216, 542.7
+7782pt x 571.38469pt>
+File: C:/Users/victo/OneDrive/Documentos/Repositories/Amerike/3th-semester/Cafe
+teria-Menu/Assets/Img/Diagrams/DiagramasFlujo/DiagramaFlujo-LogIn.png Graphic f
+ile (type png)
+<use C:/Users/victo/OneDrive/Documentos/Repositories/Amerike/3th-semester/Cafet
+eria-Menu/Assets/Img/Diagrams/DiagramasFlujo/DiagramaFlujo-LogIn.png>
+Package pdftex.def Info: C:/Users/victo/OneDrive/Documentos/Repositories/Amerik
+e/3th-semester/Cafeteria-Menu/Assets/Img/Diagrams/DiagramasFlujo/DiagramaFlujo-
+LogIn.png  used on input line 192.
+(pdftex.def)             Requested size: 350.99762pt x 369.51242pt.
+<C:/Users/victo/OneDrive/Documentos/Repositories/Amerike/3th-semester/Cafeteria
+-Menu/Assets/Img/Diagrams/DiagramasFlujo/DiagramaFlujo-SignUp.png, id=217, 288.
+3272pt x 478.03593pt>
+File: C:/Users/victo/OneDrive/Documentos/Repositories/Amerike/3th-semester/Cafe
+teria-Menu/Assets/Img/Diagrams/DiagramasFlujo/DiagramaFlujo-SignUp.png Graphic 
+file (type png)
+<use C:/Users/victo/OneDrive/Documentos/Repositories/Amerike/3th-semester/Cafet
+eria-Menu/Assets/Img/Diagrams/DiagramasFlujo/DiagramaFlujo-SignUp.png>
+Package pdftex.def Info: C:/Users/victo/OneDrive/Documentos/Repositories/Amerik
+e/3th-semester/Cafeteria-Menu/Assets/Img/Diagrams/DiagramasFlujo/DiagramaFlujo-
+SignUp.png  used on input line 199.
+(pdftex.def)             Requested size: 312.00119pt x 517.3069pt.
+<C:/Users/victo/OneDrive/Documentos/Repositories/Amerike/3th-semester/Cafeteria
+-Menu/Assets/Img/Diagrams/DiagramasFlujo/DiagramaFlujo-UI.png, id=218, 1228.59p
+t x 567.62062pt>
+File: C:/Users/victo/OneDrive/Documentos/Repositories/Amerike/3th-semester/Cafe
+teria-Menu/Assets/Img/Diagrams/DiagramasFlujo/DiagramaFlujo-UI.png Graphic file
+ (type png)
+<use C:/Users/victo/OneDrive/Documentos/Repositories/Amerike/3th-semester/Cafet
+eria-Menu/Assets/Img/Diagrams/DiagramasFlujo/DiagramaFlujo-UI.png>
+Package pdftex.def Info: C:/Users/victo/OneDrive/Documentos/Repositories/Amerik
+e/3th-semester/Cafeteria-Menu/Assets/Img/Diagrams/DiagramasFlujo/DiagramaFlujo-
+UI.png  used on input line 206.
+(pdftex.def)             Requested size: 390.0pt x 180.18723pt.
+<C:/Users/victo/OneDrive/Documentos/Repositories/Amerike/3th-semester/Cafeteria
+-Menu/Assets/Img/Diagrams/DiagramasFlujo/DiagramFlujo-Basket.png, id=219, 411.7
+8844pt x 312.41719pt>
+File: C:/Users/victo/OneDrive/Documentos/Repositories/Amerike/3th-semester/Cafe
+teria-Menu/Assets/Img/Diagrams/DiagramasFlujo/DiagramFlujo-Basket.png Graphic f
+ile (type png)
+<use C:/Users/victo/OneDrive/Documentos/Repositories/Amerike/3th-semester/Cafet
+eria-Menu/Assets/Img/Diagrams/DiagramasFlujo/DiagramFlujo-Basket.png>
+Package pdftex.def Info: C:/Users/victo/OneDrive/Documentos/Repositories/Amerik
+e/3th-semester/Cafeteria-Menu/Assets/Img/Diagrams/DiagramasFlujo/DiagramFlujo-B
+asket.png  used on input line 213.
+(pdftex.def)             Requested size: 390.0pt x 295.88889pt.
+ [15 <C:/Users/victo/OneDrive/Documentos/Repositories/Amerike/3th-semester/Cafe
+teria-Menu/Assets/Img/Diagrams/DiagramasFlujo/DiagramaFlujo-LogIn.png>] [16 <C:
+/Users/victo/OneDrive/Documentos/Repositories/Amerike/3th-semester/Cafeteria-Me
+nu/Assets/Img/Diagrams/DiagramasFlujo/DiagramaFlujo-SignUp.png>]
+[17 <C:/Users/victo/OneDrive/Documentos/Repositories/Amerike/3th-semester/Cafet
+eria-Menu/Assets/Img/Diagrams/DiagramasFlujo/DiagramaFlujo-UI.png> <C:/Users/vi
+cto/OneDrive/Documentos/Repositories/Amerike/3th-semester/Cafeteria-Menu/Assets
+/Img/Diagrams/DiagramasFlujo/DiagramFlujo-Basket.png>]
+<C:/Users/victo/OneDrive/Documentos/Repositories/Amerike/3th-semester/Cafeteria
+-Menu/Assets/Img/Diagrams/DiagramasEstado/DiagramaEstados.png, id=240, 609.0253
+1pt x 281.55188pt>
+File: C:/Users/victo/OneDrive/Documentos/Repositories/Amerike/3th-semester/Cafe
+teria-Menu/Assets/Img/Diagrams/DiagramasEstado/DiagramaEstados.png Graphic file
+ (type png)
+<use C:/Users/victo/OneDrive/Documentos/Repositories/Amerike/3th-semester/Cafet
+eria-Menu/Assets/Img/Diagrams/DiagramasEstado/DiagramaEstados.png>
+Package pdftex.def Info: C:/Users/victo/OneDrive/Documentos/Repositories/Amerik
+e/3th-semester/Cafeteria-Menu/Assets/Img/Diagrams/DiagramasEstado/DiagramaEstad
+os.png  used on input line 223.
+(pdftex.def)             Requested size: 390.0pt x 180.29997pt.
+ [18 <C:/Users/victo/OneDrive/Documentos/Repositories/Amerike/3th-semester/Cafe
+teria-Menu/Assets/Img/Diagrams/DiagramasEstado/DiagramaEstados.png>]
+<C:/Users/victo/OneDrive/Documentos/Repositories/Amerike/3th-semester/Cafeteria
+-Menu/Assets/Img/Art/UI/UI-prototype.jpg, id=247, 772.8875pt x 656.4525pt>
+File: C:/Users/victo/OneDrive/Documentos/Repositories/Amerike/3th-semester/Cafe
+teria-Menu/Assets/Img/Art/UI/UI-prototype.jpg Graphic file (type jpg)
+<use C:/Users/victo/OneDrive/Documentos/Repositories/Amerike/3th-semester/Cafet
+eria-Menu/Assets/Img/Art/UI/UI-prototype.jpg>
+Package pdftex.def Info: C:/Users/victo/OneDrive/Documentos/Repositories/Amerik
+e/3th-semester/Cafeteria-Menu/Assets/Img/Art/UI/UI-prototype.jpg  used on input
+ line 233.
+(pdftex.def)             Requested size: 390.0pt x 331.25047pt.
+<C:/Users/victo/OneDrive/Documentos/Repositories/Amerike/3th-semester/Cafeteria
+-Menu/Assets/Img/Art/UI/UI.png, id=248, 982.67125pt x 506.89375pt>
+File: C:/Users/victo/OneDrive/Documentos/Repositories/Amerike/3th-semester/Cafe
+teria-Menu/Assets/Img/Art/UI/UI.png Graphic file (type png)
+<use C:/Users/victo/OneDrive/Documentos/Repositories/Amerike/3th-semester/Cafet
+eria-Menu/Assets/Img/Art/UI/UI.png>
+Package pdftex.def Info: C:/Users/victo/OneDrive/Documentos/Repositories/Amerik
+e/3th-semester/Cafeteria-Menu/Assets/Img/Art/UI/UI.png  used on input line 240.
+
+(pdftex.def)             Requested size: 390.0pt x 201.17606pt.
+ [19 <C:/Users/victo/OneDrive/Documentos/Repositories/Amerike/3th-semester/Cafe
+teria-Menu/Assets/Img/Art/UI/UI-prototype.jpg>]
+! Undefined control sequence.
+l.246 \p
+         . . .
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+[20 <C:/Users/victo/OneDrive/Documentos/Repositories/Amerike/3th-semester/Cafet
+eria-Menu/Assets/Img/Art/UI/UI.png>]
+! Undefined control sequence.
+l.251 \p
+         Somos una empresa con experiencia en el desarrollo de software inte...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+<C:/Users/victo/OneDrive/Documentos/Repositories/Amerike/3th-semester/Cafeteria
+-Menu/Assets/Img/Art/EclipseLogo.png, id=261, 440.24475pt x 394.47375pt>
+File: C:/Users/victo/OneDrive/Documentos/Repositories/Amerike/3th-semester/Cafe
+teria-Menu/Assets/Img/Art/EclipseLogo.png Graphic file (type png)
+<use C:/Users/victo/OneDrive/Documentos/Repositories/Amerike/3th-semester/Cafet
+eria-Menu/Assets/Img/Art/EclipseLogo.png>
+Package pdftex.def Info: C:/Users/victo/OneDrive/Documentos/Repositories/Amerik
+e/3th-semester/Cafeteria-Menu/Assets/Img/Art/EclipseLogo.png  used on input lin
+e 256.
+(pdftex.def)             Requested size: 350.99762pt x 314.52005pt.
+! Undefined control sequence.
+l.262 \p
+         El nombre de Famtime Food se refiere a la combinacion de las palabr...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+<C:/Users/victo/OneDrive/Documentos/Repositories/Amerike/3th-semester/Cafeteria
+-Menu/Assets/Img/Art/Icon/App/Icon.png, id=262, 233.87375pt x 233.87375pt>
+File: C:/Users/victo/OneDrive/Documentos/Repositories/Amerike/3th-semester/Cafe
+teria-Menu/Assets/Img/Art/Icon/App/Icon.png Graphic file (type png)
+<use C:/Users/victo/OneDrive/Documentos/Repositories/Amerike/3th-semester/Cafet
+eria-Menu/Assets/Img/Art/Icon/App/Icon.png>
+Package pdftex.def Info: C:/Users/victo/OneDrive/Documentos/Repositories/Amerik
+e/3th-semester/Cafeteria-Menu/Assets/Img/Art/Icon/App/Icon.png  used on input l
+ine 265.
+(pdftex.def)             Requested size: 117.00119pt x 117.00081pt.
+[21 <C:/Users/victo/OneDrive/Documentos/Repositories/Amerike/3th-semester/Cafet
+eria-Menu/Assets/Img/Art/EclipseLogo.png>]
+<C:/Users/victo/OneDrive/Documentos/Repositories/Amerike/3th-semester/Cafeteria
+-Menu/Assets/Img/Art/UI/Art&&Palette.png, id=269, 529.98pt x 271.0125pt>
+File: C:/Users/victo/OneDrive/Documentos/Repositories/Amerike/3th-semester/Cafe
+teria-Menu/Assets/Img/Art/UI/Art&&Palette.png Graphic file (type png)
+<use C:/Users/victo/OneDrive/Documentos/Repositories/Amerike/3th-semester/Cafet
+eria-Menu/Assets/Img/Art/UI/Art&&Palette.png>
+Package pdftex.def Info: C:/Users/victo/OneDrive/Documentos/Repositories/Amerik
+e/3th-semester/Cafeteria-Menu/Assets/Img/Art/UI/Art&&Palette.png  used on input
+ line 274.
+(pdftex.def)             Requested size: 390.0pt x 199.4337pt.
+ [22 <C:/Users/victo/OneDrive/Documentos/Repositories/Amerike/3th-semester/Cafe
+teria-Menu/Assets/Img/Art/Icon/App/Icon.png> <C:/Users/victo/OneDrive/Documento
+s/Repositories/Amerike/3th-semester/Cafeteria-Menu/Assets/Img/Art/UI/Art&&Palet
+te.png>]
+! Undefined control sequence.
+l.282 \p
+         El prototipo fue hecho mediante el uso del software de Figma
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Package hyperref Info: bookmark level for unknown todo defaults to 0 on input l
+ine 286.
+
+Overfull \hbox (5.89961pt too wide) in paragraph at lines 286--286
+[][][]\OT1/cmr/m/n/12 Funcion 
+ []
 
 
-! Package pdftex.def Error: File `C:/Users/victo/OneDrive/Escritorio/Cafeteria-
-Menu/Assets/Img/DiagramaSecuencia/Diagrama-secuencia-general.png' not found: us
-ing draft setting.
+Overfull \hbox (5.89961pt too wide) in paragraph at lines 286--286
+[][][]\OT1/cmr/m/n/12 Funcion 
+ []
 
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.148 ...Secuencia/Diagrama-secuencia-general.png}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
+! Undefined control sequence.
+l.287 \p
+         La funcion de ver mas informacion solo se encuentra representada en...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
 
-
-LaTeX Warning: File `C:/Users/victo/OneDrive/Escritorio/Cafeteria-Menu/Assets/I
-mg/DiagramaSecuencia/Diagrama-secuencia-LogIn.png' not found on input line 155.
-
-
-
-! Package pdftex.def Error: File `C:/Users/victo/OneDrive/Escritorio/Cafeteria-
-Menu/Assets/Img/DiagramaSecuencia/Diagrama-secuencia-LogIn.png' not found: usin
-g draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.155 ...maSecuencia/Diagrama-secuencia-LogIn.png}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-LaTeX Warning: File `C:/Users/victo/OneDrive/Escritorio/Cafeteria-Menu/Assets/I
-mg/DiagramaSecuencia/Diagrama-secuencia-SignUp.png' not found on input line 162
-.
-
-
-! Package pdftex.def Error: File `C:/Users/victo/OneDrive/Escritorio/Cafeteria-
-Menu/Assets/Img/DiagramaSecuencia/Diagrama-secuencia-SignUp.png' not found: usi
-ng draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.162 ...aSecuencia/Diagrama-secuencia-SignUp.png}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-LaTeX Warning: File `C:/Users/victo/OneDrive/Escritorio/Cafeteria-Menu/Assets/I
-mg/DiagramaSecuencia/Diagrama-secuencia-agregar-comida.png' not found on input 
-line 169.
-
-
-! Package pdftex.def Error: File `C:/Users/victo/OneDrive/Escritorio/Cafeteria-
-Menu/Assets/Img/DiagramaSecuencia/Diagrama-secuencia-agregar-comida.png' not fo
-und: using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.169 ...ia/Diagrama-secuencia-agregar-comida.png}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-LaTeX Warning: File `C:/Users/victo/OneDrive/Escritorio/Cafeteria-Menu/Assets/I
-mg/DiagramaSecuencia/Diagrama-secuencia-orders.png' not found on input line 176
-.
-
-
-! Package pdftex.def Error: File `C:/Users/victo/OneDrive/Escritorio/Cafeteria-
-Menu/Assets/Img/DiagramaSecuencia/Diagrama-secuencia-orders.png' not found: usi
-ng draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.176 ...aSecuencia/Diagrama-secuencia-orders.png}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-[12] [13] [14] [15] [16]
-
-LaTeX Warning: File `C:/Users/victo/OneDrive/Escritorio/Cafeteria-Menu/Assets/I
-mg/DiagramasFlujo/DiagramaFlujo-LogIn.png' not found on input line 187.
-
-
-! Package pdftex.def Error: File `C:/Users/victo/OneDrive/Escritorio/Cafeteria-
-Menu/Assets/Img/DiagramasFlujo/DiagramaFlujo-LogIn.png' not found: using draft 
-setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.187 ...g/DiagramasFlujo/DiagramaFlujo-LogIn.png}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-LaTeX Warning: File `C:/Users/victo/OneDrive/Escritorio/Cafeteria-Menu/Assets/I
-mg/DiagramasFlujo/DiagramaFlujo-SignUp.png' not found on input line 194.
-
-
-! Package pdftex.def Error: File `C:/Users/victo/OneDrive/Escritorio/Cafeteria-
-Menu/Assets/Img/DiagramasFlujo/DiagramaFlujo-SignUp.png' not found: using draft
- setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.194 .../DiagramasFlujo/DiagramaFlujo-SignUp.png}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-LaTeX Warning: File `C:/Users/victo/OneDrive/Escritorio/Cafeteria-Menu/Assets/I
-mg/DiagramasFlujo/DiagramaFlujo-UI.png' not found on input line 201.
-
-
-! Package pdftex.def Error: File `C:/Users/victo/OneDrive/Escritorio/Cafeteria-
-Menu/Assets/Img/DiagramasFlujo/DiagramaFlujo-UI.png' not found: using draft set
-ting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.201 .../Img/DiagramasFlujo/DiagramaFlujo-UI.png}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-LaTeX Warning: File `C:/Users/victo/OneDrive/Escritorio/Cafeteria-Menu/Assets/I
-mg/DiagramasFlujo/DiagramFlujo-Basket.png' not found on input line 208.
-
-
-! Package pdftex.def Error: File `C:/Users/victo/OneDrive/Escritorio/Cafeteria-
-Menu/Assets/Img/DiagramasFlujo/DiagramFlujo-Basket.png' not found: using draft 
-setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.208 ...g/DiagramasFlujo/DiagramFlujo-Basket.png}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-[17] [18] [19] [20] (Doc-cafeteria.aux
+[23] (Doc-cafeteria.aux
 LaTeX Info: Redefining \. on input line 22.
 LaTeX Info: Redefining \% on input line 22.
 )
@@ -748,34 +1178,28 @@ L3 programming layer <2023-08-29>
  ***********
 
 
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+LaTeX Warning: There were multiply-defined labels.
 
-
-Package rerunfilecheck Warning: File `Doc-cafeteria.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `Doc-cafeteria.out':
-(rerunfilecheck)             Before: A0E1F0B9316E5BD7B3849032705C804A;2007
-(rerunfilecheck)             After:  A3CAC08DEA4899CEF7118C2D29BF0326;1992.
+Package rerunfilecheck Info: File `Doc-cafeteria.out' has not changed.
+(rerunfilecheck)             Checksum: B84DF608A24E79111CF9CFDAEB6A80C3;3283.
  ) 
 Here is how much of TeX's memory you used:
- 10384 strings out of 475248
- 207900 string characters out of 5757814
- 1924801 words of memory out of 5000000
- 31753 multiletter control sequences out of 15000+600000
- 563753 words of font info for 55 fonts, out of 8000000 for 9000
+ 21230 strings out of 475248
+ 420853 string characters out of 5757814
+ 1927801 words of memory out of 5000000
+ 42353 multiletter control sequences out of 15000+600000
+ 563584 words of font info for 54 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,6n,79p,385b,514s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 99i,9n,101p,437b,971s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/victo/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/
 cmbx12.pfb><C:/Users/victo/AppData/Local/Programs/MiKTeX/fonts/type1/public/ams
 fonts/cm/cmr12.pfb><C:/Users/victo/AppData/Local/Programs/MiKTeX/fonts/type1/pu
 blic/amsfonts/cm/cmr17.pfb><C:/Users/victo/AppData/Local/Programs/MiKTeX/fonts/
-type1/public/amsfonts/cm/cmti12.pfb><C:/Users/victo/AppData/Local/Programs/MiKT
-eX/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
-Output written on Doc-cafeteria.pdf (20 pages, 94752 bytes).
+type1/public/amsfonts/cm/cmr8.pfb><C:/Users/victo/AppData/Local/Programs/MiKTeX
+/fonts/type1/public/amsfonts/cm/cmti12.pfb>
+Output written on Doc-cafeteria.pdf (23 pages, 824777 bytes).
 PDF statistics:
- 218 PDF objects out of 1000 (max. 8388607)
- 51 named destinations out of 1000 (max. 500000)
- 121 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 324 PDF objects out of 1000 (max. 8388607)
+ 69 named destinations out of 1000 (max. 500000)
+ 297 words of extra memory for PDF output out of 10000 (max. 10000000)
 
