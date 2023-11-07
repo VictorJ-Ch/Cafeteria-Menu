@@ -1,8 +1,56 @@
-  
-  .inicio{
+ .inicio{
     background-color:#C77D3C;
     .Texto{
       font-size: 5rem;
       color: darkgreen;
     }
-   }
+    }
+/* Estilos personalizados para el cuadro y otros elementos */
+.custom-cuadro {
+  position: relative;
+  width: 50%;
+  height: 100px; /* Altura inicial del cuadro */
+  background-color:#FBC596;
+  border-radius: 20px;
+  overflow: hidden;
+  cursor: pointer;
+  transition: height 0.3s ease; /* Aplicar transición a la altura del cuadro */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.custom-cuadro img {
+  max-width: 100%; /* La imagen se ajustará automáticamente al tamaño del cuadro */
+  max-height: 100%; /* La imagen se ajustará automáticamente al tamaño del cuadro */
+}
+
+.custom-cuadro .texto {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  color: #090000;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 10px;
+}
+
+.custom-cuadro:hover {
+  transform: scale(1.1);
+}
+/* Estilos específicos para la navbar de Bootstrap */
+.navbar {
+  background-color: #333;
+  color: #fff;
+}
+
+/* Estilos específicos para el enlace de la navbar de Bootstrap */
+.navbar-nav .nav-link {
+  color: #fff;
+}
+
+/* Otros estilos personalizados para tu aplicación */
