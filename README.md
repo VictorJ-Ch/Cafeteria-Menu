@@ -145,14 +145,14 @@
     En esta sección se especifican a los integrantes del equipo, puesto que dependiendo de la materia hay participaciones de cada uno de los miembros, provocando que se refleje en la participación total hacia el proyecto.
   </span>
   <ul>
-    <li>Desarrollo de App</li>
+    <li>Desarrollo de App y Compocisión</li>
     <ul>
       <li>Víctor Chavarría</li>
       <li>Samuel Gutierrez</li>
       <li>Jonathan Zavala</li>
       <li>Grecia Morales</li>
     </ul>
-    <li>Lenguajes interpretados, Compocisión y Sistemas Operativos</li>
+    <li>Lenguajes interpretados y Sistemas Operativos</li>
     <ul>
       <li>Víctor Chavarría</li>
       <li>Samuel Gutierrez</li>
@@ -168,30 +168,50 @@
   <ul>
     <li>Víctor Chavarría</li>
     <ul>
-      <li>Lorem ipsum</li>
-      <li>Lorem ipsum</li>
-      <li>Lorem ipsum</li>
-      <li>Lorem ipsum</li>
+      <li>Creo el repositorio.</li>
+      <li>Flujo ideal y alterno.</li>
+      <li>Boceto 1 de UI.</li>
+      <li>Requerimientos funcionales y no funcionales</li>
+      <li>Diagrama de componentes.</li>
+      <li>Diagrama de clases.</li>
+      <li>Diagramas de secuencia.</li>
+      <li>Diagrama de flujo de UI y SignIn.</li>
+      <li>Diagrama de estado.</li>
+      <li>Cover de la app.</li>
+      <li>Buyer person del cliente ideal.</li>
+      <li>Documentación en Latex.</li>
+      <li>Empathy Map de la clase alta.</li>
+      <li>Buyer person de la clase alta.</li>
+      <li>README updates.</li>
+      <li>Prototipo funcional.</li>
+      <li>App icon.</li>
     </ul>
     <li>Samuel Gutierrez</li>
     <ul>
-      <li>Lorem ipsum</li>
-      <li>Lorem ipsum</li>
-      <li>Lorem ipsum</li>
-      <li>Lorem ipsum</li>
+      <li>Requerimientos funcionales y no funcionales</li>
+      <li>Diagrama de flujo de LogIn y Basket</li>
+      <li>Cover de la app.</li>
+      <li>Journey map.</li>
+      <li>Empathy map de la clase baja.</li>
+      <li>Buyer person de la clase baja.</li>
+      <li>Prototipo funcional.</li>
     </ul>
     <li>Jonathan Zavala</li>
     <ul>
-      <li>Lorem ipsum</li>
-      <li>Lorem ipsum</li>
-      <li>Lorem ipsum</li>
-      <li>Lorem ipsum</li>
+      <li>Requerimientos funcionales y no funcionales</li> 
+      <li>Cover de la app.</li>
+      <li>Journey map.</li>
+      <li>Empathy map de la clase media.</li>
+      <li>Buyer person de la clase alta.</li>
+      <li>Prototipo funcional.</li>
+      <li>menu.html</li>
     </ul>
     <li>Grecia Morales</li>
     <ul>
-      <li>Lorem ipsum</li>
-      <li>Lorem ipsum</li>
-      <li>Lorem ipsum</li>
+      <li>Diagrama de estado.</li>
+      <li>Requerimientos funcionales y no funcionales</li>
+      <li>Empathy map del cliente ideal.</li>
+      <li>Prototipo funcional.</li>
       <li>Lorem ipsum</li>
     </ul>
   </ul>
