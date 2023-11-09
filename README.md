@@ -170,7 +170,7 @@
     <ul>
       <li>Creo el repositorio.</li>
       <li>Flujo ideal y alterno.</li>
-      <li>Boceto 1 de UI.</li>
+      <li>Boceto de UI.</li>
       <li>Requerimientos funcionales y no funcionales</li>
       <li>Diagrama de componentes.</li>
       <li>Diagrama de clases.</li>
@@ -195,6 +195,7 @@
       <li>Empathy map de la clase baja.</li>
       <li>Buyer person de la clase baja.</li>
       <li>Prototipo funcional.</li>
+      <li>Base de datos al código.</li>
     </ul>
     <li>Jonathan Zavala</li>
     <ul>
@@ -204,7 +205,7 @@
       <li>Empathy map de la clase media.</li>
       <li>Buyer person de la clase alta.</li>
       <li>Prototipo funcional.</li>
-      <li>menu.html</li>
+      <li>Categorias de comida - front-end.</li>
     </ul>
     <li>Grecia Morales</li>
     <ul>
