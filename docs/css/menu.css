@@ -1,6 +1,5 @@
  .inicio{
     background-color:#C77D3C;
-  
     .Texto{
       font-size: 5rem;
       color: darkgreen;
@@ -32,11 +31,11 @@
   top: 10px; /* Ajustar la distancia entre el texto y la parte superior del cuadro */
   left: 0;
   right: 0;
-  background-color: rgba(0, 0, 0, 0.7);
-  color: #fff;
+  color:black;
   text-align: center;
   padding: 10px;
   z-index: 2; /* Colocar el texto delante de la imagen */
+  font-size: 30px;
 }
 
 .custom-cuadro:hover {
