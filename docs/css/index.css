@@ -19,3 +19,19 @@ h2{
     color: darkgreen;
   }
 }
+
+body {
+  font-size: 140%;
+  background-color: #FCDCDF;
+  background-image: url(https://wallpapercave.com/wp/wp8210019.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed; 
+  background-size: cover;
+  color: black;
+}
+
+#carouselExampleIndicators {
+  margin-bottom: 1rem;
+  margin-left: 18rem; 
+  margin-right: 18rem;
+}
