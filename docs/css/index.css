@@ -27,5 +27,11 @@ body {
   background-repeat: no-repeat;
   background-attachment: fixed; 
   background-size: cover;
-  color: white;
+  color: black;
+}
+
+#carouselExampleIndicators {
+  margin-bottom: 1rem;
+  margin-left: 18rem; 
+  margin-right: 18rem;
 }
