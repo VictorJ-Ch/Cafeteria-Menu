@@ -145,14 +145,14 @@
     En esta sección se especifican a los integrantes del equipo, puesto que dependiendo de la materia hay participaciones de cada uno de los miembros, provocando que se refleje en la participación total hacia el proyecto.
   </span>
   <ul>
-    <li>Desarrollo de App y Compocisión</li>
+    <li>Desarrollo de App, Compocisión y Sistemas Operativos</li>
     <ul>
       <li>Víctor Chavarría</li>
       <li>Samuel Gutierrez</li>
       <li>Jonathan Zavala</li>
       <li>Grecia Morales</li>
     </ul>
-    <li>Lenguajes interpretados y Sistemas Operativos</li>
+    <li>Lenguajes Interpretados</li>
     <ul>
       <li>Víctor Chavarría</li>
       <li>Samuel Gutierrez</li>
