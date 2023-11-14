@@ -1,14 +1,12 @@
 .inicio{
-  background-image: url('/docs/img/img-menu/y7.webp'); /* Reemplaza 'ruta-de-tu-imagen.jpg' con la ruta de tu imagen */
+  background-image: url('/docs/img/img-menu/madera.webp'); /* Reemplaza 'ruta-de-tu-imagen.jpg' con la ruta de tu imagen */
   background-size: cover; /* Ajusta el tamaño de la imagen para cubrir todo el fondo */
   background-repeat: no-repeat; /* Evita que la imagen de fondo se repita */
   background-attachment: fixed; /* Fija la imagen de fondo para que no se desplace con el contenido */
-    .Texto{
-      font-size: 5rem;
-      color:black;
     }
-    }
+
 /* Estilos personalizados para el cuadro y otros elementos */
+
 .custom-cuadro {
   position: relative;
   width: 450px;
@@ -23,10 +21,9 @@
   align-items: center;
   box-shadow: 2px 2px 2px 2px rgba(0,0,0,0.8);
 }
-
 .custom-cuadro img {
-  max-width: 100%; /* La imagen se ajustará automáticamente al tamaño del cuadro */
-  max-height: 100%; /* La imagen se ajustará automáticamente al tamaño del cuadro */
+  max-width: 200%; /* La imagen se ajustará automáticamente al tamaño del cuadro */
+  max-height: 200%; /* La imagen se ajustará automáticamente al tamaño del cuadro */
   z-index: 1; /* Colocar la imagen detrás del texto */
 }
 
@@ -40,8 +37,29 @@
   padding: 10px;
   z-index: 2; /* Colocar el texto delante de la imagen */
   font-size: 30px;
+  font-family: 'Comfortaa', sans-serif;
 }
 
 .custom-cuadro:hover {
   transform: scale(1.1);
+}
+.custom-cuadro .boton {
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: 20px;
+  text-decoration: none;
+  color: #fff; /* Color del texto */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 3; /* Colocar el botón delante de la imagen y el texto */
+  transition: background-color 0.3s ease; /* Aplicar transición al color de fondo del botón */
+}
+.Texto{
+  font-family: 'Cherry Swash', serif;
+  font-size: 5rem;
+  color:#fff;
 }
