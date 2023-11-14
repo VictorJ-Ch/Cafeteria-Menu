@@ -1,16 +1,116 @@
 .TituloF {
     background-color: #7A6049;
     text-align: center;
+    font-size: 75px;
+    font-family: 'Cherry Swash', serif;
 }
 
 .Turno{
     background-color: #F99B4B;
+    font-size: 25px;
+    font-family: 'Comfortaa', sans-serif;
 }
 
 .imgTick{
     background-color: #7A6049;
 }
 
-.BtnDesc{
+.custom-cuadro {
+    left: 350px;
+    bottom: 30px;
+    position: relative;
+    width: 80px;
+    height: 75px; /* Altura inicial del cuadro */
+    background-color:#FBC596;
+    border-radius: 10px;
+    overflow: hidden;
+    cursor: pointer;
+    transition: height 0.3s ease; /* Aplicar transición a la altura del cuadro */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 2px 2px 2px 2px rgba(0,0,0,0.8);
+  }
+  
+  .custom-cuadro img {
+    max-width: 100%; /* La imagen se ajustará automáticamente al tamaño del cuadro */
+    max-height: 100%; /* La imagen se ajustará automáticamente al tamaño del cuadro */
+    z-index: 1; /* Colocar la imagen detrás del texto */
+  }
+  
+  .custom-cuadro .texto {
+    position: absolute;
+    top: 10px; /* Ajustar la distancia entre el texto y la parte superior del cuadro */
+    left: 0;
+    right: 0;
+    color:black;
+    text-align: center;
+    padding: 10px;
+    z-index: 2; /* Colocar el texto delante de la imagen */
+    font-size: 20px;
+    font-family: 'Comfortaa', sans-serif;
+  }
+  
+  .custom-cuadro:hover {
+    transform: scale(1.1);
+  }
+
+  .custom-cuadro .boton {
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    border-radius: 10px;
+    text-decoration: none;
+    color: #fff; /* Color del texto */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 3; /* Colocar el botón delante de la imagen y el texto */
+    transition: background-color 0.3s ease; /* Aplicar transición al color de fondo del botón */
+  }
+
+  .custom-cuadro2 {
+    left: 250px;
+    bottom: 30px;
+    position: relative;
+    width: 80px;
+    height: 75px; /* Altura inicial del cuadro */
+    background-color:#FBC596;
+    border-radius: 10px;
+    overflow: hidden;
+    cursor: pointer;
+    transition: height 0.3s ease; /* Aplicar transición a la altura del cuadro */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 2px 2px 2px 2px rgba(0,0,0,0.8);
+  }
+  
+  .custom-cuadro2 img {
+    max-width: 50%; /* La imagen se ajustará automáticamente al tamaño del cuadro */
+    max-height: 50%; /* La imagen se ajustará automáticamente al tamaño del cuadro */
+    z-index: 1; /* Colocar la imagen detrás del texto */
+  }
+  
+  .custom-cuadro2 .texto {
+    position: absolute;
+    top: 10px; /* Ajustar la distancia entre el texto y la parte superior del cuadro */
+    left: 0;
+    right: 0;
+    color:black;
+    text-align: center;
+    padding: 10px;
+    z-index: 2; /* Colocar el texto delante de la imagen */
+    font-size: 30px;
+  }
+  
+  .custom-cuadro2:hover {
+    transform: scale(1.1);
+  }
+  
+  .inicio{
     background-color: #7A6049;
-}
+  }
+  
