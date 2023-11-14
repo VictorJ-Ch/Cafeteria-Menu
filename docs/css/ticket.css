@@ -1,3 +1,15 @@
+.navbar{
+    margin-right: 1rem;
+    .img-small{
+    max-height: 4rem;
+    margin-left: 1rem;
+    }
+}
+.searchBar{
+    margin: 1rem;
+    margin-left: 2rem;
+    margin-right: 2rem;
+}
 .TituloF {
     background-color: #7A6049;
     text-align: center;
