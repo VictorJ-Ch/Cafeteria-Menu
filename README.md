@@ -158,6 +158,14 @@
       <li>Samuel Gutierrez</li>
       <li>Jonathan Zavala</li>
     </ul>
+    <li>Hijos agregados</li>
+    <ul>
+      <li>Riku935</li>
+      <li>EdgarPinto38</li>
+      <li>CryoStorage</li>
+      <li>SrAlmeja</li>
+      <li>Diegolec18</li>
+    </ul>
   </ul>
 </section>
 <section align="justify">
