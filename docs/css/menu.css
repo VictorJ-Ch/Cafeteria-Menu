@@ -75,3 +75,12 @@
   font-size: 5rem;
   color:#fff;
 }
+body {
+  font-size: 140%;
+  background-color:black;
+  background-repeat: no-repeat;
+  background-attachment: fixed; 
+  background-size: cover;
+  color: aliceblue;
+}
+.ini
