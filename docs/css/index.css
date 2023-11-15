@@ -42,5 +42,39 @@ p {
 }
 
 h2{
+  color: aliceblue !important;
+}
+.inicio img{
+  border-radius: 2rem;
+  height: 80%;
+  align-items: center;
+}
+
+.acerca img{
+  border-radius: 2rem;
+  height: 80%;
+  align-items: center;
+}
+
+.btn{
+  background-color: #B0EFEF;
+  color: black;
+}
+.form-group{
   color: aliceblue;
+  font-size: 140%;
+}
+
+.d-block{
+  text-align: center;
+}
+
+.custom-input {
+  background-color: #bd9bdd; 
+  opacity: 0.7; 
+}
+
+.custom-textarea {
+  background-color: #bd9bdd; 
+  opacity: 0.7; 
 }
