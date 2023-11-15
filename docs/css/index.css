@@ -20,7 +20,7 @@ body {
   background-repeat: no-repeat;
   background-attachment: fixed; 
   background-size: cover;
-  color: black;
+  color: aliceblue;
 }
 .inicio{
   .Texto{
@@ -32,4 +32,15 @@ body {
   margin-bottom: 1rem;
   margin-left: 18rem; 
   margin-right: 18rem;
+}
+
+p {
+  font-size: 140%;
+  color: aliceblue;
+  height: 250%;
+  text-align: center;
+}
+
+h2{
+  color: aliceblue;
 }
