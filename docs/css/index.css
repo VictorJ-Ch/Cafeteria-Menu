@@ -13,13 +13,6 @@ h2{
   margin-left: 2rem;
   margin-right: 2rem;
 }
-.inicio{
-  .Texto{
-    font-size: 5rem;
-    color: darkgreen;
-  }
-}
-
 body {
   font-size: 140%;
   background-color: #FCDCDF;
@@ -29,7 +22,12 @@ body {
   background-size: cover;
   color: black;
 }
-
+.inicio{
+  .Texto{
+    font-size: 5rem;
+    color: darkgreen;
+  }
+}
 #carouselExampleIndicators {
   margin-bottom: 1rem;
   margin-left: 18rem; 
