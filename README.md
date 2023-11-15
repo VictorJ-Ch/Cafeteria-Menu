@@ -185,6 +185,7 @@
       <li>README updates.</li>
       <li>Prototipo funcional.</li>
       <li>App icon.</li>
+      <li>Footers and headers.</li>
     </ul>
     <li>Samuel Gutierrez</li>
     <ul>
@@ -196,6 +197,8 @@
       <li>Buyer person de la clase baja.</li>
       <li>Prototipo funcional.</li>
       <li>Base de datos al código.</li>
+      <li>ticket.html format.</li>
+      <li>All screens format Exept(main).</li>
     </ul>
     <li>Jonathan Zavala</li>
     <ul>
@@ -206,6 +209,7 @@
       <li>Buyer person de la clase alta.</li>
       <li>Prototipo funcional.</li>
       <li>Categorias de comida - front-end.</li>
+      <li>menu.html format and bttns.</li>
     </ul>
     <li>Grecia Morales</li>
     <ul>
@@ -214,6 +218,7 @@
       <li>Empathy map del cliente ideal.</li>
       <li>Prototipo funcional.</li>
       <li>Lorem ipsum</li>
+      <li>index.html formato.</li>
     </ul>
   </ul>
 </section>
