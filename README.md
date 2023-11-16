@@ -251,5 +251,6 @@
     <p>Composer: v2.6.5</p>
     <p>PHP: v8.2.4</p>
     <p>Laravel: v10.2.9</p>
+    <p>Bootstrap: v5.3.0</p>
   </blockquote>
 </section>
