@@ -4,7 +4,7 @@
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
-        <title>Laravel</title>
+        <title>Famtime Food</title>
         <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
         <link rel="stylesheet" href="{{asset('css/welcome.css')}}">
         <!-- Fonts -->
@@ -17,42 +17,112 @@
         </style>
     </head>
     <body class="antialiased">
-        <div class="relative sm:flex sm:justify-center sm:items-center min-h-screen bg-dots-darker bg-center bg-gray-100 dark:bg-dots-lighter dark:bg-gray-900 selection:bg-red-500 selection:text-white">
-            <!--NO BORRAR-->
-            @if (Route::has('login'))
-                <div class="sm:fixed sm:top-0 sm:right-0 p-6 text-right z-10">
-                    @auth
-                        <a href="{{ url('/home') }}" class="font-semibold text-gray-600 hover:text-gray-900 dark:text-gray-400 dark:hover:text-white focus:outline focus:outline-2 focus:rounded-sm focus:outline-red-500">Home</a>
-                    @else
-                        <a href="{{ route('login') }}" class="font-semibold text-gray-600 hover:text-gray-900 dark:text-gray-400 dark:hover:text-white focus:outline focus:outline-2 focus:rounded-sm focus:outline-red-500">Log in</a>
-
-                        @if (Route::has('register'))
-                            <a href="{{ route('register') }}" class="ml-4 font-semibold text-gray-600 hover:text-gray-900 dark:text-gray-400 dark:hover:text-white focus:outline focus:outline-2 focus:rounded-sm focus:outline-red-500">Register</a>
-                        @endif
-                    @endauth
-                </div>
-            @endif
-
-            <section class="inicio">
-                <div class="container text-center">
-                    <div class="row">
-                        <div class="col-lg-4 col-md-4 col-sm-12">
-                            <span class="titulo py-3">Acerca de la Aplicacion</span>
-                            <p class="py-4">Lorem ipsum dolor sit amet consectetur adipisicing elit. Quaerat asperiores amet culpa. Dignissimos amet suscipit quos voluptas maxime commodi. Vitae tempore iusto, eum deserunt ex nemo perferendis sed velit ab?</p>
-                        </div>
-                        <div class="col-lg-4 col-md-4 col-sm-12">
-                            <span class="titulo py-3">QR_img</span>
-                            <!--DO process-->
-                            <img src="{{asset('img/eclipse-logo.png')}}" class="img-thumbnail img-fluid" alt="QR-code"> 
-                        </div>
-                    <div class="col-lg-4 col-md-4 col-sm-12">
-                            <span class="titulo py-3">Desarrolladores</span>
-                            <p class="py-4">Lorem ipsum dolor sit amet consectetur adipisicing elit. Quaerat asperiores amet culpa. Dignissimos amet suscipit quos voluptas maxime commodi. Vitae tempore iusto, eum deserunt ex nemo perferendis sed velit ab? </p>
-                        </div>
+        <header>
+            <nav class="navbar navbar-expand-lg">
+                <div class="container-fluid">
+                    <a class="navbar-brand" href="#">
+                        <img src="{{asset('img/Icon/Icon.webp')}}" class="img-fluid img-sm" alt="Famtime-food-app-logo">
+                    </a>
+                    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                        <span class="navbar-toggler-icon"></span>
+                    </button>
+                    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                        <ul class="navbar-nav mx-auto mb-2 mb-lg-0">
+                            <li class="nav-item">
+                                <img src="{{asset('img/Icon/Famtime_food_Logo.webp')}}" class=" img-fluid img-sm" alt="QR-code">
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="" id="navbarSupportedContent">
+                        <ul class="navbar-nav ml-auto mb-2 mb-lg-0">
+                            <!--NO BORRAR-->
+                            @if (Route::has('login'))
+                            <div class="sm:fixed sm:top-0 sm:right-0 p-6 text-right z-10">
+                                @auth
+                                    <button type="button" class="btn btn-outline-secondary">
+                                        <a href="{{ url('/home') }}" class="font-semibold text-black hover:text-gray-900 dark:text-gray-400 dark:hover:text-grey focus:outline focus:outline-2 focus:rounded-sm focus:outline-red-500">Home</a>
+                                    </button>
+                                @else
+                                    <button type="button" class="btn btn-outline-secondary">
+                                        <a href="{{ route('login') }}" class="font-semibold text-black hover:text-gray-900 dark:text-gray-400 dark:hover:text-grey focus:outline focus:outline-2 focus:rounded-sm focus:outline-red-500">Log in</a>
+                                    </button>
+                                    @if (Route::has('register'))
+                                        <button type="button" class="btn btn-outline-secondary">
+                                                <a href="{{ route('register') }}" class="ml-4 font-semibold text-black hover:text-gray-900 dark:text-gray-400 dark:hover:text-grey focus:outline focus:outline-2 focus:rounded-sm focus:outline-red-500">Register</a>
+                                        </button>                     
+                                    @endif
+                                @endauth
+                                </div>
+                            @endif
+                        </ul>
                     </div>
                 </div>
-            </section>
-        </div>
+            </nav>
+        </header>
+        <main>
+            <div class="relative sm:flex sm:justify-center sm:items-center min-h-screen bg-center selection:text-white">
+                <!--Start Section-->
+                <section class="inicio py-2">
+                    <div class="container text-center">
+                        <div class="row">
+                            <div class="col-lg-4 col-md-4 col-sm-12">
+                                <span class="titulo py-3">Acerca de la Aplicacion</span>
+                                <p class="py-4">Este es una idea de proyecto donde se busca optimizar el tiempo de respuesta del restaurante o cafetería, donde los clientes al llegar al restaurante o cafeteria, ya tengan su orden lista, evitando las perdidas de tiempo en espera de menu, meseros, etc. Esta aplicación está principalmente orientada hacia dispositivos móviles, puesto que se espera que la forma más fácil de implementación en el día a día de las personas sea por medio de una app web, aunque la app también contará con uma versión para escritorios.</p>
+                            </div>
+                            <div class="col-lg-4 col-md-4 col-sm-12">
+                                <span class="titulo py-3">QR_img</span>
+                                <!--DO process-->
+                                <img src="{{asset('img/eclipse-logo.png')}}" class="img-thumbnail img-fluid img-pretty" alt="QR-code"> 
+                            </div>
+                        <div class="col-lg-4 col-md-4 col-sm-12">
+                                <span class="titulo py-3">Desarrolladores</span>
+                                <p class="names py-2">Victor Chavarria</p>
+                                <p class="#">Full-stack developer and game developer/designer/manager/tester.</p>
+                                <p class="names py-2">Samuel Gutierrez</p>
+                                <p class="#">Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+                                <p class="names py-2">Jonathan Zavala</p>
+                                <p class="#">Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+                                <p class="names py-2">Grecia Morales</p>
+                                <p class="#">Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+            </div>
+        </main>
+        <footer>
+            <div class="card">
+                <div class="card-header txt-mx txt-bold">
+                    Portafolio y Terminos legales
+                </div>
+                <div class="card-body">
+                    <blockquote class="blockquote mb-0">
+                        <div class="container text-center">
+                            <div class="row">
+                                <div class="col">
+                                    <span>Victor Chavarria</span>
+                                    <a href="#" class="btn btn-primary">Portafolio</a>
+                                </div>
+                                <div class="col">
+                                    <span>Samuel Guitierrez</span>
+                                    <a href="#" class="btn btn-primary">Portafolio</a>
+                                </div>
+                                <div class="col">
+                                    <span>Jonathan Zavala</span>
+                                    <a href="#" class="btn btn-primary">Portafolio</a>
+                                </div>
+                                <div class="col">
+                                    <span>Grecia Morales</span>
+                                    <a href="#" class="btn btn-primary">Portafolio</a>
+                                </div>
+                            </div>
+                        </div>
+                        <p class="txt-sm">Este proyecto es hecho para ser un producto funcional, y todos sus derechos le pertenecen a sus creadores.</p>
+                        <span class="txt-mx">© Eclipse.</span>
+                    </blockquote>
+                </div>
+            </div>
+        </footer>
         <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL" crossorigin="anonymous"></script>
     </body>
 </html>

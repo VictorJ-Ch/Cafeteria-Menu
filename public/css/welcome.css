@@ -1,5 +1,53 @@
-.titulo{
-    font-size: 1.5rem;
-    color:aqua;
-    
+.navbar{
+    background-color: #7A4D25;
+    .img-sm{
+        max-height:4rem;
+    }
+}
+main{
+    background-color: #C77D3C;
+}
+.inicio{
+    .titulo{
+        font-size: 1.75rem;
+        color:black;
+        font-weight:bold ;
+    }
+    .img-pretty{
+        border-radius: 2rem;
+        box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.8);
+    }
+    .names{
+        font-size: 1.25rem;
+    }
+}
+.info{
+    .titulo{
+        font-size: 1.75rem;
+        color:black;
+        font-weight:bold ;
+    }
+    .img-pretty{
+        border-radius: 2rem;
+        box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.8);
+    }
+    .names{
+        font-size: 1.25rem;
+    }
+}
+footer{
+    .card{
+        background-color: #7A4D25;
+        color:white;
+    }
+    .txt-sm{
+        margin-top: .5rem;;        font-size: 1rem;
+    }
+    .txt-mx{
+        text-align: center;
+    }
+    .txt-bold{
+        font-weight: bolder;
+        font-size: 1.5rem;
+    }
 }
