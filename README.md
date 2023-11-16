@@ -241,3 +241,15 @@
     Los colaboradores extra que pueden aparecer en el repositorio, no forman parte del equipo, sino que se trata de cuentas que no cerraron cesión de GitHub y que por falta de tiempo y/o no fijarse se terminaron subiendo ciertos cambios menores con dichas cuentas.
   </span>
 </section>
+<section align="justify">
+  <h2>Versiones de software</h2>
+  <span>
+    En este proyecto se utilizo el framework de Laravel, con las siguientes versiones de las dependencias:
+  </span>
+  <blockquote>
+    <p>XAMPP: v3.3.0</p>
+    <p>Composer: v2.6.5</p>
+    <p>PHP: v8.2.4</p>
+    <p>Laravel: v10.2.9</p>
+  </blockquote>
+</section>
