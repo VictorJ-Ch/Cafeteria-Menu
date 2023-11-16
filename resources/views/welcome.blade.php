@@ -117,8 +117,8 @@
                                 </div>
                             </div>
                         </div>
-                        <p class="txt-sm">Este proyecto es hecho para ser un producto funcional, y todos sus derechos le pertenecen a sus creadores.</p>
-                        <span class="txt-mx">© Eclipse.</span>
+                        <p class="txt-sm py-3">Este proyecto es hecho para ser un producto funcional, y todos sus derechos le pertenecen a sus creadores.</p>                    
+                        <span class="txt-mx py-2">© Eclipse.</span>
                     </blockquote>
                 </div>
             </div>
