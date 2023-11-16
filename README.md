@@ -194,6 +194,9 @@
       <li>Prototipo funcional.</li>
       <li>App icon.</li>
       <li>Footers and headers.</li>
+      <li>Front-end welcome.</li>
+      <li>DB && Laravel conection.</li>
+      <li>Correcion de errores del framework en proyecto.</li>
     </ul>
     <li>Samuel Gutierrez</li>
     <ul>
@@ -207,6 +210,7 @@
       <li>Base de datos al código.</li>
       <li>ticket.html format.</li>
       <li>All screens format Exept(main).</li>
+      <li>DB && Laravel conection.</li>
     </ul>
     <li>Jonathan Zavala</li>
     <ul>
@@ -218,6 +222,7 @@
       <li>Prototipo funcional.</li>
       <li>Categorias de comida - front-end.</li>
       <li>menu.html format and bttns.</li>
+      <li>DB && Laravel conection.</li>
     </ul>
     <li>Grecia Morales</li>
     <ul>
