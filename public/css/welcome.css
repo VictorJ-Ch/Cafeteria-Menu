@@ -33,6 +33,8 @@ main{
     }
     .names{
         font-size: 1.25rem;
+        font-weight: bolder;
+        color:black;
     }
 }
 footer{
@@ -41,7 +43,8 @@ footer{
         color:white;
     }
     .txt-sm{
-        margin-top: .5rem;;        font-size: 1rem;
+        margin-top: .5rem;
+        font-size: 1rem;
     }
     .txt-mx{
         text-align: center;

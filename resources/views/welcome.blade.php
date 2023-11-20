@@ -27,28 +27,26 @@
                         <span class="navbar-toggler-icon"></span>
                     </button>
                     <div class="collapse navbar-collapse" id="navbarSupportedContent">
-                        <ul class="navbar-nav mx-auto mb-2 mb-lg-0">
+                        <ul class="navbar-nav mx-auto mb-2 mb-lg-0 py-2">
                             <li class="nav-item">
                                 <img src="{{asset('img/Icon/Famtime_food_Logo.webp')}}" class=" img-fluid img-sm" alt="QR-code">
                             </li>
                         </ul>
-                    </div>
-                    <div class="" id="navbarSupportedContent">
                         <ul class="navbar-nav ml-auto mb-2 mb-lg-0">
                             <!--NO BORRAR-->
                             @if (Route::has('login'))
-                            <div class="sm:fixed sm:top-0 sm:right-0 p-6 text-right z-10">
+                            <div class="sm:fixed sm:top-0 sm:right-0 p-2 text-right z-10">
                                 @auth
-                                    <button type="button" class="btn btn-outline-secondary">
-                                        <a href="{{ url('/home') }}" class="font-semibold text-black hover:text-gray-900 dark:text-gray-400 dark:hover:text-grey focus:outline focus:outline-2 focus:rounded-sm focus:outline-red-500">Home</a>
+                                    <button type="button" class="btn btn-outline-dark">
+                                        <a href="{{ url('/home') }}" class="">Home</a>
                                     </button>
                                 @else
-                                    <button type="button" class="btn btn-outline-secondary">
-                                        <a href="{{ route('login') }}" class="font-semibold text-black hover:text-gray-900 dark:text-gray-400 dark:hover:text-grey focus:outline focus:outline-2 focus:rounded-sm focus:outline-red-500">Log in</a>
+                                    <button type="button" class="btn btn-outline-dark">
+                                        <a href="{{ route('login') }}" class="">Log in</a>
                                     </button>
                                     @if (Route::has('register'))
-                                        <button type="button" class="btn btn-outline-secondary">
-                                                <a href="{{ route('register') }}" class="ml-4 font-semibold text-black hover:text-gray-900 dark:text-gray-400 dark:hover:text-grey focus:outline focus:outline-2 focus:rounded-sm focus:outline-red-500">Register</a>
+                                        <button type="button" class="btn btn-outline-dark">
+                                            <a href="{{ route('register') }}" class="">Register</a>
                                         </button>                     
                                     @endif
                                 @endauth
@@ -74,7 +72,7 @@
                                 <!--DO process-->
                                 <img src="{{asset('img/eclipse-logo.png')}}" class="img-thumbnail img-fluid img-pretty" alt="QR-code"> 
                             </div>
-                        <div class="col-lg-4 col-md-4 col-sm-12">
+                        <div class="col-lg-4 col-md-4 col-sm-12 py-3">
                                 <span class="titulo py-3">Desarrolladores</span>
                                 <p class="names py-2">Victor Chavarria</p>
                                 <p class="#">Full-stack developer and game developer/designer/manager/tester.</p>
@@ -99,21 +97,19 @@
                     <blockquote class="blockquote mb-0">
                         <div class="container text-center">
                             <div class="row">
-                                <div class="col">
-                                    <span>Victor Chavarria</span>
-                                    <a href="#" class="btn btn-primary">Portafolio</a>
+                                <span class="txt-bold">Portafolios</span>
+                                <div class="col py-1">
+                                    <a href="https://victorj-ch.github.io/Portfolio/" class="btn btn-dark">Victor Chavarria</a>
                                 </div>
-                                <div class="col">
-                                    <span>Samuel Guitierrez</span>
-                                    <a href="#" class="btn btn-primary">Portafolio</a>
+                                <div class="col py-1">
+                                    <a href="#" class="btn btn-dark">Samuel Guitierrez</a>
                                 </div>
-                                <div class="col">
-                                    <span>Jonathan Zavala</span>
-                                    <a href="#" class="btn btn-primary">Portafolio</a>
+                                <div class="col py-1">
+                                    <a href="#" class="btn btn-dark">Jonathan Zavala</a>
                                 </div>
-                                <div class="col">
-                                    <span>Grecia Morales</span>
-                                    <a href="#" class="btn btn-primary">Portafolio</a>
+                                <div class="col py-1">
+                                    <a href="#" class="btn btn-dark 
+                                ">Grecia Morales</a>
                                 </div>
                             </div>
                         </div>
