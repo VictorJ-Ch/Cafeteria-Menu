@@ -27,49 +27,22 @@
                     <span class="navbar-toggler-icon"></span>
                 </button>
                 <div class="collapse navbar-collapse" id="navbarSupportedContent">
-                    <ul class="navbar-nav mx-auto mb-2 mb-lg-0 py-2">
+                    <ul class="navbar-nav mx-auto mb-2 mb-lg-0 py-3">
                         <li class="nav-item">
                             <img src="./img/icon/Famtime_food_Logo.webp" class=" img-fluid img-sm" alt="QR-code">
                         </li>
                     </ul>
                     <ul class="navbar-nav ml-auto mb-2 mb-lg-0 py-2">
-                        <li class="nav-item">
-                            <a href="" class="nav-link">Sign In</a>
+                        <li class="nav-item py-2">
+                            <button type="button" class="btn btn-outline-dark"><a href="./html/logIn.html" class="nav-link" id="signUpLink">Log In</a></button>
                         </li>
-                        <li class="nav-item">
-                            <a href="#" class="nav-link" id="signUpLink">Sign Up</a>
-                        </li>
-                        <li class="nav-item">
-                            <a href="" class="nav-link">Log Out</a>
+                        <li class="nav-item py-2">
+                            <button type="button" class="btn btn-outline-dark"><a href="./html/signUp.html" class="nav-link" id="signUpLink">Sign Up</a></button>
                         </li>
                     </ul>
                 </div>
             </div>
         </nav>
-        <!-- Modal -->
-        <div class="modal fade" id="signUpModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
-            <div class="modal-dialog">
-                <div class="modal-content">
-                    <div class="modal-header">
-                        <h1 class="modal-title fs-5" id="exampleModalLabel">Modal title</h1>
-                        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
-                    </div>
-                    <div class="modal-body">
-                        <form id="signup-form">
-                            <div class="form-group py-2">
-                                <input type="text" id="signup-email" class="form-control" placeholder="Email"
-                                    required>
-                            </div>
-                            <div class="form-group py-2">
-                                <input type="password" id="signup-password" class="form-control" placeholder="Password"
-                                    required>
-                            </div>
-                            <button type="submit" class="btn btn-primary py-2">Sign Up</button>
-                        </form>
-                    </div>
-                </div>
-            </div>
-        </div>
     </header>
     <main>
         <div class="relative sm:flex sm:justify-center sm:items-center min-h-screen bg-center selection:text-white">
@@ -154,8 +127,6 @@
         // TODO: Add SDKs for Firebase products that you want to use
         // https://firebase.google.com/docs/web/setup#available-libraries
         import { getAuth } from "https://www.gstatic.com/firebasejs/10.6.0/firebase-auth.js";
-        import { getFirestore } from "https://www.gstatic.com/firebasejs/10.6.0/firebase-firestore.js";
-
         // Your web app's Firebase configuration
         // For Firebase JS SDK v7.20.0 and later, measurementId is optional
         const firebaseConfig = {
@@ -166,18 +137,13 @@
             messagingSenderId: "308625184843",
             appId: "1:308625184843:web:a5fc33924854c4c94a55ce",
             measurementId: "G-HWQM4JQF5P"
-        };
-
+        };  
         // Initialize Firebase
         const app = initializeApp(firebaseConfig);
         const analytics = getAnalytics(app);
-        const auth = getAuth(app);
-        const db = getFirestore(app);
-
+        const auth=getAuth(app);
     </script>
     <!--MY CODE-->
     <script src="./js/index.js"></script>
-    <script src="./js/modals.js"></script>
 </body>
-
 </html>
