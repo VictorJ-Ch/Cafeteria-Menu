@@ -11,7 +11,7 @@
   margin-right: 2rem;
 }
 .inicio{
-  background-image: url('/docs/img/img-menu/madera.webp'); /* Reemplaza 'ruta-de-tu-imagen.jpg' con la ruta de tu imagen */
+  background-image: url('/img/img-menu/madera.webp'); /* Reemplaza 'ruta-de-tu-imagen.jpg' con la ruta de tu imagen */
   background-size: cover; /* Ajusta el tamaño de la imagen para cubrir todo el fondo */
   background-repeat: no-repeat; /* Evita que la imagen de fondo se repita */
   background-attachment: fixed; /* Fija la imagen de fondo para que no se desplace con el contenido */
@@ -21,7 +21,7 @@
 
 .custom-cuadro {
   position: relative;
-  width: 450px;
+  width:350px;
   height: 250px; /* Altura inicial del cuadro */
   background-color:#FBC596;
   border-radius: 20px;
@@ -34,8 +34,8 @@
   box-shadow: 2px 2px 2px 2px rgba(0,0,0,0.8);
 }
 .custom-cuadro img {
-  max-width: 200%; /* La imagen se ajustará automáticamente al tamaño del cuadro */
-  max-height: 200%; /* La imagen se ajustará automáticamente al tamaño del cuadro */
+  max-width: 225px; /* La imagen se ajustará automáticamente al tamaño del cuadro */
+  max-height: 100px;; /* La imagen se ajustará automáticamente al tamaño del cuadro */
   z-index: 1; /* Colocar la imagen detrás del texto */
 }
 
@@ -82,4 +82,7 @@ body {
   background-attachment: fixed; 
   background-size: cover;
   color: aliceblue;
+}
+.card-body{
+  background-color: #FBC596;
 }

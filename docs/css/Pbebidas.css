@@ -39,10 +39,11 @@ body {
     background-size: cover;
     color: aliceblue;
 }
-
-.card {
-    left: 27px;
-    
+.inicio{
+    .card {
+        left: 27px;
+        
+    }
 }
 
 .card-body{

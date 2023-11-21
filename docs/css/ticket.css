@@ -11,10 +11,11 @@
     margin-right: 2rem;
 }
 .TituloF {
-    background-color: #7A6049;
-    text-align: center;
-    font-size: 75px;
-    font-family: 'Cherry Swash', serif;
+  background-color: #7A6049;
+  color: white;
+  text-align: center;
+  font-size: 40px;
+  font-family: 'Cherry Swash', serif;
 }
 
 .Turno{
@@ -28,7 +29,7 @@
 }
 
 .custom-cuadro {
-    left: 350px;
+    left: 125px;
     bottom: 30px;
     position: relative;
     width: 80px;
@@ -84,7 +85,7 @@
   }
 
   .custom-cuadro2 {
-    left: 250px;
+    left: 125px;
     bottom: 30px;
     position: relative;
     width: 80px;
@@ -125,4 +126,6 @@
   .inicio{
     background-color: #7A6049;
   }
-  
+  .card-body{
+    background-color: #FBC596;
+}
