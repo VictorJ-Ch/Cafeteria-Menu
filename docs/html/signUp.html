@@ -1,97 +1,130 @@
 <!doctype html>
 <html lang="es">
-
-<head>
-    <title>Title</title>
-    <!-- Required meta tags -->
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-
-    <!-- Bootstrap -->
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet"
-        integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
-
-</head>
-
-<body>
-    <header>
-        <nav class="navbar navbar-expand-lg">
-            <div class="container-fluid">
-                <a class="navbar-brand" href="#">
-                    <img src="./img/icon/Icon.webp" class="img-fluid img-sm" alt="Famtime-food-app-logo">
-                </a>
-                <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
-                    data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
-                    aria-expanded="false" aria-label="Toggle navigation">
-                    <span class="navbar-toggler-icon"></span>
-                </button>
-                <div class="collapse navbar-collapse" id="navbarSupportedContent">
+    <head>
+        <title>Famtime Food - Log In</title>
+        <!-- Required meta tags -->
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+        <link rel="stylesheet" href="/css/index.css">
+        <!-- Bootstrap -->
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet"
+            integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
+    </head>
+    <body>
+        <header>
+            <nav class="navbar navbar-expand-lg">
+                <div class="container-fluid">
+                    <a class="navbar-brand" href="/index.html">
+                        <img src="/img/icon/Icon.webp" class="img-fluid img-sm" alt="Famtime-food-app-logo">
+                    </a>
                     <ul class="navbar-nav mx-auto mb-2 mb-lg-0 py-3">
                         <li class="nav-item">
-                            <img src="./img/icon/Famtime_food_Logo.webp" class=" img-fluid img-sm" alt="QR-code">
-                        </li>
-                    </ul>
-                    <ul class="navbar-nav ml-auto mb-2 mb-lg-0 py-2">
-                        <li class="nav-item py-2">
-                            <button type="button" class="btn btn-outline-dark"><a href="./html/logIn.html" class="nav-link" id="signUpLink">Log In</a></button>
-                        </li>
-                        <li class="nav-item py-2">
-                            <button type="button" class="btn btn-outline-dark"><a href="./html/signUp.html" class="nav-link" id="signUpLink">Sign Up</a></button>
+                            <img src="/img/icon/Famtime_food_Logo.webp" class=" img-fluid img-sm" alt="QR-code">
                         </li>
                     </ul>
                 </div>
-            </div>
-        </nav>
-    </header>
-    <main>
-        <section class="vh-100" style="background-color: #508bfc;">
-            <div class="container py-5 h-100">
-                <div class="row d-flex justify-content-center align-items-center h-100">
-                    <div class="col-12 col-md-8 col-lg-6 col-xl-5">
-                        <div class="card shadow-2-strong" style="border-radius: 1rem;">
-                            <div class="card-body p-5 text-center">
-                
-                            <h3 class="mb-5">Sign in</h3>
-                
-                            <div class="form-outline mb-4">
-                                <input type="email" id="typeEmailX-2" class="form-control form-control-lg" />
-                                <label class="form-label" for="typeEmailX-2">Email</label>
-                            </div>
-                
-                            <div class="form-outline mb-4">
-                                <input type="password" id="typePasswordX-2" class="form-control form-control-lg" />
-                                <label class="form-label" for="typePasswordX-2">Password</label>
-                            </div>
-                
-                            <!-- Checkbox -->
-                            <div class="form-check d-flex justify-content-start mb-4">
-                                <input class="form-check-input" type="checkbox" value="" id="form1Example3" />
-                                <label class="form-check-label" for="form1Example3"> Remember password </label>
-                            </div>
-                
-                            <button class="btn btn-primary btn-lg btn-block" type="submit">Login</button>
-                
-                            <hr class="my-4">
-                
-                            <button class="btn btn-lg btn-block btn-primary" style="background-color: #dd4b39;"
-                                type="submit"><i class="fab fa-google me-2"></i> Sign in with google</button>
-                            <button class="btn btn-lg btn-block btn-primary mb-2" style="background-color: #3b5998;"
-                                type="submit"><i class="fab fa-facebook-f me-2"></i>Sign in with facebook</button>
-                
-                            </div>
+            </nav>
+        </header>
+        <main>
+            <section class="vh-100">
+                <div class="container-fluid h-custom">
+                    <div class="row d-flex justify-content-center align-items-center h-100">
+                        <div class="col-md-9 col-lg-6 col-xl-5 py-2">
+                        <img src="/img/img-page/famtime.webp"
+                            class="img-fluid" alt="Famtime-cover">
+                        </div>
+                        <div class="col-md-8 col-lg-6 col-xl-4 offset-xl-1">
+                            <form>
+                                <div class="d-flex flex-row align-items-center justify-content-center justify-content-lg-start">
+                                    <p class="lead fw-normal mb-0 me-3">Registrate con</p>
+                                    <button type="button" class="btn btn-dark btn-floating mx-1">
+                                        <i class="bi bi-google">
+                                            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-google" viewBox="0 0 16 16">
+                                                <path d="M15.545 6.558a9.42 9.42 0 0 1 .139 1.626c0 2.434-.87 4.492-2.384 5.885h.002C11.978 15.292 10.158 16 8 16A8 8 0 1 1 8 0a7.689 7.689 0 0 1 5.352 2.082l-2.284 2.284A4.347 4.347 0 0 0 8 3.166c-2.087 0-3.86 1.408-4.492 3.304a4.792 4.792 0 0 0 0 3.063h.003c.635 1.893 2.405 3.301 4.492 3.301 1.078 0 2.004-.276 2.722-.764h-.003a3.702 3.702 0 0 0 1.599-2.431H8v-3.08h7.545z"/>
+                                            </svg>
+                                        </i>
+                                    </button>
+                                </div>
+                                <div class="divider d-flex align-items-center my-4">
+                                <p class="text-center fw-bold mx-3 mb-0">O con</p>
+                                </div>
+                                <!-- Name input -->
+                                <div class="form-outline mb-4">
+                                    <input type="text" id="name-form" class="form-control form-control-lg"
+                                        placeholder="Ingrese su nombre" />
+                                    <label class="form-label" for="form3Example3">Nombre</label>
+                                </div>
+                                <!-- Last Name input -->
+                                <div class="form-outline mb-4">
+                                    <input type="text" id="lastName-form" class="form-control form-control-lg"
+                                        placeholder="Ingrese su Apellido" />
+                                    <label class="form-label" for="form3Example3">Apellido</label>
+                                </div>
+                                <!-- User input -->
+                                <div class="form-outline mb-4">
+                                    <input type="text" id="username-form" class="form-control form-control-lg"
+                                        placeholder="Ingrese su nombre de usuario" />
+                                    <label class="form-label" for="form3Example3">Usuario</label>
+                                </div>
+                                <!-- Email input -->
+                                <div class="form-outline mb-4">
+                                    <input type="email" id="email-form" class="form-control form-control-lg"
+                                        placeholder="Ingrese un correo electrónico válido" />
+                                    <label class="form-label" for="form3Example3">Correo electrónico</label>
+                                </div>
+                                <!-- Password input -->
+                                <div class="form-outline mb-3">
+                                    <input type="password" id="password-form" class="form-control form-control-lg"
+                                        placeholder="Ingrese tu contraseña" />
+                                    <label class="form-label" for="form3Example4">Contraseña</label>
+                                </div>
+                                <div class="d-flex justify-content-between align-items-center">
+                                    <div class="text-center text-lg-start mt-4 pt-2">
+                                        <a href="#" class="btn btn-dark btn-lg" style="padding-left: 2.5rem; padding-right: 2.5rem;">Registrate</a>
+                                    </div>
+                                </div>
+                            </form>
                         </div>
                     </div>
+                </div> 
+            </section>
+        </main>
+        <footer class="bg-color">
+            <div class="d-flex flex-column flex-md-row text-center text-md-start justify-content-between py-4 px-4 px-xl-5">
+                <!-- Copyright -->
+                <div class="text-black mb-3 mb-md-0">
+                    Eclipse © 2023 | Todos los derechos reservados.
                 </div>
+                <!-- Copyright -->
             </div>
-        </section>
-    </main>
-    <footer>
-        <!-- place footer here -->
-    </footer>
-    <!-- Bootstrap JavaScript Libraries -->
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"
-    integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL" crossorigin="anonymous">
-</script>
-</body>
-
+        </footer>
+        <!-- Bootstrap JavaScript Libraries -->
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL" crossorigin="anonymous">
+        </script>
+        <!--FIRE BASE-->
+        <script type="module">
+            // Import the functions you need from the SDKs you need
+            import { initializeApp } from "https://www.gstatic.com/firebasejs/10.6.0/firebase-app.js";
+            import { getAnalytics } from "https://www.gstatic.com/firebasejs/10.6.0/firebase-analytics.js";
+            // TODO: Add SDKs for Firebase products that you want to use
+            // https://firebase.google.com/docs/web/setup#available-libraries
+            import { getAuth } from "https://www.gstatic.com/firebasejs/10.6.0/firebase-auth.js";
+            // Your web app's Firebase configuration
+            // For Firebase JS SDK v7.20.0 and later, measurementId is optional
+            const firebaseConfig = {
+                apiKey: "AIzaSyAwfnmRImMjMhhrBb9vkAifzkjxXvwUlHQ",
+                authDomain: "famtime-food.firebaseapp.com",
+                projectId: "famtime-food",
+                storageBucket: "famtime-food.appspot.com",
+                messagingSenderId: "308625184843",
+                appId: "1:308625184843:web:a5fc33924854c4c94a55ce",
+                measurementId: "G-HWQM4JQF5P"
+            };  
+            // Initialize Firebase
+            const app = initializeApp(firebaseConfig);
+            const analytics = getAnalytics(app);
+            const auth=getAuth(app);
+        </script>
+    </body>
 </html>
