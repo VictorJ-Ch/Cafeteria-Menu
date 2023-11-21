@@ -120,11 +120,24 @@
                 messagingSenderId: "308625184843",
                 appId: "1:308625184843:web:a5fc33924854c4c94a55ce",
                 measurementId: "G-HWQM4JQF5P"
-            };  
+            };
             // Initialize Firebase
             const app = initializeApp(firebaseConfig);
             const analytics = getAnalytics(app);
-            const auth=getAuth(app);
+            const auth = getAuth(app);
+
+            async function createUser(email, password) {
+                try {
+                    const userCredential = await createUserWithEmailAndPassword(auth, email, password);
+                    const user = userCredential.user;
+                    console.log("Sign Up", user);
+                } catch (error) {
+                    const errorCode = error.code;
+                    const errorMessage = error.message;
+                    console.error(errorMessage);
+                }
+            }
+            createUser("Example@gmail.com", "Hello123");
         </script>
     </body>
 </html>

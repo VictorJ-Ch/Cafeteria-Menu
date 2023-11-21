@@ -95,28 +95,6 @@
         integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL" crossorigin="anonymous">
     </script>
     <!--FIRE BASE-->
-    <script type="module">
-        // Import the functions you need from the SDKs you need
-        import { initializeApp } from "https://www.gstatic.com/firebasejs/10.6.0/firebase-app.js";
-        import { getAnalytics } from "https://www.gstatic.com/firebasejs/10.6.0/firebase-analytics.js";
-        // TODO: Add SDKs for Firebase products that you want to use
-        // https://firebase.google.com/docs/web/setup#available-libraries
-        import { getAuth } from "https://www.gstatic.com/firebasejs/10.6.0/firebase-auth.js";
-        // Your web app's Firebase configuration
-        // For Firebase JS SDK v7.20.0 and later, measurementId is optional
-        const firebaseConfig = {
-            apiKey: "AIzaSyAwfnmRImMjMhhrBb9vkAifzkjxXvwUlHQ",
-            authDomain: "famtime-food.firebaseapp.com",
-            projectId: "famtime-food",
-            storageBucket: "famtime-food.appspot.com",
-            messagingSenderId: "308625184843",
-            appId: "1:308625184843:web:a5fc33924854c4c94a55ce",
-            measurementId: "G-HWQM4JQF5P"
-        };  
-        // Initialize Firebase
-        const app = initializeApp(firebaseConfig);
-        const analytics = getAnalytics(app);
-        const auth=getAuth(app);
-    </script>
+    <script type="module" src="/js/firebase.js"></script>
     </body>
 </html>
