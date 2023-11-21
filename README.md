@@ -13,7 +13,7 @@
   <div>
     <h3 align="left">Aspectos técnicos del proyecto </h3>
     <!-- Laitex --->
-    <a href="./Docs/Cafeteria-Menu/Doc-cafeteria.pdf" style="margin-right: 20px;">Cafeteria-Menu PDF file</a>
+    <a href="./documentacion/Cafeteria-Menu/Doc-cafeteria.pdf" style="margin-right: 20px;">Cafeteria-Menu PDF file</a>
     <span>
       En este link podrás encontrar el documento en .pdf, donde se habla de aspectos como:
       <ul>
