@@ -1,80 +1,56 @@
-h2{
-  font-size: 2.5rem;
-}
 .navbar{
-  margin-right: 1rem;
-  .img-small{
-    max-height: 4rem;
-    margin-left: 1rem;
+  background-color: #7A4D25;
+  .img-sm{
+      max-height:4rem;
   }
 }
-.searchBar{
-  margin: 1rem;
-  margin-left: 2rem;
-  margin-right: 2rem;
-}
-body {
-  font-size: 140%;
-  background-color: #FCDCDF;
-  background-image: url(https://wallpapercave.com/wp/wp8210019.jpg);
-  background-repeat: no-repeat;
-  background-attachment: fixed; 
-  background-size: cover;
-  color: aliceblue;
+main{
+  background-color: #C77D3C;
 }
 .inicio{
-  .Texto{
-    font-size: 5rem;
-    color: darkgreen;
+  .titulo{
+      font-size: 1.75rem;
+      color:black;
+      font-weight:bold ;
+  }
+  .img-pretty{
+      border-radius: 2rem;
+      box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.8);
+  }
+  .names{
+      font-size: 1.25rem;
   }
 }
-#carouselExampleIndicators {
-  margin-bottom: 1rem;
-  margin-left: 18rem; 
-  margin-right: 18rem;
+.info{
+  .titulo{
+      font-size: 1.75rem;
+      color:black;
+      font-weight:bold ;
+  }
+  .img-pretty{
+      border-radius: 2rem;
+      box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.8);
+  }
+  .names{
+      font-size: 1.25rem;
+      font-weight: bolder;
+      color:black;
+  }
 }
-
-p {
-  font-size: 140%;
-  color: aliceblue;
-  height: 250%;
-  text-align: center;
-}
-
-h2{
-  color: aliceblue !important;
-}
-.inicio img{
-  border-radius: 2rem;
-  height: 80%;
-  align-items: center;
-}
-
-.acerca img{
-  border-radius: 2rem;
-  height: 80%;
-  align-items: center;
-}
-
-.btn{
-  background-color: #B0EFEF;
-  color: black;
-}
-.form-group{
-  color: aliceblue;
-  font-size: 140%;
-}
-
-.d-block{
-  text-align: center;
-}
-
-.custom-input {
-  background-color: #bd9bdd; 
-  opacity: 0.7; 
-}
-
-.custom-textarea {
-  background-color: #bd9bdd; 
-  opacity: 0.7; 
+footer{
+  .card{
+      background-color: #7A4D25;
+      color:white;
+  }
+  .txt-sm{
+      margin-top: .5rem;
+      font-size: 1rem;
+  }
+  .txt-mx{
+      text-align: center;
+  }
+  .txt-bold{
+      font-weight: bolder;
+      font-size: 1.5rem;
+  }
 }
