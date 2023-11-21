@@ -63,7 +63,7 @@
     <div>
     <h3>Journey Map</h3>
     <div style="text-align: left;">
-      <img src="./Assets/Img/Essentials/JourneyMap/JourneyMap.png" alt="Canvas Buyer Person" style="max-width: 100%;">
+      <img src="./docImg/Img/Essentials/JourneyMap/JourneyMap.png" alt="Journey Map" style="max-width: 100%;">
     </div>
   </div>
   <div>
@@ -99,7 +99,7 @@
       En esta imagen se muestra el Emphaty map del cliente ideal
     </span>
     <div style="text-align: center;">
-      <img src="./Assets/Img/Essentials/EmpathyMap/EmpathyMapCoffe.jpg" alt="Emphaty Map General" style="max-width: 70%;">
+      <img src="./docImg/Img/Essentials/EmpathyMap/EmpathyMapCoffe.jpg" alt="Emphaty Map General" style="max-width: 70%;">
     </div>
     </a>
     <span>
@@ -197,6 +197,7 @@
       <li>Front-end welcome.</li>
       <li>DB && Laravel conection.</li>
       <li>Correcion de errores del framework en proyecto.</li>
+      <li>DB Laravel y Firebase</li>
     </ul>
     <li>Samuel Gutierrez</li>
     <ul>
@@ -211,6 +212,7 @@
       <li>ticket.html format.</li>
       <li>All screens format Exept(main).</li>
       <li>DB && Laravel conection.</li>
+      <li>Back-end, Canasta</li>
     </ul>
     <li>Jonathan Zavala</li>
     <ul>
@@ -223,6 +225,7 @@
       <li>Categorias de comida - front-end.</li>
       <li>menu.html format and bttns.</li>
       <li>DB && Laravel conection.</li>
+      <li>Front-end</li>
     </ul>
     <li>Grecia Morales</li>
     <ul>
