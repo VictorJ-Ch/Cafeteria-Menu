@@ -21,16 +21,37 @@ const app = initializeApp(firebaseConfig);
 const analytics = getAnalytics(app);
 const auth = getAuth(app);
 
-async function createUser(email, password) {
-    try {
-        const userCredential = await createUserWithEmailAndPassword(auth, email, password);
-        const user = userCredential.user;
-        console.log("Sign Up", user);
-    } catch (error) {
-        const errorCode = error.code;
-        const errorMessage = error.message;
-        console.error(errorMessage);
-    }
+function createUser(email, password) {
+    console.log('Creando el usuario con email ' + email);
+
+    createUserWithEmailAndPassword(auth, email, password)
+        .then((userCredential) => {
+            const user = userCredential.user;
+            console.log('¡Creamos al usuario!', user);
+        })
+        .catch((error) => {
+            console.error(error);
+        });
 }
 
-createUser("Example@gmsil.com", "Hello123");
+function loginUser(email, password) {
+    console.log('Loging user ' + email);
+
+    signInWithEmailAndPassword(auth, email, password)
+        .then((userCredential) => {
+            console.log('Credenciales correctas, ¡bienvenido!', userCredential.user);
+        })
+        .catch((error) => {
+            console.log(error);
+        });
+}
+
+function signoutUser() {
+    signOut(auth)
+        .then(() => {
+            console.log('Usuario cerrado sesión');
+        })
+        .catch((error) => {
+            console.error(error);
+        });
+}
