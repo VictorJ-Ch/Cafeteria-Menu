@@ -198,6 +198,10 @@
       <li>DB && Laravel conection.</li>
       <li>Correcion de errores del framework en proyecto.</li>
       <li>DB Laravel y Firebase</li>
+      <li>Front-end.</li>
+      <li>Manager.</li>
+      <li>Auth con servicios de Google.</li>
+      <li>Auth con correo y contraseña.</li>
     </ul>
     <li>Samuel Gutierrez</li>
     <ul>
@@ -233,7 +237,6 @@
       <li>Requerimientos funcionales y no funcionales</li>
       <li>Empathy map del cliente ideal.</li>
       <li>Prototipo funcional.</li>
-      <li>Lorem ipsum</li>
       <li>index.html formato.</li>
     </ul>
   </ul>
