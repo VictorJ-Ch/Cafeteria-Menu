@@ -1,0 +1,9 @@
+.navbar{
+    background-color: #7A4D25;
+    .img-sm{
+        max-height:4rem;
+    }
+}
+body{
+    background-color: #C77D3C;
+}
