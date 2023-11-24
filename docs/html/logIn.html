@@ -118,6 +118,7 @@
             const app = initializeApp(firebaseConfig);
             const analytics = getAnalytics(app);
             const auth = getAuth(app);
+            const provider = new GoogleAuthProvider();
             //Email things
             // Function to log in user
             function loginUser() {
@@ -134,9 +135,8 @@
                     });
             }
             document.querySelector("#submit").addEventListener("click", loginUser)
-            //Google things
             //Another auth method
-            //Google Auth
+            //Google things
             const signInButton = document.getElementById("signInButton");
             //const signOutButton = document.getElementById("signOutButton");
             const message = document.getElementById("message");
@@ -154,7 +154,7 @@
                     message.style.display="none";
                 }
             })
-            //Log In wiht Google
+            //Log In with Google
             const userSignIn=async()=>{
                 signInWithPopup(auth, provider)
                 .then((result)=>{
