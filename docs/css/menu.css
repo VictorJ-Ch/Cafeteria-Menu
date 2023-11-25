@@ -6,83 +6,90 @@
   }
 }
 .searchBar{
-  margin: 1rem;
   margin-left: 2rem;
   margin-right: 2rem;
 }
+main{
+  background-color: #C77D3C
+}
 .inicio{
-  background-image: url('../img/img-menu/madera.webp'); /* Reemplaza 'ruta-de-tu-imagen.jpg' con la ruta de tu imagen */
-  background-size: cover; /* Ajusta el tamaño de la imagen para cubrir todo el fondo */
-  background-repeat: no-repeat; /* Evita que la imagen de fondo se repita */
-  background-attachment: fixed; /* Fija la imagen de fondo para que no se desplace con el contenido */
+  background-color: #C77D3C;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
     }
 
-/* Estilos personalizados para el cuadro y otros elementos */
-
 .custom-cuadro {
+  margin: 1rem;
   position: relative;
-  width:350px;
-  height: 250px; /* Altura inicial del cuadro */
+  width:auto;
+  height: 15rem;
   background-color:#FBC596;
   border-radius: 20px;
   overflow: hidden;
   cursor: pointer;
-  transition: height 0.3s ease; /* Aplicar transición a la altura del cuadro */
+  transition: height 0.3s ease;
   display: flex;
   justify-content: center;
   align-items: center;
   box-shadow: 2px 2px 2px 2px rgba(0,0,0,0.8);
+  .img{
+    max-width: 225px;
+    max-height: 100px;
+    z-index: 1;
+  }
+  .texto{
+    position: absolute;
+    top: 10px;
+    left: 0;
+    right: 0;
+    color:black;
+    text-align: center;
+    padding: 10px;
+    z-index: 2;
+    font-size: 30px;
+    font-family: 'Comfortaa', sans-serif;
+  }
+  .boton{
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    border-radius: 20px;
+    text-decoration: none;
+    color: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 3;
+    transition: background-color 0.3s ease;
+  }
 }
-.custom-cuadro img {
-  max-width: 225px; /* La imagen se ajustará automáticamente al tamaño del cuadro */
-  max-height: 100px;; /* La imagen se ajustará automáticamente al tamaño del cuadro */
-  z-index: 1; /* Colocar la imagen detrás del texto */
-}
-
-.custom-cuadro .texto {
-  position: absolute;
-  top: 10px; /* Ajustar la distancia entre el texto y la parte superior del cuadro */
-  left: 0;
-  right: 0;
-  color:black;
-  text-align: center;
-  padding: 10px;
-  z-index: 2; /* Colocar el texto delante de la imagen */
-  font-size: 30px;
-  font-family: 'Comfortaa', sans-serif;
-}
-
-.custom-cuadro:hover {
+.custom-cuadro :hover{
   transform: scale(1.1);
 }
-.custom-cuadro .boton {
-  position: absolute;
-  top: 0;
-  right: 0;
-  bottom: 0;
-  left: 0;
-  border-radius: 20px;
-  text-decoration: none;
-  color: #fff; /* Color del texto */
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  z-index: 3; /* Colocar el botón delante de la imagen y el texto */
-  transition: background-color 0.3s ease; /* Aplicar transición al color de fondo del botón */
-}
-.Texto{
-  font-family: 'Cherry Swash', serif;
-  font-size: 5rem;
-  color:#fff;
-}
-body {
-  font-size: 140%;
-  background-color:black;
-  background-repeat: no-repeat;
-  background-attachment: fixed; 
-  background-size: cover;
-  color: aliceblue;
-}
-.card-body{
-  background-color: #FBC596;
+/*FOOTER*/
+.card{
+  .card-header{
+    font-family: 'Cherry Swash', serif;
+    background-color: #7A6049;
+    color: #FFFF;
+  }
+  .card-body{
+    background-color: #7A4D25;
+    .card-title{
+      font-family: 'Cherry Swash', serif;
+    }
+    .card-title{
+      color: #FFFF;
+    }
+    .card-text{
+      font-family: 'Comfortaa', sans-serif;
+      color: #FFFF;
+      .card-bttn{
+        margin: .5rem;
+      }
+    }
+  }
 }
