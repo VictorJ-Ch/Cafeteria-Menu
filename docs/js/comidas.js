@@ -2,32 +2,32 @@
 const comidas = [
   {
     id:1,
-    nombre: "Veloziraptor",
-    precio: 111111,
+    nombre: "Chile en Nogada",
+    precio: 68,
   },
   {
     id:2,
-    nombre: "Biciclón",
-    precio: 222222,
+    nombre: "Enchiladas Verdes",
+    precio: 65,
   },
   {
     id:3,
-    nombre: "CicloTravesura",
-    precio: 333333,
+    nombre: "Hamburguesa",
+    precio: 70,
   },
   {
     id:4,
-    nombre: "Pedalástica",
-    precio: 444444,
+    nombre: "Pollo con mole",
+    precio: 59,
   },
   {
     id:5,
-    nombre: "RuedaFrenesí",
-    precio: 555555,
+    nombre: "Pozole",
+    precio: 62,
   },
   {
     id:6,
-    nombre: "CicloLoco",
-    precio: 666666,
+    nombre: "Salchichas a la mexicana",
+    precio: 52,
   }
 ]
