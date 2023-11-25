@@ -4,9 +4,18 @@
   <span>
   Este es una idea de proyecto donde se busca optimizar el tiempo de respuesta del restaurante o cafetería, donde los clientes al llegar al restaurante o cafeteria, ya tengan su orden lista, evitando las perdidas de tiempo en espera de menu, meseros, etc.
   </span>
+  <br/>
   <span>
   Esta aplicación está principalmente orientada hacia dispositivos móviles, puesto que se espera que la forma más fácil de implementación en el día a día de las personas sea por medio de una app web, aunque la app también contará con uma versión para escritorios.
   </apan>
+</section>
+<section align="justify">
+  <h2 align="left">Products</h2>
+  <span>
+    En este apartado encontraras el link de acceso a la aplicacion.
+  </span>
+  <br/>
+  <a href="https://victorj-ch.github.io/Cafeteria-Menu/">Famtime food Costumers App</a>
 </section>
 <section align="justify">
   <h2 align="left">Documentación</h2>
