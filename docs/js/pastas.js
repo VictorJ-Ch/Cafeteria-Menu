@@ -2,32 +2,32 @@
 const pastas = [
   {
     id:1,
-    nombre: "Veloziraptor",
-    precio: 111111,
+    nombre: "Arroz Rojo",
+    precio: 21,
   },
   {
     id:2,
-    nombre: "Biciclón",
-    precio: 222222,
+    nombre: "Arroz Amarillo",
+    precio: 22,
   },
   {
     id:3,
-    nombre: "CicloTravesura",
-    precio: 333333,
+    nombre: "Codito con Jamon",
+    precio: 25,
   },
   {
     id:4,
-    nombre: "Pedalástica",
-    precio: 444444,
+    nombre: "Macarrones con Queso",
+    precio: 25,
   },
   {
     id:5,
-    nombre: "RuedaFrenesí",
-    precio: 555555,
+    nombre: "Rigantoni",
+    precio: 25,
   },
   {
     id:6,
-    nombre: "CicloLoco",
-    precio: 666666,
+    nombre: "Spaguetti",
+    precio: 25,
   }
 ]
