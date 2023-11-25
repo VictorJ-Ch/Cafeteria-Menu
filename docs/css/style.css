@@ -47,8 +47,6 @@ header{
 
 header nav{
   display: flex;
-  justify-content: space-between;
-  margin: 0 60px;
 }
 
 #logo{
@@ -88,3 +86,4 @@ footer{
 footer a{
   text-decoration: underline;
 }
+
