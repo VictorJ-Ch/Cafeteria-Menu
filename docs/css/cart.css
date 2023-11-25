@@ -30,3 +30,27 @@
 #carrito-vacio{
   text-align: center;
 }
+/*FOOTER*/
+.card{
+  .card-header{
+    font-family: 'Cherry Swash', serif;
+    background-color: #7A6049;
+    color: #FFFF;
+  }
+  .card-body{
+    background-color: #7A4D25;
+    .card-title{
+      font-family: 'Cherry Swash', serif;
+    }
+    .card-title{
+      color: #FFFF;
+    }
+    .card-text{
+      font-family: 'Comfortaa', sans-serif;
+      color: #FFFF;
+      .card-bttn{
+        margin: .5rem;
+      }
+    }
+  }
+}
