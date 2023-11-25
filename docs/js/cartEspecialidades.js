@@ -13,7 +13,7 @@ function crearTarjetasProductosCarrito() {
       const nuevaEspecial= document.createElement("div");
       nuevaEspecial.classList = "tarjeta-producto";
       nuevaEspecial.innerHTML = `
-    <img src="./img/productos/${producto.id}.webp" alt="especiales 1">
+    <img src="../img/img.especialidades/${producto.id}.webp" alt="especiales 1">
     <h3>${producto.nombre}</h3>
     <span>$${producto.precio}</span>
     <div>

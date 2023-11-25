@@ -6,7 +6,7 @@ function crearTarjetasProductosInicio(productos){
     const nuevaEspecial = document.createElement("div");
     nuevaEspecial.classList = "tarjeta-producto"
     nuevaEspecial.innerHTML = `
-    <img src="./img/productos/${producto.id}.webp" alt="Especial 1">
+    <img src="../img/img.especialidades/${producto.id}.webp" alt="Especial 1">
     <h3>${producto.nombre}</h3>
     <p class="precio">$${producto.precio}</p>
     <button>Agregar al carrito</button>`
