@@ -2,32 +2,32 @@
 const ofertas = [
   {
     id:1,
-    nombre: "Veloziraptor",
-    precio: 111111,
+    nombre: "Enchiladas verdes",
+    precio: 60,
   },
   {
     id:2,
-    nombre: "Biciclón",
-    precio: 222222,
+    nombre: "Coca-Cola",
+    precio: 12,
   },
   {
     id:3,
-    nombre: "CicloTravesura",
-    precio: 333333,
+    nombre: "Codito con jamon",
+    precio: 21,
   },
   {
     id:4,
-    nombre: "Pedalástica",
-    precio: 444444,
+    nombre: "Cochinita",
+    precio: 58,
   },
   {
     id:5,
-    nombre: "RuedaFrenesí",
-    precio: 555555,
+    nombre: "Limonada Mineral",
+    precio: 28,
   },
   {
     id:6,
-    nombre: "CicloLoco",
-    precio: 666666,
+    nombre: "Spaguetti",
+    precio: 20,
   }
 ]
