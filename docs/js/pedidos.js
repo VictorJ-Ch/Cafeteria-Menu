@@ -2,32 +2,32 @@
 const pedidos = [
   {
     id:1,
-    nombre: "Veloziraptor",
-    precio: 111111,
+    nombre: "Enchiladas Verdes",
+    precio: 65,
   },
   {
     id:2,
-    nombre: "Biciclón",
-    precio: 222222,
+    nombre: "Boneless",
+    precio: 55,
   },
   {
     id:3,
-    nombre: "CicloTravesura",
-    precio: 333333,
+    nombre: "Coca-Cola",
+    precio: 18,
   },
   {
     id:4,
-    nombre: "Pedalástica",
-    precio: 444444,
+    nombre: "Macarrones con Queso",
+    precio: 25,
   },
   {
     id:5,
-    nombre: "RuedaFrenesí",
-    precio: 555555,
+    nombre: "Pozole",
+    precio: 62,
   },
   {
     id:6,
-    nombre: "CicloLoco",
-    precio: 666666,
+    nombre: "Hamburguesa",
+    precio: 70,
   }
 ]
