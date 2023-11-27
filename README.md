@@ -174,6 +174,7 @@
       <li>CryoStorage</li>
       <li>SrAlmeja</li>
       <li>Diegolec18</li>
+      <li>OzcarDev</li>
     </ul>
   </ul>
 </section>
@@ -211,6 +212,8 @@
       <li>Manager.</li>
       <li>Auth con servicios de Google.</li>
       <li>Auth con correo y contraseña.</li>
+      <li>Tests.</li>
+      <li>Revision de docs.</li>
     </ul>
     <li>Samuel Gutierrez</li>
     <ul>
@@ -226,6 +229,8 @@
       <li>All screens format Exept(main).</li>
       <li>DB && Laravel conection.</li>
       <li>Back-end, Canasta</li>
+      <li>Tests.</li>
+      <li>Revision de docs.</li>
     </ul>
     <li>Jonathan Zavala</li>
     <ul>
@@ -239,6 +244,8 @@
       <li>menu.html format and bttns.</li>
       <li>DB && Laravel conection.</li>
       <li>Front-end</li>
+      <li>Tests.</li>
+      <li>Revision de docs.</li>
     </ul>
     <li>Grecia Morales</li>
     <ul>
@@ -267,5 +274,6 @@
     <p>PHP: v8.2.4</p>
     <p>Laravel: v10.2.9</p>
     <p>Bootstrap: v5.3.0</p>
+    <p>Firebase: v10.6.0</p>
   </blockquote>
 </section>
