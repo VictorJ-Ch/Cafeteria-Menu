@@ -5,6 +5,9 @@
     margin-left: 1rem;
   }
 }
+main{
+  background-color: #C77D3C
+}
 .searchBar{
   margin: 1rem;
   text-align: center;

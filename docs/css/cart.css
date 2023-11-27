@@ -2,6 +2,9 @@
   max-width: 500px;
   margin: auto;
 }
+main{
+  background-color: #C77D3C;
+}
 
 .tarjeta-producto{
   display: flex;
