@@ -3,9 +3,19 @@
     .img-sm{
         max-height:4rem;
     }
+    .margin{
+        margin-left: 1rem;
+    }
+}
+body{
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    margin: 0;
 }
 main{
     background-color: #C77D3C;
+    flex: 1;
 }
 .inicio{
     .titulo{
@@ -38,6 +48,7 @@ main{
     }
 }
 footer{
+    position: relative;
     .card{
         .card-header{
             font-family: 'Cherry Swash', serif;

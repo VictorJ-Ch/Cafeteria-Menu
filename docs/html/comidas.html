@@ -10,7 +10,7 @@
 	<script src="../js/comidas.js"></script>
 	<script src="../js/cartServiceComidas.js" defer></script>
 	<script src="../js/indexComidas.js" defer></script>
-	<title>Comidas</title>
+	<title>Comidas - Famtime Food</title>
 </head>
 <body>
 	<header>
@@ -23,17 +23,28 @@
 		</nav>
 	</header>
 	<main>
+		<div class="searchBar">
+			<form class="d-flex" role="search">
+				<input class="form-control me-2" type="search" placeholder="Search" aria-label="Buscar">
+				<button class="btn btn-outline-dark" type="submit">🔎</button>
+			</form>
+		</div>
 		<section id="productos-container">
 		</section>
 	</main>
 	<footer>
 		<div class="card">
-		<h5 class="card-header">Famtime food</h5>
-		<div class="card-body">
-			<h5 class="card-title">Términos legales</h5>
-			<span class="card-text">Este es una aplicación iniciada como proyecto escolar y todos los derechos son pertenecientes a sus desarrolladores.</span>
-			<span class="card-text">Famtime food © | Eclipse ©</span>
-		</div>
+			<div class="card-header"><span>Famtime Food</span></div>
+			<div class="card-body">
+				<div class="card-title">Terminos legales</div>
+				<div class="card-text">
+					<span>
+						Este es una aplicación iniciada como proyecto escolar y todos los derechos son pertenecientes a sus desarrolladores.
+					</span>
+					<br>
+					<span>Eclipse © 2023</span>
+				</div>
+			</div>
 		</div>
 	</footer>
 </body>
