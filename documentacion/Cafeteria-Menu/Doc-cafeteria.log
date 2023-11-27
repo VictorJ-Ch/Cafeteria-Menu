@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.5) (preloaded format=pdflatex 2023.9.5)  3 NOV 2023 17:32
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.5) (preloaded format=pdflatex 2023.9.5)  26 NOV 2023 20:33
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -730,48 +730,37 @@ in the document preamble.
 Alternatively, save the file in UTF-8 using your editor or another tool
 
 [4] [5]
-<C:/Users/victo/OneDrive/Documentos/Repositories/Amerike/3th-semester/Cafeteria
--Menu/Assets/Img/Diagrams/DiagramaCasos/Diagrama-casos-user.png, id=147, 457.71
-pt x 332.442pt>
-File: C:/Users/victo/OneDrive/Documentos/Repositories/Amerike/3th-semester/Cafe
-teria-Menu/Assets/Img/Diagrams/DiagramaCasos/Diagrama-casos-user.png Graphic fi
-le (type png)
-<use C:/Users/victo/OneDrive/Documentos/Repositories/Amerike/3th-semester/Cafet
-eria-Menu/Assets/Img/Diagrams/DiagramaCasos/Diagrama-casos-user.png>
-Package pdftex.def Info: C:/Users/victo/OneDrive/Documentos/Repositories/Amerik
-e/3th-semester/Cafeteria-Menu/Assets/Img/Diagrams/DiagramaCasos/Diagrama-casos-
-user.png  used on input line 75.
+<C:/xampp/htdocs/Cafeteria-Menu/docImg/Img/Diagrams/DiagramaCasos/Diagrama-caso
+s-user.png, id=147, 457.71pt x 332.442pt>
+File: C:/xampp/htdocs/Cafeteria-Menu/docImg/Img/Diagrams/DiagramaCasos/Diagrama
+-casos-user.png Graphic file (type png)
+<use C:/xampp/htdocs/Cafeteria-Menu/docImg/Img/Diagrams/DiagramaCasos/Diagrama-
+casos-user.png>
+Package pdftex.def Info: C:/xampp/htdocs/Cafeteria-Menu/docImg/Img/Diagrams/Dia
+gramaCasos/Diagrama-casos-user.png  used on input line 77.
 (pdftex.def)             Requested size: 390.0pt x 283.27197pt.
-<C:/Users/victo/OneDrive/Documentos/Repositories/Amerike/3th-semester/Cafeteria
--Menu/Assets/Img/Diagrams/DiagramaCasos/Diagrama-casos-receptionist.png, id=149
-, 309.5565pt x 102.3825pt>
-File: C:/Users/victo/OneDrive/Documentos/Repositories/Amerike/3th-semester/Cafe
-teria-Menu/Assets/Img/Diagrams/DiagramaCasos/Diagrama-casos-receptionist.png Gr
-aphic file (type png)
-<use C:/Users/victo/OneDrive/Documentos/Repositories/Amerike/3th-semester/Cafet
-eria-Menu/Assets/Img/Diagrams/DiagramaCasos/Diagrama-casos-receptionist.png>
-Package pdftex.def Info: C:/Users/victo/OneDrive/Documentos/Repositories/Amerik
-e/3th-semester/Cafeteria-Menu/Assets/Img/Diagrams/DiagramaCasos/Diagrama-casos-
-receptionist.png  used on input line 82.
+<C:/xampp/htdocs/Cafeteria-Menu/docImg/Img/Diagrams/DiagramaCasos/Diagrama-caso
+s-receptionist.png, id=149, 309.5565pt x 102.3825pt>
+File: C:/xampp/htdocs/Cafeteria-Menu/docImg/Img/Diagrams/DiagramaCasos/Diagrama
+-casos-receptionist.png Graphic file (type png)
+<use C:/xampp/htdocs/Cafeteria-Menu/docImg/Img/Diagrams/DiagramaCasos/Diagrama-
+casos-receptionist.png>
+Package pdftex.def Info: C:/xampp/htdocs/Cafeteria-Menu/docImg/Img/Diagrams/Dia
+gramaCasos/Diagrama-casos-receptionist.png  used on input line 85.
 (pdftex.def)             Requested size: 390.0pt x 128.99794pt.
-<C:/Users/victo/OneDrive/Documentos/Repositories/Amerike/3th-semester/Cafeteria
--Menu/Assets/Img/Diagrams/DiagramaCasos/Diagrama-casos-kitchen.png, id=150, 325
-.81725pt x 105.39375pt>
-File: C:/Users/victo/OneDrive/Documentos/Repositories/Amerike/3th-semester/Cafe
-teria-Menu/Assets/Img/Diagrams/DiagramaCasos/Diagrama-casos-kitchen.png Graphic
- file (type png)
-<use C:/Users/victo/OneDrive/Documentos/Repositories/Amerike/3th-semester/Cafet
-eria-Menu/Assets/Img/Diagrams/DiagramaCasos/Diagrama-casos-kitchen.png>
-Package pdftex.def Info: C:/Users/victo/OneDrive/Documentos/Repositories/Amerik
-e/3th-semester/Cafeteria-Menu/Assets/Img/Diagrams/DiagramaCasos/Diagrama-casos-
-kitchen.png  used on input line 89.
+<C:/xampp/htdocs/Cafeteria-Menu/docImg/Img/Diagrams/DiagramaCasos/Diagrama-caso
+s-kitchen.png, id=150, 325.81725pt x 105.39375pt>
+File: C:/xampp/htdocs/Cafeteria-Menu/docImg/Img/Diagrams/DiagramaCasos/Diagrama
+-casos-kitchen.png Graphic file (type png)
+<use C:/xampp/htdocs/Cafeteria-Menu/docImg/Img/Diagrams/DiagramaCasos/Diagrama-
+casos-kitchen.png>
+Package pdftex.def Info: C:/xampp/htdocs/Cafeteria-Menu/docImg/Img/Diagrams/Dia
+gramaCasos/Diagrama-casos-kitchen.png  used on input line 92.
 (pdftex.def)             Requested size: 390.0pt x 126.15665pt.
- [6 <C:/Users/victo/OneDrive/Documentos/Repositories/Amerike/3th-semester/Cafet
-eria-Menu/Assets/Img/Diagrams/DiagramaCasos/Diagrama-casos-user.png>]
-[7 <C:/Users/victo/OneDrive/Documentos/Repositories/Amerike/3th-semester/Cafete
-ria-Menu/Assets/Img/Diagrams/DiagramaCasos/Diagrama-casos-receptionist.png> <C:
-/Users/victo/OneDrive/Documentos/Repositories/Amerike/3th-semester/Cafeteria-Me
-nu/Assets/Img/Diagrams/DiagramaCasos/Diagrama-casos-kitchen.png>]
+ [6 <C:/xampp/htdocs/Cafeteria-Menu/docImg/Img/Diagrams/DiagramaCasos/Diagrama-
+casos-user.png>] [7 <C:/xampp/htdocs/Cafeteria-Menu/docImg/Img/Diagrams/Diagram
+aCasos/Diagrama-casos-receptionist.png> <C:/xampp/htdocs/Cafeteria-Menu/docImg/
+Img/Diagrams/DiagramaCasos/Diagrama-casos-kitchen.png>]
 
 ! LaTeX Error: Invalid UTF-8 byte sequence (ía.).
 
@@ -779,7 +768,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.100   \item Seleccionar una categoría.
+l.103   \item Seleccionar una categoría.
                                         
 The document does not appear to be in UTF-8 encoding.
 Try adding \UseRawInputEncoding as the first line of the file
@@ -794,7 +783,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.111   \item Seleccionar una categoría.
+l.114   \item Seleccionar una categoría.
                                         
 The document does not appear to be in UTF-8 encoding.
 Try adding \UseRawInputEncoding as the first line of the file
@@ -809,7 +798,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.114 		\subitem Revisar la información de
+l.117 		\subitem Revisar la información de
                                           l alimento.
 The document does not appear to be in UTF-8 encoding.
 Try adding \UseRawInputEncoding as the first line of the file
@@ -824,7 +813,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.117 		\subitem Regresar a la selección de
+l.120 		\subitem Regresar a la selección de
                                             categorías.
 The document does not appear to be in UTF-8 encoding.
 Try adding \UseRawInputEncoding as the first line of the file
@@ -839,7 +828,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.117 ...tem Regresar a la selección de categorías
+l.120 ...tem Regresar a la selección de categorías
                                                   .
 The document does not appear to be in UTF-8 encoding.
 Try adding \UseRawInputEncoding as the first line of the file
@@ -854,7 +843,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.119 		\subitem Regresar a la selección de
+l.122 		\subitem Regresar a la selección de
                                             categorías.
 The document does not appear to be in UTF-8 encoding.
 Try adding \UseRawInputEncoding as the first line of the file
@@ -869,7 +858,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.119 ...tem Regresar a la selección de categorías
+l.122 ...tem Regresar a la selección de categorías
                                                   .
 The document does not appear to be in UTF-8 encoding.
 Try adding \UseRawInputEncoding as the first line of the file
@@ -878,203 +867,161 @@ in the document preamble.
 Alternatively, save the file in UTF-8 using your editor or another tool
 
 [8]
-<C:/Users/victo/OneDrive/Documentos/Repositories/Amerike/3th-semester/Cafeteria
--Menu/Assets/Img/Diagrams/DiagramaComponentes/Diagrama-componentes-general.png,
- id=170, 1081.641pt x 436.029pt>
-File: C:/Users/victo/OneDrive/Documentos/Repositories/Amerike/3th-semester/Cafe
-teria-Menu/Assets/Img/Diagrams/DiagramaComponentes/Diagrama-componentes-general
-.png Graphic file (type png)
-<use C:/Users/victo/OneDrive/Documentos/Repositories/Amerike/3th-semester/Cafet
-eria-Menu/Assets/Img/Diagrams/DiagramaComponentes/Diagrama-componentes-general.
-png>
-Package pdftex.def Info: C:/Users/victo/OneDrive/Documentos/Repositories/Amerik
-e/3th-semester/Cafeteria-Menu/Assets/Img/Diagrams/DiagramaComponentes/Diagrama-
-componentes-general.png  used on input line 133.
+<C:/xampp/htdocs/Cafeteria-Menu/docImg/Img/Diagrams/DiagramaComponentes/Diagram
+a-componentes-general.png, id=170, 1081.641pt x 436.029pt>
+File: C:/xampp/htdocs/Cafeteria-Menu/docImg/Img/Diagrams/DiagramaComponentes/Di
+agrama-componentes-general.png Graphic file (type png)
+<use C:/xampp/htdocs/Cafeteria-Menu/docImg/Img/Diagrams/DiagramaComponentes/Dia
+grama-componentes-general.png>
+Package pdftex.def Info: C:/xampp/htdocs/Cafeteria-Menu/docImg/Img/Diagrams/Dia
+gramaComponentes/Diagrama-componentes-general.png  used on input line 136.
 (pdftex.def)             Requested size: 390.0pt x 157.21648pt.
-<C:/Users/victo/OneDrive/Documentos/Repositories/Amerike/3th-semester/Cafeteria
--Menu/Assets/Img/Diagrams/DiagramaClases/Diagrama-clases-general.png, id=171, 9
-77.45175pt x 337.86224pt>
-File: C:/Users/victo/OneDrive/Documentos/Repositories/Amerike/3th-semester/Cafe
-teria-Menu/Assets/Img/Diagrams/DiagramaClases/Diagrama-clases-general.png Graph
-ic file (type png)
-<use C:/Users/victo/OneDrive/Documentos/Repositories/Amerike/3th-semester/Cafet
-eria-Menu/Assets/Img/Diagrams/DiagramaClases/Diagrama-clases-general.png>
-Package pdftex.def Info: C:/Users/victo/OneDrive/Documentos/Repositories/Amerik
-e/3th-semester/Cafeteria-Menu/Assets/Img/Diagrams/DiagramaClases/Diagrama-clase
-s-general.png  used on input line 142.
+<C:/xampp/htdocs/Cafeteria-Menu/docImg/Img/Diagrams/DiagramaClases/Diagrama-cla
+ses-general.png, id=171, 977.45175pt x 337.86224pt>
+File: C:/xampp/htdocs/Cafeteria-Menu/docImg/Img/Diagrams/DiagramaClases/Diagram
+a-clases-general.png Graphic file (type png)
+<use C:/xampp/htdocs/Cafeteria-Menu/docImg/Img/Diagrams/DiagramaClases/Diagrama
+-clases-general.png>
+Package pdftex.def Info: C:/xampp/htdocs/Cafeteria-Menu/docImg/Img/Diagrams/Dia
+gramaClases/Diagrama-clases-general.png  used on input line 145.
 (pdftex.def)             Requested size: 390.0pt x 134.80739pt.
- [9 <C:/Users/victo/OneDrive/Documentos/Repositories/Amerike/3th-semester/Cafet
-eria-Menu/Assets/Img/Diagrams/DiagramaComponentes/Diagrama-componentes-general.
-png> <C:/Users/victo/OneDrive/Documentos/Repositories/Amerike/3th-semester/Cafe
-teria-Menu/Assets/Img/Diagrams/DiagramaClases/Diagrama-clases-general.png>]
-<C:/Users/victo/OneDrive/Documentos/Repositories/Amerike/3th-semester/Cafeteria
--Menu/Assets/Img/Diagrams/DiagramaSecuencia/Diagrama-secuencia-general.png, id=
-180, 713.064pt x 419.166pt>
-File: C:/Users/victo/OneDrive/Documentos/Repositories/Amerike/3th-semester/Cafe
-teria-Menu/Assets/Img/Diagrams/DiagramaSecuencia/Diagrama-secuencia-general.png
- Graphic file (type png)
-<use C:/Users/victo/OneDrive/Documentos/Repositories/Amerike/3th-semester/Cafet
-eria-Menu/Assets/Img/Diagrams/DiagramaSecuencia/Diagrama-secuencia-general.png>
-
-Package pdftex.def Info: C:/Users/victo/OneDrive/Documentos/Repositories/Amerik
-e/3th-semester/Cafeteria-Menu/Assets/Img/Diagrams/DiagramaSecuencia/Diagrama-se
-cuencia-general.png  used on input line 153.
+ [9 <C:/xampp/htdocs/Cafeteria-Menu/docImg/Img/Diagrams/DiagramaComponentes/Dia
+grama-componentes-general.png> <C:/xampp/htdocs/Cafeteria-Menu/docImg/Img/Diagr
+ams/DiagramaClases/Diagrama-clases-general.png>]
+<C:/xampp/htdocs/Cafeteria-Menu/docImg/Img/Diagrams/DiagramaSecuencia/Diagrama-
+secuencia-general.png, id=180, 713.064pt x 419.166pt>
+File: C:/xampp/htdocs/Cafeteria-Menu/docImg/Img/Diagrams/DiagramaSecuencia/Diag
+rama-secuencia-general.png Graphic file (type png)
+<use C:/xampp/htdocs/Cafeteria-Menu/docImg/Img/Diagrams/DiagramaSecuencia/Diagr
+ama-secuencia-general.png>
+Package pdftex.def Info: C:/xampp/htdocs/Cafeteria-Menu/docImg/Img/Diagrams/Dia
+gramaSecuencia/Diagrama-secuencia-general.png  used on input line 156.
 (pdftex.def)             Requested size: 390.0pt x 229.26282pt.
-<C:/Users/victo/OneDrive/Documentos/Repositories/Amerike/3th-semester/Cafeteria
--Menu/Assets/Img/Diagrams/DiagramaSecuencia/Diagrama-secuencia-LogIn.png, id=18
-1, 452.892pt x 429.40425pt>
-File: C:/Users/victo/OneDrive/Documentos/Repositories/Amerike/3th-semester/Cafe
-teria-Menu/Assets/Img/Diagrams/DiagramaSecuencia/Diagrama-secuencia-LogIn.png G
-raphic file (type png)
-<use C:/Users/victo/OneDrive/Documentos/Repositories/Amerike/3th-semester/Cafet
-eria-Menu/Assets/Img/Diagrams/DiagramaSecuencia/Diagrama-secuencia-LogIn.png>
-Package pdftex.def Info: C:/Users/victo/OneDrive/Documentos/Repositories/Amerik
-e/3th-semester/Cafeteria-Menu/Assets/Img/Diagrams/DiagramaSecuencia/Diagrama-se
-cuencia-LogIn.png  used on input line 160.
+<C:/xampp/htdocs/Cafeteria-Menu/docImg/Img/Diagrams/DiagramaSecuencia/Diagrama-
+secuencia-LogIn.png, id=181, 452.892pt x 429.40425pt>
+File: C:/xampp/htdocs/Cafeteria-Menu/docImg/Img/Diagrams/DiagramaSecuencia/Diag
+rama-secuencia-LogIn.png Graphic file (type png)
+<use C:/xampp/htdocs/Cafeteria-Menu/docImg/Img/Diagrams/DiagramaSecuencia/Diagr
+ama-secuencia-LogIn.png>
+Package pdftex.def Info: C:/xampp/htdocs/Cafeteria-Menu/docImg/Img/Diagrams/Dia
+gramaSecuencia/Diagrama-secuencia-LogIn.png  used on input line 163.
 (pdftex.def)             Requested size: 390.0pt x 369.78496pt.
-<C:/Users/victo/OneDrive/Documentos/Repositories/Amerike/3th-semester/Cafeteria
--Menu/Assets/Img/Diagrams/DiagramaSecuencia/Diagrama-secuencia-SignUp.png, id=1
-82, 268.00125pt x 440.24475pt>
-File: C:/Users/victo/OneDrive/Documentos/Repositories/Amerike/3th-semester/Cafe
-teria-Menu/Assets/Img/Diagrams/DiagramaSecuencia/Diagrama-secuencia-SignUp.png 
-Graphic file (type png)
-<use C:/Users/victo/OneDrive/Documentos/Repositories/Amerike/3th-semester/Cafet
-eria-Menu/Assets/Img/Diagrams/DiagramaSecuencia/Diagrama-secuencia-SignUp.png>
-Package pdftex.def Info: C:/Users/victo/OneDrive/Documentos/Repositories/Amerik
-e/3th-semester/Cafeteria-Menu/Assets/Img/Diagrams/DiagramaSecuencia/Diagrama-se
-cuencia-SignUp.png  used on input line 167.
+<C:/xampp/htdocs/Cafeteria-Menu/docImg/Img/Diagrams/DiagramaSecuencia/Diagrama-
+secuencia-SignUp.png, id=182, 268.00125pt x 440.24475pt>
+File: C:/xampp/htdocs/Cafeteria-Menu/docImg/Img/Diagrams/DiagramaSecuencia/Diag
+rama-secuencia-SignUp.png Graphic file (type png)
+<use C:/xampp/htdocs/Cafeteria-Menu/docImg/Img/Diagrams/DiagramaSecuencia/Diagr
+ama-secuencia-SignUp.png>
+Package pdftex.def Info: C:/xampp/htdocs/Cafeteria-Menu/docImg/Img/Diagrams/Dia
+gramaSecuencia/Diagrama-secuencia-SignUp.png  used on input line 170.
 (pdftex.def)             Requested size: 312.00119pt x 512.51817pt.
-<C:/Users/victo/OneDrive/Documentos/Repositories/Amerike/3th-semester/Cafeteria
--Menu/Assets/Img/Diagrams/DiagramaSecuencia/Diagrama-secuencia-agregar-comida.p
-ng, id=183, 436.029pt x 436.63126pt>
-File: C:/Users/victo/OneDrive/Documentos/Repositories/Amerike/3th-semester/Cafe
-teria-Menu/Assets/Img/Diagrams/DiagramaSecuencia/Diagrama-secuencia-agregar-com
-ida.png Graphic file (type png)
-<use C:/Users/victo/OneDrive/Documentos/Repositories/Amerike/3th-semester/Cafet
-eria-Menu/Assets/Img/Diagrams/DiagramaSecuencia/Diagrama-secuencia-agregar-comi
-da.png>
-Package pdftex.def Info: C:/Users/victo/OneDrive/Documentos/Repositories/Amerik
-e/3th-semester/Cafeteria-Menu/Assets/Img/Diagrams/DiagramaSecuencia/Diagrama-se
-cuencia-agregar-comida.png  used on input line 174.
+<C:/xampp/htdocs/Cafeteria-Menu/docImg/Img/Diagrams/DiagramasFlujo/DiagramaFluj
+o-SignUp-Google.png, id=183, 677.53125pt x 456.20438pt>
+File: C:/xampp/htdocs/Cafeteria-Menu/docImg/Img/Diagrams/DiagramasFlujo/Diagram
+aFlujo-SignUp-Google.png Graphic file (type png)
+<use C:/xampp/htdocs/Cafeteria-Menu/docImg/Img/Diagrams/DiagramasFlujo/Diagrama
+Flujo-SignUp-Google.png>
+Package pdftex.def Info: C:/xampp/htdocs/Cafeteria-Menu/docImg/Img/Diagrams/Dia
+gramasFlujo/DiagramaFlujo-SignUp-Google.png  used on input line 177.
+(pdftex.def)             Requested size: 390.0pt x 262.60783pt.
+<C:/xampp/htdocs/Cafeteria-Menu/docImg/Img/Diagrams/DiagramaSecuencia/Diagrama-
+secuencia-agregar-comida.png, id=184, 436.029pt x 436.63126pt>
+File: C:/xampp/htdocs/Cafeteria-Menu/docImg/Img/Diagrams/DiagramaSecuencia/Diag
+rama-secuencia-agregar-comida.png Graphic file (type png)
+<use C:/xampp/htdocs/Cafeteria-Menu/docImg/Img/Diagrams/DiagramaSecuencia/Diagr
+ama-secuencia-agregar-comida.png>
+Package pdftex.def Info: C:/xampp/htdocs/Cafeteria-Menu/docImg/Img/Diagrams/Dia
+gramaSecuencia/Diagrama-secuencia-agregar-comida.png  used on input line 184.
 (pdftex.def)             Requested size: 390.0pt x 390.55936pt.
-<C:/Users/victo/OneDrive/Documentos/Repositories/Amerike/3th-semester/Cafeteria
--Menu/Assets/Img/Diagrams/DiagramaSecuencia/Diagrama-secuencia-orders.png, id=1
-84, 390.86024pt x 437.83575pt>
-File: C:/Users/victo/OneDrive/Documentos/Repositories/Amerike/3th-semester/Cafe
-teria-Menu/Assets/Img/Diagrams/DiagramaSecuencia/Diagrama-secuencia-orders.png 
-Graphic file (type png)
-<use C:/Users/victo/OneDrive/Documentos/Repositories/Amerike/3th-semester/Cafet
-eria-Menu/Assets/Img/Diagrams/DiagramaSecuencia/Diagrama-secuencia-orders.png>
-Package pdftex.def Info: C:/Users/victo/OneDrive/Documentos/Repositories/Amerik
-e/3th-semester/Cafeteria-Menu/Assets/Img/Diagrams/DiagramaSecuencia/Diagrama-se
-cuencia-orders.png  used on input line 181.
+<C:/xampp/htdocs/Cafeteria-Menu/docImg/Img/Diagrams/DiagramaSecuencia/Diagrama-
+secuencia-orders.png, id=185, 390.86024pt x 437.83575pt>
+File: C:/xampp/htdocs/Cafeteria-Menu/docImg/Img/Diagrams/DiagramaSecuencia/Diag
+rama-secuencia-orders.png Graphic file (type png)
+<use C:/xampp/htdocs/Cafeteria-Menu/docImg/Img/Diagrams/DiagramaSecuencia/Diagr
+ama-secuencia-orders.png>
+Package pdftex.def Info: C:/xampp/htdocs/Cafeteria-Menu/docImg/Img/Diagrams/Dia
+gramaSecuencia/Diagrama-secuencia-orders.png  used on input line 191.
 (pdftex.def)             Requested size: 390.0pt x 436.886pt.
-
-[10 <C:/Users/victo/OneDrive/Documentos/Repositories/Amerike/3th-semester/Cafet
-eria-Menu/Assets/Img/Diagrams/DiagramaSecuencia/Diagrama-secuencia-general.png>
-] [11 <C:/Users/victo/OneDrive/Documentos/Repositories/Amerike/3th-semester/Caf
-eteria-Menu/Assets/Img/Diagrams/DiagramaSecuencia/Diagrama-secuencia-LogIn.png>
-] [12 <C:/Users/victo/OneDrive/Documentos/Repositories/Amerike/3th-semester/Caf
-eteria-Menu/Assets/Img/Diagrams/DiagramaSecuencia/Diagrama-secuencia-SignUp.png
->] [13 <C:/Users/victo/OneDrive/Documentos/Repositories/Amerike/3th-semester/Ca
-feteria-Menu/Assets/Img/Diagrams/DiagramaSecuencia/Diagrama-secuencia-agregar-c
-omida.png>] [14 <C:/Users/victo/OneDrive/Documentos/Repositories/Amerike/3th-se
-mester/Cafeteria-Menu/Assets/Img/Diagrams/DiagramaSecuencia/Diagrama-secuencia-
-orders.png>]
-<C:/Users/victo/OneDrive/Documentos/Repositories/Amerike/3th-semester/Cafeteria
--Menu/Assets/Img/Diagrams/DiagramasFlujo/DiagramaFlujo-LogIn.png, id=216, 542.7
-7782pt x 571.38469pt>
-File: C:/Users/victo/OneDrive/Documentos/Repositories/Amerike/3th-semester/Cafe
-teria-Menu/Assets/Img/Diagrams/DiagramasFlujo/DiagramaFlujo-LogIn.png Graphic f
-ile (type png)
-<use C:/Users/victo/OneDrive/Documentos/Repositories/Amerike/3th-semester/Cafet
-eria-Menu/Assets/Img/Diagrams/DiagramasFlujo/DiagramaFlujo-LogIn.png>
-Package pdftex.def Info: C:/Users/victo/OneDrive/Documentos/Repositories/Amerik
-e/3th-semester/Cafeteria-Menu/Assets/Img/Diagrams/DiagramasFlujo/DiagramaFlujo-
-LogIn.png  used on input line 192.
+ [10 <C:/xampp/htdocs/Cafeteria-Menu/docImg/Img/Diagrams/DiagramaSecuencia/Diag
+rama-secuencia-general.png>] [11 <C:/xampp/htdocs/Cafeteria-Menu/docImg/Img/Dia
+grams/DiagramaSecuencia/Diagrama-secuencia-LogIn.png>] [12 <C:/xampp/htdocs/Caf
+eteria-Menu/docImg/Img/Diagrams/DiagramaSecuencia/Diagrama-secuencia-SignUp.png
+>] [13 <C:/xampp/htdocs/Cafeteria-Menu/docImg/Img/Diagrams/DiagramasFlujo/Diagr
+amaFlujo-SignUp-Google.png>] [14 <C:/xampp/htdocs/Cafeteria-Menu/docImg/Img/Dia
+grams/DiagramaSecuencia/Diagrama-secuencia-agregar-comida.png>] [15 <C:/xampp/h
+tdocs/Cafeteria-Menu/docImg/Img/Diagrams/DiagramaSecuencia/Diagrama-secuencia-o
+rders.png>]
+<C:/xampp/htdocs/Cafeteria-Menu/docImg/Img/Diagrams/DiagramasFlujo/DiagramaFluj
+o-LogIn.png, id=223, 542.77782pt x 571.38469pt>
+File: C:/xampp/htdocs/Cafeteria-Menu/docImg/Img/Diagrams/DiagramasFlujo/Diagram
+aFlujo-LogIn.png Graphic file (type png)
+<use C:/xampp/htdocs/Cafeteria-Menu/docImg/Img/Diagrams/DiagramasFlujo/Diagrama
+Flujo-LogIn.png>
+Package pdftex.def Info: C:/xampp/htdocs/Cafeteria-Menu/docImg/Img/Diagrams/Dia
+gramasFlujo/DiagramaFlujo-LogIn.png  used on input line 202.
 (pdftex.def)             Requested size: 350.99762pt x 369.51242pt.
-<C:/Users/victo/OneDrive/Documentos/Repositories/Amerike/3th-semester/Cafeteria
--Menu/Assets/Img/Diagrams/DiagramasFlujo/DiagramaFlujo-SignUp.png, id=217, 288.
-3272pt x 478.03593pt>
-File: C:/Users/victo/OneDrive/Documentos/Repositories/Amerike/3th-semester/Cafe
-teria-Menu/Assets/Img/Diagrams/DiagramasFlujo/DiagramaFlujo-SignUp.png Graphic 
-file (type png)
-<use C:/Users/victo/OneDrive/Documentos/Repositories/Amerike/3th-semester/Cafet
-eria-Menu/Assets/Img/Diagrams/DiagramasFlujo/DiagramaFlujo-SignUp.png>
-Package pdftex.def Info: C:/Users/victo/OneDrive/Documentos/Repositories/Amerik
-e/3th-semester/Cafeteria-Menu/Assets/Img/Diagrams/DiagramasFlujo/DiagramaFlujo-
-SignUp.png  used on input line 199.
+<C:/xampp/htdocs/Cafeteria-Menu/docImg/Img/Diagrams/DiagramasFlujo/DiagramaFluj
+o-SignUp.png, id=224, 288.3272pt x 478.03593pt>
+File: C:/xampp/htdocs/Cafeteria-Menu/docImg/Img/Diagrams/DiagramasFlujo/Diagram
+aFlujo-SignUp.png Graphic file (type png)
+<use C:/xampp/htdocs/Cafeteria-Menu/docImg/Img/Diagrams/DiagramasFlujo/Diagrama
+Flujo-SignUp.png>
+Package pdftex.def Info: C:/xampp/htdocs/Cafeteria-Menu/docImg/Img/Diagrams/Dia
+gramasFlujo/DiagramaFlujo-SignUp.png  used on input line 209.
 (pdftex.def)             Requested size: 312.00119pt x 517.3069pt.
-<C:/Users/victo/OneDrive/Documentos/Repositories/Amerike/3th-semester/Cafeteria
--Menu/Assets/Img/Diagrams/DiagramasFlujo/DiagramaFlujo-UI.png, id=218, 1228.59p
-t x 567.62062pt>
-File: C:/Users/victo/OneDrive/Documentos/Repositories/Amerike/3th-semester/Cafe
-teria-Menu/Assets/Img/Diagrams/DiagramasFlujo/DiagramaFlujo-UI.png Graphic file
- (type png)
-<use C:/Users/victo/OneDrive/Documentos/Repositories/Amerike/3th-semester/Cafet
-eria-Menu/Assets/Img/Diagrams/DiagramasFlujo/DiagramaFlujo-UI.png>
-Package pdftex.def Info: C:/Users/victo/OneDrive/Documentos/Repositories/Amerik
-e/3th-semester/Cafeteria-Menu/Assets/Img/Diagrams/DiagramasFlujo/DiagramaFlujo-
-UI.png  used on input line 206.
+<C:/xampp/htdocs/Cafeteria-Menu/docImg/Img/Diagrams/DiagramasFlujo/DiagramaFluj
+o-UI.png, id=225, 1228.59pt x 567.62062pt>
+File: C:/xampp/htdocs/Cafeteria-Menu/docImg/Img/Diagrams/DiagramasFlujo/Diagram
+aFlujo-UI.png Graphic file (type png)
+<use C:/xampp/htdocs/Cafeteria-Menu/docImg/Img/Diagrams/DiagramasFlujo/Diagrama
+Flujo-UI.png>
+Package pdftex.def Info: C:/xampp/htdocs/Cafeteria-Menu/docImg/Img/Diagrams/Dia
+gramasFlujo/DiagramaFlujo-UI.png  used on input line 216.
 (pdftex.def)             Requested size: 390.0pt x 180.18723pt.
-<C:/Users/victo/OneDrive/Documentos/Repositories/Amerike/3th-semester/Cafeteria
--Menu/Assets/Img/Diagrams/DiagramasFlujo/DiagramFlujo-Basket.png, id=219, 411.7
-8844pt x 312.41719pt>
-File: C:/Users/victo/OneDrive/Documentos/Repositories/Amerike/3th-semester/Cafe
-teria-Menu/Assets/Img/Diagrams/DiagramasFlujo/DiagramFlujo-Basket.png Graphic f
-ile (type png)
-<use C:/Users/victo/OneDrive/Documentos/Repositories/Amerike/3th-semester/Cafet
-eria-Menu/Assets/Img/Diagrams/DiagramasFlujo/DiagramFlujo-Basket.png>
-Package pdftex.def Info: C:/Users/victo/OneDrive/Documentos/Repositories/Amerik
-e/3th-semester/Cafeteria-Menu/Assets/Img/Diagrams/DiagramasFlujo/DiagramFlujo-B
-asket.png  used on input line 213.
+<C:/xampp/htdocs/Cafeteria-Menu/docImg/Img/Diagrams/DiagramasFlujo/DiagramFlujo
+-Basket.png, id=226, 411.78844pt x 312.41719pt>
+File: C:/xampp/htdocs/Cafeteria-Menu/docImg/Img/Diagrams/DiagramasFlujo/Diagram
+Flujo-Basket.png Graphic file (type png)
+<use C:/xampp/htdocs/Cafeteria-Menu/docImg/Img/Diagrams/DiagramasFlujo/DiagramF
+lujo-Basket.png>
+Package pdftex.def Info: C:/xampp/htdocs/Cafeteria-Menu/docImg/Img/Diagrams/Dia
+gramasFlujo/DiagramFlujo-Basket.png  used on input line 223.
 (pdftex.def)             Requested size: 390.0pt x 295.88889pt.
- [15 <C:/Users/victo/OneDrive/Documentos/Repositories/Amerike/3th-semester/Cafe
-teria-Menu/Assets/Img/Diagrams/DiagramasFlujo/DiagramaFlujo-LogIn.png>] [16 <C:
-/Users/victo/OneDrive/Documentos/Repositories/Amerike/3th-semester/Cafeteria-Me
-nu/Assets/Img/Diagrams/DiagramasFlujo/DiagramaFlujo-SignUp.png>]
-[17 <C:/Users/victo/OneDrive/Documentos/Repositories/Amerike/3th-semester/Cafet
-eria-Menu/Assets/Img/Diagrams/DiagramasFlujo/DiagramaFlujo-UI.png> <C:/Users/vi
-cto/OneDrive/Documentos/Repositories/Amerike/3th-semester/Cafeteria-Menu/Assets
-/Img/Diagrams/DiagramasFlujo/DiagramFlujo-Basket.png>]
-<C:/Users/victo/OneDrive/Documentos/Repositories/Amerike/3th-semester/Cafeteria
--Menu/Assets/Img/Diagrams/DiagramasEstado/DiagramaEstados.png, id=240, 609.0253
-1pt x 281.55188pt>
-File: C:/Users/victo/OneDrive/Documentos/Repositories/Amerike/3th-semester/Cafe
-teria-Menu/Assets/Img/Diagrams/DiagramasEstado/DiagramaEstados.png Graphic file
- (type png)
-<use C:/Users/victo/OneDrive/Documentos/Repositories/Amerike/3th-semester/Cafet
-eria-Menu/Assets/Img/Diagrams/DiagramasEstado/DiagramaEstados.png>
-Package pdftex.def Info: C:/Users/victo/OneDrive/Documentos/Repositories/Amerik
-e/3th-semester/Cafeteria-Menu/Assets/Img/Diagrams/DiagramasEstado/DiagramaEstad
-os.png  used on input line 223.
+ [16 <C:/xampp/htdocs/Cafeteria-Menu/docImg/Img/Diagrams/DiagramasFlujo/Diagram
+aFlujo-LogIn.png>] [17 <C:/xampp/htdocs/Cafeteria-Menu/docImg/Img/Diagrams/Diag
+ramasFlujo/DiagramaFlujo-SignUp.png>] [18 <C:/xampp/htdocs/Cafeteria-Menu/docIm
+g/Img/Diagrams/DiagramasFlujo/DiagramaFlujo-UI.png> <C:/xampp/htdocs/Cafeteria-
+Menu/docImg/Img/Diagrams/DiagramasFlujo/DiagramFlujo-Basket.png>]
+<C:/xampp/htdocs/Cafeteria-Menu/docImg/Img/Diagrams/DiagramasEstado/DiagramaEst
+ados.png, id=247, 609.02531pt x 281.55188pt>
+File: C:/xampp/htdocs/Cafeteria-Menu/docImg/Img/Diagrams/DiagramasEstado/Diagra
+maEstados.png Graphic file (type png)
+<use C:/xampp/htdocs/Cafeteria-Menu/docImg/Img/Diagrams/DiagramasEstado/Diagram
+aEstados.png>
+Package pdftex.def Info: C:/xampp/htdocs/Cafeteria-Menu/docImg/Img/Diagrams/Dia
+gramasEstado/DiagramaEstados.png  used on input line 233.
 (pdftex.def)             Requested size: 390.0pt x 180.29997pt.
- [18 <C:/Users/victo/OneDrive/Documentos/Repositories/Amerike/3th-semester/Cafe
-teria-Menu/Assets/Img/Diagrams/DiagramasEstado/DiagramaEstados.png>]
-<C:/Users/victo/OneDrive/Documentos/Repositories/Amerike/3th-semester/Cafeteria
--Menu/Assets/Img/Art/UI/UI-prototype.jpg, id=247, 772.8875pt x 656.4525pt>
-File: C:/Users/victo/OneDrive/Documentos/Repositories/Amerike/3th-semester/Cafe
-teria-Menu/Assets/Img/Art/UI/UI-prototype.jpg Graphic file (type jpg)
-<use C:/Users/victo/OneDrive/Documentos/Repositories/Amerike/3th-semester/Cafet
-eria-Menu/Assets/Img/Art/UI/UI-prototype.jpg>
-Package pdftex.def Info: C:/Users/victo/OneDrive/Documentos/Repositories/Amerik
-e/3th-semester/Cafeteria-Menu/Assets/Img/Art/UI/UI-prototype.jpg  used on input
- line 233.
+ [19 <C:/xampp/htdocs/Cafeteria-Menu/docImg/Img/Diagrams/DiagramasEstado/Diagra
+maEstados.png>]
+<C:/xampp/htdocs/Cafeteria-Menu/docImg//Img/Art/UI/UI-prototype.jpg, id=255, 77
+2.8875pt x 656.4525pt>
+File: C:/xampp/htdocs/Cafeteria-Menu/docImg//Img/Art/UI/UI-prototype.jpg Graphi
+c file (type jpg)
+<use C:/xampp/htdocs/Cafeteria-Menu/docImg//Img/Art/UI/UI-prototype.jpg>
+Package pdftex.def Info: C:/xampp/htdocs/Cafeteria-Menu/docImg//Img/Art/UI/UI-p
+rototype.jpg  used on input line 243.
 (pdftex.def)             Requested size: 390.0pt x 331.25047pt.
-<C:/Users/victo/OneDrive/Documentos/Repositories/Amerike/3th-semester/Cafeteria
--Menu/Assets/Img/Art/UI/UI.png, id=248, 982.67125pt x 506.89375pt>
-File: C:/Users/victo/OneDrive/Documentos/Repositories/Amerike/3th-semester/Cafe
-teria-Menu/Assets/Img/Art/UI/UI.png Graphic file (type png)
-<use C:/Users/victo/OneDrive/Documentos/Repositories/Amerike/3th-semester/Cafet
-eria-Menu/Assets/Img/Art/UI/UI.png>
-Package pdftex.def Info: C:/Users/victo/OneDrive/Documentos/Repositories/Amerik
-e/3th-semester/Cafeteria-Menu/Assets/Img/Art/UI/UI.png  used on input line 240.
-
+<C:/xampp/htdocs/Cafeteria-Menu/docImg/Img/Art/UI/UI.png, id=256, 982.67125pt x
+ 506.89375pt>
+File: C:/xampp/htdocs/Cafeteria-Menu/docImg/Img/Art/UI/UI.png Graphic file (typ
+e png)
+<use C:/xampp/htdocs/Cafeteria-Menu/docImg/Img/Art/UI/UI.png>
+Package pdftex.def Info: C:/xampp/htdocs/Cafeteria-Menu/docImg/Img/Art/UI/UI.pn
+g  used on input line 250.
 (pdftex.def)             Requested size: 390.0pt x 201.17606pt.
- [19 <C:/Users/victo/OneDrive/Documentos/Repositories/Amerike/3th-semester/Cafe
-teria-Menu/Assets/Img/Art/UI/UI-prototype.jpg>]
+ [20 <C:/xampp/htdocs/Cafeteria-Menu/docImg//Img/Art/UI/UI-prototype.jpg>]
 ! Undefined control sequence.
-l.246 \p
+l.256 \p
          . . .
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1082,10 +1029,9 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-[20 <C:/Users/victo/OneDrive/Documentos/Repositories/Amerike/3th-semester/Cafet
-eria-Menu/Assets/Img/Art/UI/UI.png>]
+[21 <C:/xampp/htdocs/Cafeteria-Menu/docImg/Img/Art/UI/UI.png>]
 ! Undefined control sequence.
-l.251 \p
+l.261 \p
          Somos una empresa con experiencia en el desarrollo de software inte...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1093,18 +1039,16 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-<C:/Users/victo/OneDrive/Documentos/Repositories/Amerike/3th-semester/Cafeteria
--Menu/Assets/Img/Art/EclipseLogo.png, id=261, 440.24475pt x 394.47375pt>
-File: C:/Users/victo/OneDrive/Documentos/Repositories/Amerike/3th-semester/Cafe
-teria-Menu/Assets/Img/Art/EclipseLogo.png Graphic file (type png)
-<use C:/Users/victo/OneDrive/Documentos/Repositories/Amerike/3th-semester/Cafet
-eria-Menu/Assets/Img/Art/EclipseLogo.png>
-Package pdftex.def Info: C:/Users/victo/OneDrive/Documentos/Repositories/Amerik
-e/3th-semester/Cafeteria-Menu/Assets/Img/Art/EclipseLogo.png  used on input lin
-e 256.
+<C:/xampp/htdocs/Cafeteria-Menu/docImg/Img/Art/EclipseLogo.png, id=268, 440.244
+75pt x 394.47375pt>
+File: C:/xampp/htdocs/Cafeteria-Menu/docImg/Img/Art/EclipseLogo.png Graphic fil
+e (type png)
+<use C:/xampp/htdocs/Cafeteria-Menu/docImg/Img/Art/EclipseLogo.png>
+Package pdftex.def Info: C:/xampp/htdocs/Cafeteria-Menu/docImg/Img/Art/EclipseL
+ogo.png  used on input line 266.
 (pdftex.def)             Requested size: 350.99762pt x 314.52005pt.
 ! Undefined control sequence.
-l.262 \p
+l.272 \p
          El nombre de Famtime Food se refiere a la combinacion de las palabr...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1112,34 +1056,27 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-<C:/Users/victo/OneDrive/Documentos/Repositories/Amerike/3th-semester/Cafeteria
--Menu/Assets/Img/Art/Icon/App/Icon.png, id=262, 233.87375pt x 233.87375pt>
-File: C:/Users/victo/OneDrive/Documentos/Repositories/Amerike/3th-semester/Cafe
-teria-Menu/Assets/Img/Art/Icon/App/Icon.png Graphic file (type png)
-<use C:/Users/victo/OneDrive/Documentos/Repositories/Amerike/3th-semester/Cafet
-eria-Menu/Assets/Img/Art/Icon/App/Icon.png>
-Package pdftex.def Info: C:/Users/victo/OneDrive/Documentos/Repositories/Amerik
-e/3th-semester/Cafeteria-Menu/Assets/Img/Art/Icon/App/Icon.png  used on input l
-ine 265.
+<C:/xampp/htdocs/Cafeteria-Menu/docImg/Img/Art/Icon/App/Icon.png, id=269, 233.8
+7375pt x 233.87375pt>
+File: C:/xampp/htdocs/Cafeteria-Menu/docImg/Img/Art/Icon/App/Icon.png Graphic f
+ile (type png)
+<use C:/xampp/htdocs/Cafeteria-Menu/docImg/Img/Art/Icon/App/Icon.png>
+Package pdftex.def Info: C:/xampp/htdocs/Cafeteria-Menu/docImg/Img/Art/Icon/App
+/Icon.png  used on input line 275.
 (pdftex.def)             Requested size: 117.00119pt x 117.00081pt.
-[21 <C:/Users/victo/OneDrive/Documentos/Repositories/Amerike/3th-semester/Cafet
-eria-Menu/Assets/Img/Art/EclipseLogo.png>]
-<C:/Users/victo/OneDrive/Documentos/Repositories/Amerike/3th-semester/Cafeteria
--Menu/Assets/Img/Art/UI/Art&&Palette.png, id=269, 529.98pt x 271.0125pt>
-File: C:/Users/victo/OneDrive/Documentos/Repositories/Amerike/3th-semester/Cafe
-teria-Menu/Assets/Img/Art/UI/Art&&Palette.png Graphic file (type png)
-<use C:/Users/victo/OneDrive/Documentos/Repositories/Amerike/3th-semester/Cafet
-eria-Menu/Assets/Img/Art/UI/Art&&Palette.png>
-Package pdftex.def Info: C:/Users/victo/OneDrive/Documentos/Repositories/Amerik
-e/3th-semester/Cafeteria-Menu/Assets/Img/Art/UI/Art&&Palette.png  used on input
- line 274.
+[22 <C:/xampp/htdocs/Cafeteria-Menu/docImg/Img/Art/EclipseLogo.png>]
+<C:/xampp/htdocs/Cafeteria-Menu/docImg/Img/Art/UI/Art&&Palette.png, id=276, 529
+.98pt x 271.0125pt>
+File: C:/xampp/htdocs/Cafeteria-Menu/docImg/Img/Art/UI/Art&&Palette.png Graphic
+ file (type png)
+<use C:/xampp/htdocs/Cafeteria-Menu/docImg/Img/Art/UI/Art&&Palette.png>
+Package pdftex.def Info: C:/xampp/htdocs/Cafeteria-Menu/docImg/Img/Art/UI/Art&&
+Palette.png  used on input line 284.
 (pdftex.def)             Requested size: 390.0pt x 199.4337pt.
- [22 <C:/Users/victo/OneDrive/Documentos/Repositories/Amerike/3th-semester/Cafe
-teria-Menu/Assets/Img/Art/Icon/App/Icon.png> <C:/Users/victo/OneDrive/Documento
-s/Repositories/Amerike/3th-semester/Cafeteria-Menu/Assets/Img/Art/UI/Art&&Palet
-te.png>]
+ [23 <C:/xampp/htdocs/Cafeteria-Menu/docImg/Img/Art/Icon/App/Icon.png> <C:/xamp
+p/htdocs/Cafeteria-Menu/docImg/Img/Art/UI/Art&&Palette.png>]
 ! Undefined control sequence.
-l.282 \p
+l.292 \p
          El prototipo fue hecho mediante el uso del software de Figma
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1148,19 +1085,19 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 Package hyperref Info: bookmark level for unknown todo defaults to 0 on input l
-ine 286.
+ine 296.
 
-Overfull \hbox (5.89961pt too wide) in paragraph at lines 286--286
+Overfull \hbox (5.89961pt too wide) in paragraph at lines 296--296
 [][][]\OT1/cmr/m/n/12 Funcion 
  []
 
 
-Overfull \hbox (5.89961pt too wide) in paragraph at lines 286--286
+Overfull \hbox (5.89961pt too wide) in paragraph at lines 296--296
 [][][]\OT1/cmr/m/n/12 Funcion 
  []
 
 ! Undefined control sequence.
-l.287 \p
+l.297 \p
          La funcion de ver mas informacion solo se encuentra representada en...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1168,7 +1105,7 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-[23] (Doc-cafeteria.aux
+[24] (Doc-cafeteria.aux
 LaTeX Info: Redefining \. on input line 22.
 LaTeX Info: Redefining \% on input line 22.
 )
@@ -1184,10 +1121,10 @@ Package rerunfilecheck Info: File `Doc-cafeteria.out' has not changed.
 (rerunfilecheck)             Checksum: B84DF608A24E79111CF9CFDAEB6A80C3;3283.
  ) 
 Here is how much of TeX's memory you used:
- 21230 strings out of 475248
- 420853 string characters out of 5757814
+ 21240 strings out of 475248
+ 413908 string characters out of 5757814
  1927801 words of memory out of 5000000
- 42353 multiletter control sequences out of 15000+600000
+ 42361 multiletter control sequences out of 15000+600000
  563584 words of font info for 54 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  99i,9n,101p,437b,971s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -1197,9 +1134,9 @@ fonts/cm/cmr12.pfb><C:/Users/victo/AppData/Local/Programs/MiKTeX/fonts/type1/pu
 blic/amsfonts/cm/cmr17.pfb><C:/Users/victo/AppData/Local/Programs/MiKTeX/fonts/
 type1/public/amsfonts/cm/cmr8.pfb><C:/Users/victo/AppData/Local/Programs/MiKTeX
 /fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on Doc-cafeteria.pdf (23 pages, 824777 bytes).
+Output written on Doc-cafeteria.pdf (24 pages, 866456 bytes).
 PDF statistics:
- 324 PDF objects out of 1000 (max. 8388607)
- 69 named destinations out of 1000 (max. 500000)
- 297 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 331 PDF objects out of 1000 (max. 8388607)
+ 71 named destinations out of 1000 (max. 500000)
+ 302 words of extra memory for PDF output out of 10000 (max. 10000000)
 

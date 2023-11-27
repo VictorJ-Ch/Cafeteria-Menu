@@ -13,12 +13,12 @@
 \contentsline {subsection}{\numberline {5.1}Diagrama de componentes}{9}{subsection.5.1}%
 \contentsline {subsection}{\numberline {5.2}Diagrama de clases}{9}{subsection.5.2}%
 \contentsline {subsection}{\numberline {5.3}Diagrama de secuencia}{10}{subsection.5.3}%
-\contentsline {subsection}{\numberline {5.4}Diagrama de flujo}{15}{subsection.5.4}%
-\contentsline {subsection}{\numberline {5.5}Diagrama de estados}{18}{subsection.5.5}%
-\contentsline {section}{\numberline {6}Propuesta pantalla de sitios}{19}{section.6}%
-\contentsline {section}{\numberline {7}Manual de identidad}{21}{section.7}%
-\contentsline {subsection}{\numberline {7.1}Acerca de la marca}{21}{subsection.7.1}%
-\contentsline {subsection}{\numberline {7.2}Nombre de la marca}{21}{subsection.7.2}%
-\contentsline {subsection}{\numberline {7.3}Logo de la aplicacion Famtime Food}{22}{subsection.7.3}%
-\contentsline {subsection}{\numberline {7.4}Paletas y arte}{22}{subsection.7.4}%
-\contentsline {subsection}{\numberline {7.5}Prototype}{23}{subsection.7.5}%
+\contentsline {subsection}{\numberline {5.4}Diagrama de flujo}{16}{subsection.5.4}%
+\contentsline {subsection}{\numberline {5.5}Diagrama de estados}{19}{subsection.5.5}%
+\contentsline {section}{\numberline {6}Propuesta pantalla de sitios}{20}{section.6}%
+\contentsline {section}{\numberline {7}Manual de identidad}{22}{section.7}%
+\contentsline {subsection}{\numberline {7.1}Acerca de la marca}{22}{subsection.7.1}%
+\contentsline {subsection}{\numberline {7.2}Nombre de la marca}{22}{subsection.7.2}%
+\contentsline {subsection}{\numberline {7.3}Logo de la aplicacion Famtime Food}{23}{subsection.7.3}%
+\contentsline {subsection}{\numberline {7.4}Paletas y arte}{23}{subsection.7.4}%
+\contentsline {subsection}{\numberline {7.5}Prototype}{24}{subsection.7.5}%
