@@ -1,103 +1,71 @@
-body {
-    margin: 0;
-    padding: 0;
-    border: 0;
-    background-color: white;
+.navbar{
+  background-color: #7A4D25;
+  .img-sm{
+      max-height:4rem;
   }
-  
-  @media (max-width: 576px) {
-    .legal {
-      margin: 20px;
+  .margin{
+      margin-left: 1rem;
+  }
+}
+body{
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  margin: 0;
+}
+main{
+  background-color: #C77D3C;
+  flex: 1;
+}
+.container{
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+  .card{
+    .card-header{
+        font-weight: bold;
+        font-size: 1.5rem;
+        font-family: 'Cherry Swash', serif;
+        background-color: #7A6049;
+        color: #FFFF;
     }
+    .card-body{
+        background-color: #7A4D25;
+        .card-title{
+        font-weight: bold;
+        font-family: 'Cherry Swash', serif;
+        color: #FFFF;
+        }
+        .card-text{
+        font-family: 'Comfortaa', sans-serif;
+        color: #FFFF;
+        }
+    }
+}
+}
+footer{
+  position: relative;
+  .card{
+      .card-header{
+          font-weight: bold;
+          font-size: 1.5rem;
+          font-family: 'Cherry Swash', serif;
+          background-color: #7A6049;
+          color: #FFFF;
+      }
+      .card-body{
+          background-color: #7A4D25;
+          .card-title{
+          font-weight: bold;
+          font-family: 'Cherry Swash', serif;
+          color: #FFFF;
+          margin-top: .5rem;
+          }
+          .card-text{
+          margin-top: 1rem;
+          margin-bottom: 1rem;
+          font-family: 'Comfortaa', sans-serif;
+          color: #FFFF;
+          }
+      }
   }
-  
-  .legal {
-    font-family: "Open Sans", sans-serif;
-    font-size: 15px;
-    font-weight: 400;
-    color: #666;
-    line-height: 1.5;
-    margin: 200px;
-    border-radius: 20px;
-    background-color: white;
-    overflow: hidden;
-  }
-  
-  .legal .legal-header {
-    font-size: 2em!important;
-    font-weight: 400;
-    font-style: normal;
-    text-align: center;
-    padding: 40px 0;
-    border-bottom: 1px solid #e6e6e6;
-  }
-  
-  .legal .legal-header h1 {
-    font-size: inherit !important;
-    font-weight: inherit !important;
-  }
-  
-  .legal a {
-    padding-left: 2px;
-  }
-  
-  .legal strong {
-    font-size: 18px;
-    font-weight: 700;
-  }
-  
-  .legal .content {
-    padding: 20px;
-  }
-  
-  .terms-restaurant {
-    height: auto;
-    width: 100%;
-    text-align: center;
-    background-color: #f7f7f7;
-    padding: 40px 0;
-    border-bottom: 1px solid #e6e6e6;
-  }
-  
-  .terms-restaurant .one {
-    color: #8d8d8d;
-    font-size: 16px;
-    margin: 0;
-  }
-  
-  .terms-restaurant .two {
-    color: #4d4d4d;
-    font-size: 30px;
-    margin: 0 0 30px;
-  }
-  
-  .terms-restaurant .three {
-    color: #a6a6a6;
-    font-size: 16px;
-    margin: 0;
-  }
-  
-  .terms-restaurant .three p {
-    margin: 0;
-  }
-  
-  footer {
-    color: white;
-    background-color: #7A4D25;
-    text-align: center;
-    box-shadow: -1px -3px 5px rgba(0, 0, 0, 0.09);
-    padding-top: 20px;
-    margin-top: auto;
-    overflow: hidden;
-  }
-  
-  footer a {
-    text-decoration: underline;
-  }
-  
-  .gradient-custom-3 {
-    background: #7A4D25;
-    background: -webkit-linear-gradient(to right, rgba(122, 77, 37, 1), rgba(199, 125, 60, 1));
-    background: linear-gradient(to right, rgba(122, 77, 37, 1), rgba(199, 125, 60, 1));
-  }
-  
+}
